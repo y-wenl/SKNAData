@@ -1,0 +1,303 @@
+{
+  "PRC_G1B6Q1M2Q2Q8A1F4X1I2Q2R6G0E6B9": {
+    "session": 20,
+    "bill_no": "2004742",
+    "bill_id": "PRC_G1B6Q1M2Q2Q8A1F4X1I2Q2R6G0E6B9",
+    "id_master": 103910,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_Z1Q6P1F2G2A8J1U4Q1A0P1E5Q4A4X5": {
+    "session": 20,
+    "bill_no": "2004741",
+    "bill_id": "PRC_Z1Q6P1F2G2A8J1U4Q1A0P1E5Q4A4X5",
+    "id_master": 103909,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_E1T6X1Z2M2B8P1N4W1L3W5E3D3S5M2": {
+    "session": 20,
+    "bill_no": "2004739",
+    "bill_id": "PRC_E1T6X1Z2M2B8P1N4W1L3W5E3D3S5M2",
+    "id_master": 103904,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_T1T6P1V2F2J8E1D4I1F3L0Y6F7R0A2": {
+    "session": 20,
+    "bill_no": "2004737",
+    "bill_id": "PRC_T1T6P1V2F2J8E1D4I1F3L0Y6F7R0A2",
+    "id_master": 103911,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_U1M6D1X2S2M8F1V4D0U9Y3Y6M7N9O6": {
+    "session": 20,
+    "bill_no": "2004736",
+    "bill_id": "PRC_U1M6D1X2S2M8F1V4D0U9Y3Y6M7N9O6",
+    "id_master": 103908,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_I1R6Z1I2N2B8Q1L4M0Q8U2L4I9S9A9": {
+    "session": 20,
+    "bill_no": "2004735",
+    "bill_id": "PRC_I1R6Z1I2N2B8Q1L4M0Q8U2L4I9S9A9",
+    "id_master": 103907,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_U1Z6P1N2N2W8W1W4O0Y7F4P2U7U4J4": {
+    "session": 20,
+    "bill_no": "2004734",
+    "bill_id": "PRC_U1Z6P1N2N2W8W1W4O0Y7F4P2U7U4J4",
+    "id_master": 103906,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_U1V6F1D2L2Y8L1J4K0X7L1K0W4U2D1": {
+    "session": 20,
+    "bill_no": "2004733",
+    "bill_id": "PRC_U1V6F1D2L2Y8L1J4K0X7L1K0W4U2D1",
+    "id_master": 103905,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_Y1L6N1S2P2V2C0N9D0X9F3Y5U8P6F4": {
+    "session": 20,
+    "bill_no": "2004729",
+    "bill_id": "PRC_Y1L6N1S2P2V2C0N9D0X9F3Y5U8P6F4",
+    "id_master": 103890,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_J1E6T1Z1O0F9Y1G8P2N8Z3Q9O8G8M7": {
+    "session": 20,
+    "bill_no": "2004728",
+    "bill_id": "PRC_J1E6T1Z1O0F9Y1G8P2N8Z3Q9O8G8M7",
+    "id_master": 103877,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_H1C6O1F0J2L4Z1J7H1J2T1Z9R4J1Y7": {
+    "session": 20,
+    "bill_no": "2004727",
+    "bill_id": "PRC_H1C6O1F0J2L4Z1J7H1J2T1Z9R4J1Y7",
+    "id_master": 103875,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_L1Z6U1J2Y2F1D1K9E4R3A0N7J9V1V6": {
+    "session": 20,
+    "bill_no": "2004726",
+    "bill_id": "PRC_L1Z6U1J2Y2F1D1K9E4R3A0N7J9V1V6",
+    "id_master": 103888,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_E1N6K1U2J2P1K1E9H4B1J4G0V0U1L3": {
+    "session": 20,
+    "bill_no": "2004725",
+    "bill_id": "PRC_E1N6K1U2J2P1K1E9H4B1J4G0V0U1L3",
+    "id_master": 103889,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_Q1Q6S1U1G1U0C1V0C1W5T2L0J5K1Q8": {
+    "session": 20,
+    "bill_no": "2004724",
+    "bill_id": "PRC_Q1Q6S1U1G1U0C1V0C1W5T2L0J5K1Q8",
+    "id_master": 103891,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_I1H6R1S2C2M1O1F9W5F8W3E9S7W5N8": {
+    "session": 20,
+    "bill_no": "2004723",
+    "bill_id": "PRC_I1H6R1S2C2M1O1F9W5F8W3E9S7W5N8",
+    "id_master": 103895,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_D1A6I1J2D2P1T1O9E5R9U4G0V3G3Y2": {
+    "session": 20,
+    "bill_no": "2004722",
+    "bill_id": "PRC_D1A6I1J2D2P1T1O9E5R9U4G0V3G3Y2",
+    "id_master": 103901,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_G1E6F1Z2Z2L1N1U9U4E4D2I8U0Z8A4": {
+    "session": 20,
+    "bill_no": "2004721",
+    "bill_id": "PRC_G1E6F1Z2Z2L1N1U9U4E4D2I8U0Z8A4",
+    "id_master": 103886,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_Z1U6A1E2B2Z1A2G0R0N1F2B0R7N5A9": {
+    "session": 20,
+    "bill_no": "2004720",
+    "bill_id": "PRC_Z1U6A1E2B2Z1A2G0R0N1F2B0R7N5A9",
+    "id_master": 103902,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_N1D6Y1B2K2G1Y1C9E5V7I2C7N9S1T8": {
+    "session": 20,
+    "bill_no": "2004719",
+    "bill_id": "PRC_N1D6Y1B2K2G1Y1C9E5V7I2C7N9S1T8",
+    "id_master": 103880,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_Q1M6X1E2H2K1T2B0C0P2Q1H9L3V1E4": {
+    "session": 20,
+    "bill_no": "2004718",
+    "bill_id": "PRC_Q1M6X1E2H2K1T2B0C0P2Q1H9L3V1E4",
+    "id_master": 103878,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_M1X6S1G2F2Y1Z2J0K0I4E2I3D7D6E0": {
+    "session": 20,
+    "bill_no": "2004717",
+    "bill_id": "PRC_M1X6S1G2F2Y1Z2J0K0I4E2I3D7D6E0",
+    "id_master": 103879,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_N1Q6L1E2W2Y1X2X0Q0D6A0G7P2J0T6": {
+    "session": 20,
+    "bill_no": "2004716",
+    "bill_id": "PRC_N1Q6L1E2W2Y1X2X0Q0D6A0G7P2J0T6",
+    "id_master": 103893,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_O1U6T1D2T2U1Q2M0Y0N7Y0Y0P5R6S7": {
+    "session": 20,
+    "bill_no": "2004715",
+    "bill_id": "PRC_O1U6T1D2T2U1Q2M0Y0N7Y0Y0P5R6S7",
+    "id_master": 103896,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_V1I6B1R2N2G0C1Z6F4L2W3T3J8G4G8": {
+    "session": 20,
+    "bill_no": "2004712",
+    "bill_id": "PRC_V1I6B1R2N2G0C1Z6F4L2W3T3J8G4G8",
+    "id_master": 103874,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_B1N6V1I2X2D9Y1R2N3P3I5Q4D2R5I7": {
+    "session": 20,
+    "bill_no": "2004703",
+    "bill_id": "PRC_B1N6V1I2X2D9Y1R2N3P3I5Q4D2R5I7",
+    "id_master": 103915,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_B1T6O1Q2K2V7S1G0T2O8C5H9C5Y9T9": {
+    "session": 20,
+    "bill_no": "2004702",
+    "bill_id": "PRC_B1T6O1Q2K2V7S1G0T2O8C5H9C5Y9T9",
+    "id_master": 103913,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_T1I6A1M2N1V5K1Q5V4V6B4F2B4I3W5": {
+    "session": 20,
+    "bill_no": "2004439",
+    "bill_id": "PRC_T1I6A1M2N1V5K1Q5V4V6B4F2B4I3W5",
+    "id_master": 103912,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_C1U6B1O1X0X9N1Y8P0V0Z1B3U0W6C3": {
+    "session": 20,
+    "bill_no": "2003440",
+    "bill_id": "PRC_C1U6B1O1X0X9N1Y8P0V0Z1B3U0W6C3",
+    "id_master": 103894,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_M1S6M1G0S2G4T1Q8P2L4L3Z8A0V2J2": {
+    "session": 20,
+    "bill_no": "2002882",
+    "bill_id": "PRC_M1S6M1G0S2G4T1Q8P2L4L3Z8A0V2J2",
+    "id_master": 103892,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_Q1Y6M1K0P2L4M1C7E3E4T1C7K2B3L4": {
+    "session": 20,
+    "bill_no": "2002863",
+    "bill_id": "PRC_Q1Y6M1K0P2L4M1C7E3E4T1C7K2B3L4",
+    "id_master": 103876,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_Q1I6A1I0I2K1N1H7E4V0Y3N6L3X1J2": {
+    "session": 20,
+    "bill_no": "2002821",
+    "bill_id": "PRC_Q1I6A1I0I2K1N1H7E4V0Y3N6L3X1J2",
+    "id_master": 103887,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_F1O6M1V0F2D1N1T7L1M1P4V9I5V3G3": {
+    "session": 20,
+    "bill_no": "2002812",
+    "bill_id": "PRC_F1O6M1V0F2D1N1T7L1M1P4V9I5V3G3",
+    "id_master": 103903,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "ARC_S1L6B0K9M3B0I1M5A4O8D4Z6H4J4K2": {
+    "session": 20,
+    "bill_no": "2002557",
+    "bill_id": "ARC_S1L6B0K9M3B0I1M5A4O8D4Z6H4J4K2",
+    "id_master": 103872,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_Z1R6T0L9U1K9K1H8N1L7J3H3D8C1N1": {
+    "session": 20,
+    "bill_no": "2002334",
+    "bill_id": "PRC_Z1R6T0L9U1K9K1H8N1L7J3H3D8C1N1",
+    "id_master": 103914,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "ARC_L1D6D0U9B1O2X1O6B4O3E3L0U5O8E6": {
+    "session": 20,
+    "bill_no": "2002286",
+    "bill_id": "ARC_L1D6D0U9B1O2X1O6B4O3E3L0U5O8E6",
+    "id_master": 103871,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_U1Y6R0V9C0Z9J1Y6W2D2Q3P7D3O2Z4": {
+    "session": 20,
+    "bill_no": "2002248",
+    "bill_id": "PRC_U1Y6R0V9C0Z9J1Y6W2D2Q3P7D3O2Z4",
+    "id_master": 103884,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_R1E6I0Q8Q2Z5O1Y7X3H3P3P0I4K7A6": {
+    "session": 20,
+    "bill_no": "2001827",
+    "bill_id": "PRC_R1E6I0Q8Q2Z5O1Y7X3H3P3P0I4K7A6",
+    "id_master": 103885,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_U1B6T0I7M2U5W1R5H3A7M2L0P3W2P0": {
+    "session": 20,
+    "bill_no": "2001143",
+    "bill_id": "PRC_U1B6T0I7M2U5W1R5H3A7M2L0P3W2P0",
+    "id_master": 103881,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_H1J6H0J7G2V5O1O3C3B4O2Z7G7U3P8": {
+    "session": 20,
+    "bill_no": "2001140",
+    "bill_id": "PRC_H1J6H0J7G2V5O1O3C3B4O2Z7G7U3P8",
+    "id_master": 103873,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "ARC_X1R6T0X7M2A1C1U8T4Y2M5L3P4H1J7": {
+    "session": 20,
+    "bill_no": "2001060",
+    "bill_id": "ARC_X1R6T0X7M2A1C1U8T4Y2M5L3P4H1J7",
+    "id_master": 103883,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_S1N6X0U7N1U8V1Y6R3J3B4U7H2M3V5": {
+    "session": 20,
+    "bill_no": "2000960",
+    "bill_id": "PRC_S1N6X0U7N1U8V1Y6R3J3B4U7H2M3V5",
+    "id_master": 103860,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "ARC_O1G6Z0L6O1U5C1K7Q2G2I0B9T4C3B4": {
+    "session": 20,
+    "bill_no": "2000265",
+    "bill_id": "ARC_O1G6Z0L6O1U5C1K7Q2G2I0B9T4C3B4",
+    "id_master": 103882,
+    "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
+  },
+  "PRC_D2M1I0H3T2K3G1Y7T4K2D0Z7W8P3W9": {
+    "session": 21,
+    "bill_no": "2109806",
+    "bill_id": "PRC_D2M1I0H3T2K3G1Y7T4K2D0Z7W8P3W9",
+    "id_master": 195723,
+    "error": ["<class 'requests.exceptions.ConnectionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 336, in scrape_bill_data\n    website_html = requests.post(bill_votedata_base, data={\n  File \"api.py\", line 117, in post\n    return request('post', url, data=data, json=json, **kwargs)\n  File \"api.py\", line 61, in request\n    return session.request(method=method, url=url, **kwargs)\n  File \"sessions.py\", line 542, in request\n    resp = self.send(prep, **send_kwargs)\n  File \"sessions.py\", line 655, in send\n    r = adapter.send(request, **kwargs)\n  File \"adapters.py\", line 516, in send\n    raise ConnectionError(e, request=request)\n"]
+  }
+}
