@@ -1,0 +1,21 @@
+# List of members who left or joined the assembly at irregular times.
+# Currently maintained by hand.
+
+---
+- session: 20
+  data: {}
+- session: 21
+  data:
+    - member_id: "9771200"
+      name: "정정순"
+      date_left: "2021-08-28"
+    #- member_id: "9771207"
+      #name: "이상직"
+      #date_left: "2021-04-28" # arrested but not left office?
+    - member_id: "9771281"
+      name: "김진애"
+      date_left: "2021-03-24"
+    - member_id: "9771288"
+      name: "김의겸"
+      date_joined: "2021-03-25"
+...

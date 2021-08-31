@@ -19608,6 +19608,31 @@
         "committee": "문화체육관광위원회"
     },
     {
+        "bill_id": "PRC_D2M1I0H3T2K3G1Y7T4K2D0Z7W8P3W9",
+        "bill_no": "2109806",
+        "vote_date": "2021-04-29",
+        "members_voting": 249,
+        "members_registered": 300,
+        "total_abstain": 17,
+        "total_oppose": 5,
+        "name": "필수업무 지정 및 종사자 보호·지원에 관한 법률안(대안)",
+        "id_master": 195723,
+        "result": "원안가결",
+        "total_votes": 249,
+        "session": 21,
+        "total_agree": 227,
+        "kind": "법률안",
+        "related_bill_ids": [
+            "PRC_S2C1B0L3E0U5A0R9H4Y6O0R5J1B5V7",
+            "PRC_C2B0R1A1Y1I7F1D4I3D6P4Y8V2V6W3",
+            "PRC_V2E0J1N0Z2N8X1R3C5C3P5P0M2D1P1",
+            "PRC_Y2V0G1E2T2H9G1Y1J4D8L5X3W9S9H2",
+            "PRC_R2R1Y0W1C0N6C1Q6X0C1V0Y6W8Q8V9"
+        ],
+        "proposal_date": "2021-04-29",
+        "committee": "환경노동위원회"
+    },
+    {
         "bill_id": "PRC_D2Z1W0C3P2O3C1D7Z4X3J4N8X1T8P1",
         "bill_no": "2109807",
         "vote_date": "2021-04-29",

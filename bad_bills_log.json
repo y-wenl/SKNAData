@@ -292,12 +292,5 @@
     "bill_id": "ARC_O1G6Z0L6O1U5C1K7Q2G2I0B9T4C3B4",
     "id_master": 103882,
     "error": ["<class 'AssertionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 410, in scrape_bill_data\n    assert(len(agree_member_list) == total_agree)\n"]
-  },
-  "PRC_D2M1I0H3T2K3G1Y7T4K2D0Z7W8P3W9": {
-    "session": 21,
-    "bill_no": "2109806",
-    "bill_id": "PRC_D2M1I0H3T2K3G1Y7T4K2D0Z7W8P3W9",
-    "id_master": 195723,
-    "error": ["<class 'requests.exceptions.ConnectionError'>", "  File \"scrape_vote_data.py\", line 139, in <module>\n    bill_data = scrape_bill_data(bill_no, bill_id, bill_id_master, session)\n  File \"assembly_scraper_methods.py\", line 336, in scrape_bill_data\n    website_html = requests.post(bill_votedata_base, data={\n  File \"api.py\", line 117, in post\n    return request('post', url, data=data, json=json, **kwargs)\n  File \"api.py\", line 61, in request\n    return session.request(method=method, url=url, **kwargs)\n  File \"sessions.py\", line 542, in request\n    resp = self.send(prep, **send_kwargs)\n  File \"sessions.py\", line 655, in send\n    r = adapter.send(request, **kwargs)\n  File \"adapters.py\", line 516, in send\n    raise ConnectionError(e, request=request)\n"]
   }
 }
