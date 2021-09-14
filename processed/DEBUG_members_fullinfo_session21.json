@@ -1,0 +1,59 @@
+{
+"9771267": {
+"loyalty": 0.9344573090121022,
+"committees": [
+"국회운영위원회",
+"보건복지위원회"
+],
+"name_alt": "崔惠英",
+"age": 42.27945205479452,
+"absenteeism_party_rank": 5,
+"name": "최혜영",
+"district": "비례대표",
+"loyalty_rank": 163,
+"dob": "1979-06-01",
+"member_id": "9771267",
+"phone": "02-784-7190~2",
+"totalmembers": 301,
+"email": "choihy647@gmail.com",
+"absenteeism": 0.06466302367941712,
+"roman_name": null,
+"partysize": 14,
+"image_url": "http://www.assembly.go.kr/photo/9771267.jpg",
+"loyalty_party_rank": 10,
+"session": 21,
+"office": "의원회관 647호",
+"absenteeism_rank": 212,
+"website": "https://blog.naver.com/chy-647",
+"terms": 1,
+"party": "더불어시민당"
+},
+"9770936": {
+"loyalty": 0.9635895213173492,
+"committees": [
+"국방위원회"
+],
+"name_alt": "黃熙",
+"age": 54.12328767123287,
+"absenteeism_party_rank": 3,
+"name": "황희",
+"district": "서울 양천구갑",
+"loyalty_rank": 81,
+"dob": "1967-07-28",
+"member_id": "9770936",
+"phone": "02-784-8551",
+"totalmembers": 301,
+"email": "hwanghee6728@gmail.com",
+"absenteeism": 0.6338797814207651,
+"roman_name": "HWANG HEE",
+"partysize": 163,
+"image_url": "http://www.assembly.go.kr/photo/9770936.jpg",
+"loyalty_party_rank": 69,
+"session": 21,
+"office": "의원회관 838호",
+"absenteeism_rank": 15,
+"website": "http://blog.naver.com/hwanghee67",
+"terms": 2,
+"party": "더불어민주당"
+}
+}
