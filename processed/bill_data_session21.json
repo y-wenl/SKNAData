@@ -23652,5 +23652,49 @@
         ],
         "proposal_date": "2021-08-25",
         "committee": "보건복지위원회"
+    },
+    {
+        "bill_id": "PRC_A2Y1L0V9Z1V0W1K1V0A0N1S0J3E2E0",
+        "bill_no": "2112509",
+        "vote_date": "2021-09-16",
+        "members_voting": 153,
+        "members_registered": 297,
+        "total_abstain": 0,
+        "total_oppose": 0,
+        "name": "아프가니스탄 평화정착 및 인권 보호 촉구 결의안(대안)",
+        "id_master": 197282,
+        "result": "원안가결",
+        "total_votes": 153,
+        "session": 21,
+        "total_agree": 153,
+        "kind": "결의안",
+        "related_bill_ids": [
+            "PRC_Q2N1O0J8E1Z9C1G1P5T9G3W9L2I7K9",
+            "PRC_F2T1D0B8Z2Y7V1S0T1W0H4U7W4E2A1"
+        ],
+        "proposal_date": "2021-09-10",
+        "committee": "외교통일위원회"
+    },
+    {
+        "bill_id": "PRC_I2S1R0F9K1T0H1I8F0M6P2R1T7H3O8",
+        "bill_no": "2112511",
+        "vote_date": "2021-09-16",
+        "members_voting": 157,
+        "members_registered": 297,
+        "total_abstain": 0,
+        "total_oppose": 0,
+        "name": "일본 정부의 '군함도 등 일본 근대 산업시설 한국인 강제노역'에 대한 유네스코 세계유산위원회 권고이행 및 후속조치 재이행 촉구 결의안(대안)",
+        "id_master": 197283,
+        "result": "원안가결",
+        "total_votes": 157,
+        "session": 21,
+        "total_agree": 157,
+        "kind": "결의안",
+        "related_bill_ids": [
+            "PRC_C2C1J0C7J2O6Q1V0P0N3P5C7T9X9E7",
+            "PRC_B2B1G0J8X1E1H1Z6E4X1P5G8T8N6Z3"
+        ],
+        "proposal_date": "2021-09-10",
+        "committee": "외교통일위원회"
     }
 ]
