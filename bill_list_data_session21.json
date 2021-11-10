@@ -21385,7 +21385,7 @@
   "countVec": [{
     "committeecode": "소관위원회전체",
     "committeename": "소관위원회전체",
-    "billcount": 3376,
+    "billcount": 3377,
     "sortNo": -1
   }, {
     "committeecode": "9700005",
@@ -21405,7 +21405,7 @@
   }, {
     "committeecode": "9700300",
     "committeename": "기획재정위원회",
-    "billcount": 226,
+    "billcount": 227,
     "sortNo": 3004
   }, {
     "committeecode": "9700512",
