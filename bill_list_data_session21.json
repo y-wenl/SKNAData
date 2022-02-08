@@ -27469,7 +27469,7 @@
   "countVec": [{
     "committeecode": "소관위원회전체",
     "committeename": "소관위원회전체",
-    "billcount": 4617,
+    "billcount": 4619,
     "sortNo": -1
   }, {
     "committeecode": "9700005",
@@ -27534,7 +27534,7 @@
   }, {
     "committeecode": "9700341",
     "committeename": "보건복지위원회",
-    "billcount": 457,
+    "billcount": 458,
     "sortNo": 3016
   }, {
     "committeecode": "9700038",
@@ -27603,7 +27603,7 @@
   }, {
     "committeecode": "9999999",
     "committeename": "미확정",
-    "billcount": 10,
+    "billcount": 11,
     "sortNo": 99999
   }]
 }
