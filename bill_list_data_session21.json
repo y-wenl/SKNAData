@@ -8,7 +8,7 @@
     "sessionFrom": 379,
     "sessionTo": 393
   },
-  "allCount": 1518,
+  "allCount": 1522,
   "billKindList": [{
     "billKindCode": "전체",
     "ord": "0",
@@ -71,6 +71,78 @@
     "ord": 999
   }],
   "resListVo": [{
+    "billid": "PRC_X2G2V0A2F1P0D1C5S5C7G2K8M2Z9G4",
+    "billno": "2114763",
+    "billkindcd": "법률안",
+    "age": "21",
+    "billname": "공직선거법 일부개정법률안(대안)",
+    "processdate": "2022-02-14",
+    "idmaster": 198902,
+    "sessioncd": 393,
+    "currentscd": 2,
+    "currcommitte": "정치개혁 특별위원회",
+    "mtcnt": 295,
+    "vtcnt": 212,
+    "agree": 212,
+    "withdraw": 0,
+    "disagree": 0,
+    "xx": 83,
+    "result": "원안가결"
+  }, {
+    "billid": "PRC_F2Z2Z0L2P1M0R1I7W5V6E0T0I7H8Y0",
+    "billno": "2114762",
+    "billkindcd": "법률안",
+    "age": "21",
+    "billname": "정치자금법 일부개정법률안(대안)",
+    "processdate": "2022-02-14",
+    "idmaster": 198903,
+    "sessioncd": 393,
+    "currentscd": 2,
+    "currcommitte": "정치개혁 특별위원회",
+    "mtcnt": 295,
+    "vtcnt": 213,
+    "agree": 210,
+    "withdraw": 2,
+    "disagree": 1,
+    "xx": 82,
+    "result": "원안가결"
+  }, {
+    "billid": "PRC_Q2Z2V0V2Y0Y7O1O5R4V6O5K9T5N7V3",
+    "billno": "2114734",
+    "billkindcd": "결의안",
+    "age": "21",
+    "billname": "일본 정부의 사도 광산 세계유산 등재 추진 결정 철회 촉구 결의안",
+    "processdate": "2022-02-14",
+    "idmaster": 198905,
+    "sessioncd": 393,
+    "currentscd": 2,
+    "currcommitte": "문화체육관광위원회",
+    "mtcnt": 295,
+    "vtcnt": 215,
+    "agree": 215,
+    "withdraw": 0,
+    "disagree": 0,
+    "xx": 80,
+    "result": "원안가결"
+  }, {
+    "billid": "PRC_D2K2A0N2J1W0N1P0B2R4C1P8I9R0D0",
+    "billno": "2114733",
+    "billkindcd": "결의안",
+    "age": "21",
+    "billname": "오대산사고본 조선왕조실록과 의궤 제자리 찾기를 위한 국립조선왕조실록전시관 설립 촉구 결의안(대안)",
+    "processdate": "2022-02-14",
+    "idmaster": 198904,
+    "sessioncd": 393,
+    "currentscd": 2,
+    "currcommitte": "문화체육관광위원회",
+    "mtcnt": 295,
+    "vtcnt": 214,
+    "agree": 213,
+    "withdraw": 1,
+    "disagree": 0,
+    "xx": 81,
+    "result": "원안가결"
+  }, {
     "billid": "PRC_O2Z1X1Z2P3W0K2B1R2T8O3H6R0L6I7",
     "billno": "2114349",
     "billkindcd": "법률안",
@@ -27436,7 +27508,7 @@
     "orderColumn": "ProposeDt",
     "idMaster": "",
     "billNo": "",
-    "allCount": 1518,
+    "allCount": 1522,
     "searchType": "ABC",
     "billId": "",
     "srchHangul": "전체",
@@ -27469,7 +27541,7 @@
   "countVec": [{
     "committeecode": "소관위원회전체",
     "committeename": "소관위원회전체",
-    "billcount": 4620,
+    "billcount": 4635,
     "sortNo": -1
   }, {
     "committeecode": "9700005",
@@ -27519,7 +27591,7 @@
   }, {
     "committeecode": "9700513",
     "committeename": "문화체육관광위원회",
-    "billcount": 259,
+    "billcount": 263,
     "sortNo": 3011
   }, {
     "committeecode": "9700408",
@@ -27574,7 +27646,7 @@
   }, {
     "committeecode": "9700546",
     "committeename": "정치개혁 특별위원회",
-    "billcount": 29,
+    "billcount": 39,
     "sortNo": 3037
   }, {
     "committeecode": "9700540",
@@ -27587,7 +27659,7 @@
   }, {
     "committeecode": "8888888",
     "committeename": "본회의",
-    "billcount": 88
+    "billcount": 89
   }, {
     "committeecode": "9700530",
     "committeename": "대법관(이흥구) 임명동의에 관한 인사청문특별위원회",
