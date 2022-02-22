@@ -8,7 +8,7 @@
     "sessionFrom": 379,
     "sessionTo": 393
   },
-  "allCount": 1522,
+  "allCount": 1525,
   "billKindList": [{
     "billKindCode": "전체",
     "ord": "0",
@@ -71,6 +71,60 @@
     "ord": 999
   }],
   "resListVo": [{
+    "billid": "PRC_A2B2L0K2X2D1F2C0Q0Z3B3R2W7K2M7",
+    "billno": "2114510",
+    "billkindcd": "예산안",
+    "age": "21",
+    "billname": "2022년도 소상공인시장진흥기금운용계획변경안 에 대한 수정안",
+    "processdate": "2022-02-21",
+    "idmaster": 198909,
+    "sessioncd": 393,
+    "currentscd": 3,
+    "currcommitte": "본회의",
+    "mtcnt": 295,
+    "vtcnt": 205,
+    "agree": 197,
+    "withdraw": 7,
+    "disagree": 1,
+    "xx": 90,
+    "result": "원안가결"
+  }, {
+    "billid": "PRC_U2M2E0J2Q2O1Q2Y0J0I2O4G8A3S1Y1",
+    "billno": "2114509",
+    "billkindcd": "예산안",
+    "age": "21",
+    "billname": "2022년도 공공자금관리기금운용계획변경안 에 대한 수정안",
+    "processdate": "2022-02-21",
+    "idmaster": 198908,
+    "sessioncd": 393,
+    "currentscd": 3,
+    "currcommitte": "본회의",
+    "mtcnt": 295,
+    "vtcnt": 207,
+    "agree": 199,
+    "withdraw": 7,
+    "disagree": 1,
+    "xx": 88,
+    "result": "원안가결"
+  }, {
+    "billid": "PRC_B2I2A0V2R2H1M2K0W0G1H5W9I4U4Q2",
+    "billno": "2114508",
+    "billkindcd": "예산안",
+    "age": "21",
+    "billname": "2022년도 제1회 추가경정예산안 에 대한 수정안",
+    "processdate": "2022-02-21",
+    "idmaster": 198907,
+    "sessioncd": 393,
+    "currentscd": 3,
+    "currcommitte": "본회의",
+    "mtcnt": 295,
+    "vtcnt": 213,
+    "agree": 203,
+    "withdraw": 9,
+    "disagree": 1,
+    "xx": 82,
+    "result": "원안가결"
+  }, {
     "billid": "PRC_X2G2V0A2F1P0D1C5S5C7G2K8M2Z9G4",
     "billno": "2114763",
     "billkindcd": "법률안",
@@ -27508,7 +27562,7 @@
     "orderColumn": "ProposeDt",
     "idMaster": "",
     "billNo": "",
-    "allCount": 1522,
+    "allCount": 1525,
     "searchType": "ABC",
     "billId": "",
     "srchHangul": "전체",
@@ -27541,7 +27595,7 @@
   "countVec": [{
     "committeecode": "소관위원회전체",
     "committeename": "소관위원회전체",
-    "billcount": 4635,
+    "billcount": 4638,
     "sortNo": -1
   }, {
     "committeecode": "9700005",
@@ -27631,7 +27685,7 @@
   }, {
     "committeecode": "9700049",
     "committeename": "예산결산특별위원회",
-    "billcount": 80,
+    "billcount": 83,
     "sortNo": 3030
   }, {
     "committeecode": "9700541",
