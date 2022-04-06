@@ -8,7 +8,7 @@
     "sessionFrom": 379,
     "sessionTo": 395
   },
-  "allCount": 1525,
+  "allCount": 1535,
   "billKindList": [{
     "billKindCode": "전체",
     "ord": "0",
@@ -71,6 +71,186 @@
     "ord": 999
   }],
   "resListVo": [{
+    "billid": "PRC_J2P2D0A1Y0Q5M1F2G4K4C3C8W6U9I6",
+    "billno": "2115080",
+    "billkindcd": "법률안",
+    "age": "21",
+    "billname": "지방자치단체출연 연구원의 설립 및 운영에 관한 법률 일부개정법률안(대안)",
+    "processdate": "2022-04-05",
+    "idmaster": 205759,
+    "sessioncd": 394,
+    "currentscd": 1,
+    "currcommitte": "행정안전위원회",
+    "mtcnt": 300,
+    "vtcnt": 220,
+    "agree": 197,
+    "withdraw": 15,
+    "disagree": 8,
+    "xx": 80,
+    "result": "원안가결"
+  }, {
+    "billid": "PRC_V2N2J0K1Z0C6T1O2R1S9S3T5G5N2M6",
+    "billno": "2115079",
+    "billkindcd": "법률안",
+    "age": "21",
+    "billname": "소방기본법 일부개정법률안(대안)",
+    "processdate": "2022-04-05",
+    "idmaster": 205763,
+    "sessioncd": 394,
+    "currentscd": 1,
+    "currcommitte": "행정안전위원회",
+    "mtcnt": 300,
+    "vtcnt": 218,
+    "agree": 218,
+    "withdraw": 0,
+    "disagree": 0,
+    "xx": 82,
+    "result": "원안가결"
+  }, {
+    "billid": "PRC_Z2Q2Z0O1B0F6R1A1Y1E4Z1M5T1V3U5",
+    "billno": "2115078",
+    "billkindcd": "법률안",
+    "age": "21",
+    "billname": "자율방범대 설치 및 운영에 관한 법률안(대안)",
+    "processdate": "2022-04-05",
+    "idmaster": 205762,
+    "sessioncd": 394,
+    "currentscd": 1,
+    "currcommitte": "행정안전위원회",
+    "mtcnt": 300,
+    "vtcnt": 219,
+    "agree": 218,
+    "withdraw": 1,
+    "disagree": 0,
+    "xx": 81,
+    "result": "원안가결"
+  }, {
+    "billid": "PRC_V2W2V0C1F0K5J1N2K4I1F1R1K0E0P5",
+    "billno": "2115077",
+    "billkindcd": "법률안",
+    "age": "21",
+    "billname": "주민투표법 일부개정법률안(대안)",
+    "processdate": "2022-04-05",
+    "idmaster": 205758,
+    "sessioncd": 394,
+    "currentscd": 1,
+    "currcommitte": "행정안전위원회",
+    "mtcnt": 300,
+    "vtcnt": 217,
+    "agree": 201,
+    "withdraw": 14,
+    "disagree": 2,
+    "xx": 83,
+    "result": "원안가결"
+  }, {
+    "billid": "PRC_V2U2Z0E2Y0U7Y1G6Z3G8H4A1Q8A1A4",
+    "billno": "2115076",
+    "billkindcd": "법률안",
+    "age": "21",
+    "billname": "비영리민간단체 지원법 일부개정법률안(대안)",
+    "processdate": "2022-04-05",
+    "idmaster": 205761,
+    "sessioncd": 394,
+    "currentscd": 1,
+    "currcommitte": "행정안전위원회",
+    "mtcnt": 300,
+    "vtcnt": 216,
+    "agree": 211,
+    "withdraw": 3,
+    "disagree": 2,
+    "xx": 84,
+    "result": "원안가결"
+  }, {
+    "billid": "PRC_U2T2J0H1O0F5Z1G2O4K0H1O9T5E6J4",
+    "billno": "2115075",
+    "billkindcd": "법률안",
+    "age": "21",
+    "billname": "공무원직장협의회의 설립·운영에 관한 법률 일부개정법률안(대안)",
+    "processdate": "2022-04-05",
+    "idmaster": 205757,
+    "sessioncd": 394,
+    "currentscd": 1,
+    "currcommitte": "행정안전위원회",
+    "mtcnt": 300,
+    "vtcnt": 213,
+    "agree": 200,
+    "withdraw": 12,
+    "disagree": 1,
+    "xx": 87,
+    "result": "원안가결"
+  }, {
+    "billid": "PRC_X2L2Q0W2I0F7Q1N6Y3E7A5E4L8N8N5",
+    "billno": "2115074",
+    "billkindcd": "법률안",
+    "age": "21",
+    "billname": "지방자치분권 및 지방행정체제개편에 관한 특별법 일부개정법률안(대안)",
+    "processdate": "2022-04-05",
+    "idmaster": 205760,
+    "sessioncd": 394,
+    "currentscd": 1,
+    "currcommitte": "행정안전위원회",
+    "mtcnt": 300,
+    "vtcnt": 220,
+    "agree": 214,
+    "withdraw": 6,
+    "disagree": 0,
+    "xx": 80,
+    "result": "원안가결"
+  }, {
+    "billid": "PRC_U2M1R1H2E0I2I1Q3Z1A4V4X1W0I6M1",
+    "billno": "2115073",
+    "billkindcd": "법률안",
+    "age": "21",
+    "billname": "동물보호법 전부개정법률안(대안)",
+    "processdate": "2022-04-05",
+    "idmaster": 205764,
+    "sessioncd": 394,
+    "currentscd": 1,
+    "currcommitte": "농림축산식품해양수산위원회",
+    "mtcnt": 300,
+    "vtcnt": 217,
+    "agree": 217,
+    "withdraw": 0,
+    "disagree": 0,
+    "xx": 83,
+    "result": "원안가결"
+  }, {
+    "billid": "PRC_A2C1Y0B9M2K7J1T4X3H7M0X9L7B0K9",
+    "billno": "2112747",
+    "billkindcd": "법률안",
+    "age": "21",
+    "billname": "부마민주항쟁 관련자의 명예회복 및 보상 등에 관한 법률 일부개정법률안",
+    "processdate": "2022-04-05",
+    "idmaster": 205755,
+    "sessioncd": 394,
+    "currentscd": 1,
+    "currcommitte": "행정안전위원회",
+    "mtcnt": 300,
+    "vtcnt": 219,
+    "agree": 212,
+    "withdraw": 5,
+    "disagree": 2,
+    "xx": 81,
+    "result": "수정가결"
+  }, {
+    "billid": "PRC_U2J0W0D9M1V6D1O6G2N0K2R8I4Y1P7",
+    "billno": "2104732",
+    "billkindcd": "법률안",
+    "age": "21",
+    "billname": "행정기관 소속 위원회의 설치·운영에 관한 법률 일부개정법률안",
+    "processdate": "2022-04-05",
+    "idmaster": 205756,
+    "sessioncd": 394,
+    "currentscd": 1,
+    "currcommitte": "행정안전위원회",
+    "mtcnt": 300,
+    "vtcnt": 220,
+    "agree": 217,
+    "withdraw": 3,
+    "disagree": 0,
+    "xx": 80,
+    "result": "수정가결"
+  }, {
     "billid": "PRC_A2B2L0K2X2D1F2C0Q0Z3B3R2W7K2M7",
     "billno": "2114510",
     "billkindcd": "예산안",
@@ -7487,24 +7667,6 @@
     "xx": 116,
     "result": "원안가결"
   }, {
-    "billid": "PRC_H2U1I0K8M3I0B1L6F5X3R5T1M6F8R0",
-    "billno": "2112205",
-    "billkindcd": "법률안",
-    "age": "21",
-    "billname": "사립학교법 일부개정법률안(대안) 에 대한 수정안",
-    "processdate": "2021-08-31",
-    "idmaster": 196855,
-    "sessioncd": 390,
-    "currentscd": 1,
-    "currcommitte": "본회의",
-    "mtcnt": 299,
-    "vtcnt": 206,
-    "agree": 68,
-    "withdraw": 0,
-    "disagree": 138,
-    "xx": 93,
-    "result": "부결"
-  }, {
     "billid": "PRC_L2I1C0P8H1T8T2N3K1I5A0Q2W9V3P1",
     "billno": "2112205",
     "billkindcd": "법률안",
@@ -7522,6 +7684,24 @@
     "disagree": 74,
     "xx": 87,
     "result": "원안가결"
+  }, {
+    "billid": "PRC_H2U1I0K8M3I0B1L6F5X3R5T1M6F8R0",
+    "billno": "2112205",
+    "billkindcd": "법률안",
+    "age": "21",
+    "billname": "사립학교법 일부개정법률안(대안) 에 대한 수정안",
+    "processdate": "2021-08-31",
+    "idmaster": 196855,
+    "sessioncd": 390,
+    "currentscd": 1,
+    "currcommitte": "본회의",
+    "mtcnt": 299,
+    "vtcnt": 206,
+    "agree": 68,
+    "withdraw": 0,
+    "disagree": 138,
+    "xx": 93,
+    "result": "부결"
   }, {
     "billid": "PRC_H2I1K0M8J3R0P1P7I1Y2S2D4P3D5U1",
     "billno": "2112204",
@@ -9485,24 +9665,6 @@
     "xx": 54,
     "result": "수정가결"
   }, {
-    "billid": "PRC_D2U1I0C7H0K1P1R3X2V4Y2A1J0V8T7",
-    "billno": "2111242",
-    "billkindcd": "법률안",
-    "age": "21",
-    "billname": "소상공인 보호 및 지원에 관한 법률 일부개정법률안(대안) 에 대한 수정안",
-    "processdate": "2021-07-01",
-    "idmaster": 196191,
-    "sessioncd": 388,
-    "currentscd": 7,
-    "currcommitte": "본회의",
-    "mtcnt": 300,
-    "vtcnt": 251,
-    "agree": 92,
-    "withdraw": 13,
-    "disagree": 146,
-    "xx": 49,
-    "result": "부결"
-  }, {
     "billid": "PRC_U2L1A0T6H2Z8Y1L7Z0Z5I5P8U2V1P4",
     "billno": "2111242",
     "billkindcd": "법률안",
@@ -9520,6 +9682,24 @@
     "disagree": 84,
     "xx": 52,
     "result": "원안가결"
+  }, {
+    "billid": "PRC_D2U1I0C7H0K1P1R3X2V4Y2A1J0V8T7",
+    "billno": "2111242",
+    "billkindcd": "법률안",
+    "age": "21",
+    "billname": "소상공인 보호 및 지원에 관한 법률 일부개정법률안(대안) 에 대한 수정안",
+    "processdate": "2021-07-01",
+    "idmaster": 196191,
+    "sessioncd": 388,
+    "currentscd": 7,
+    "currcommitte": "본회의",
+    "mtcnt": 300,
+    "vtcnt": 251,
+    "agree": 92,
+    "withdraw": 13,
+    "disagree": 146,
+    "xx": 49,
+    "result": "부결"
   }, {
     "billid": "PRC_D2W1L0X6C0B8M1T7U3A6K1Y8R9R4Z6",
     "billno": "2111241",
@@ -27562,7 +27742,7 @@
     "orderColumn": "ProposeDt",
     "idMaster": "",
     "billNo": "",
-    "allCount": 1525,
+    "allCount": 1535,
     "searchType": "ABC",
     "billId": "",
     "srchHangul": "전체",
@@ -27595,7 +27775,7 @@
   "countVec": [{
     "committeecode": "소관위원회전체",
     "committeename": "소관위원회전체",
-    "billcount": 4642,
+    "billcount": 4733,
     "sortNo": -1
   }, {
     "committeecode": "9700005",
@@ -27625,7 +27805,7 @@
   }, {
     "committeecode": "9700479",
     "committeename": "과학기술정보방송통신위원회",
-    "billcount": 157,
+    "billcount": 158,
     "sortNo": 3006
   }, {
     "committeecode": "9700409",
@@ -27640,7 +27820,7 @@
   }, {
     "committeecode": "9700480",
     "committeename": "행정안전위원회",
-    "billcount": 655,
+    "billcount": 688,
     "sortNo": 3010
   }, {
     "committeecode": "9700513",
@@ -27650,7 +27830,7 @@
   }, {
     "committeecode": "9700408",
     "committeename": "농림축산식품해양수산위원회",
-    "billcount": 228,
+    "billcount": 283,
     "sortNo": 3014
   }, {
     "committeecode": "9700481",
@@ -27660,7 +27840,7 @@
   }, {
     "committeecode": "9700341",
     "committeename": "보건복지위원회",
-    "billcount": 458,
+    "billcount": 459,
     "sortNo": 3016
   }, {
     "committeecode": "9700038",
@@ -27713,7 +27893,7 @@
   }, {
     "committeecode": "8888888",
     "committeename": "본회의",
-    "billcount": 89
+    "billcount": 90
   }, {
     "committeecode": "9700530",
     "committeename": "대법관(이흥구) 임명동의에 관한 인사청문특별위원회",
