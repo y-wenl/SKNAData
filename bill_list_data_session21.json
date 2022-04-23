@@ -27991,7 +27991,7 @@
   "countVec": [{
     "committeecode": "소관위원회전체",
     "committeename": "소관위원회전체",
-    "billcount": 4795,
+    "billcount": 4796,
     "sortNo": -1
   }, {
     "committeecode": "9700005",
@@ -28094,22 +28094,15 @@
     "billcount": 1,
     "sortNo": 3034
   }, {
+    "committeecode": "9700545",
+    "committeename": "중앙선거관리위원회 위원(문상부) 선출에 관한 인사청문특별위원회",
+    "billcount": 1,
+    "sortNo": 3036
+  }, {
     "committeecode": "9700546",
     "committeename": "정치개혁 특별위원회",
     "billcount": 80,
     "sortNo": 3037
-  }, {
-    "committeecode": "9700540",
-    "committeename": "국무총리(김부겸) 임명동의에 관한 인사청문특별위원회",
-    "billcount": 1
-  }, {
-    "committeecode": "9700533",
-    "committeename": "중앙선거관리위원회 위원(조병현·조성대) 선출에 관한 인사청문특별위원회",
-    "billcount": 2
-  }, {
-    "committeecode": "8888888",
-    "committeename": "본회의",
-    "billcount": 90
   }, {
     "committeecode": "9700530",
     "committeename": "대법관(이흥구) 임명동의에 관한 인사청문특별위원회",
@@ -28117,6 +28110,18 @@
   }, {
     "committeecode": "9700537",
     "committeename": "대법관(천대엽) 임명동의에 관한 인사청문특별위원회",
+    "billcount": 1
+  }, {
+    "committeecode": "8888888",
+    "committeename": "본회의",
+    "billcount": 90
+  }, {
+    "committeecode": "9700533",
+    "committeename": "중앙선거관리위원회 위원(조병현·조성대) 선출에 관한 인사청문특별위원회",
+    "billcount": 2
+  }, {
+    "committeecode": "9700540",
+    "committeename": "국무총리(김부겸) 임명동의에 관한 인사청문특별위원회",
     "billcount": 1
   }, {
     "committeecode": "9700529",
