@@ -32921,5 +32921,24 @@
         ],
         "proposal_date": "2022-04-15",
         "committee": "정치개혁 특별위원회"
+    },
+    {
+        "bill_id": "PRC_V2V2K0R4X2E7M1M6O4L5S0U6J2V7M5",
+        "bill_no": "2115420",
+        "vote_date": "2022-04-27",
+        "members_voting": 212,
+        "members_registered": 300,
+        "total_abstain": 4,
+        "total_oppose": 65,
+        "name": "제395회국회(임시회) 회기결정의 건 에 대한 수정안",
+        "id_master": 211586,
+        "result": "원안가결",
+        "total_votes": 212,
+        "session": 21,
+        "total_agree": 143,
+        "kind": "중요동의",
+        "related_bill_ids": [],
+        "proposal_date": "2022-04-27",
+        "committee": "본회의"
     }
 ]

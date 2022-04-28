@@ -1,11 +1,11 @@
 {
 "9770932": {
-"loyalty": 0.9531986602215577,
+"loyalty": 0.9532193367588065,
 "committees": [
 "법제사법위원회"
 ],
 "name_alt": "朴柱民",
-"age": 48.43013698630137,
+"age": 48.43287671232877,
 "absenteeism_party_rank": 32,
 "name": "박주민",
 "district": "서울 은평구갑",
@@ -15,7 +15,7 @@
 "phone": "02-784-8690",
 "totalmembers": 306,
 "email": "joomincenter@gmail.com",
-"absenteeism": 0.26890756302521013,
+"absenteeism": 0.2687338501291989,
 "roman_name": "PARK JUMIN",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770932.jpg",
@@ -28,13 +28,13 @@
 "party": "더불어민주당"
 },
 "9771165": {
-"loyalty": 0.7857266306257493,
+"loyalty": 0.785813680545805,
 "committees": [
 "산업통상자원중소벤처기업위원회",
 "예산결산특별위원회"
 ],
 "name_alt": "權明浩",
-"age": 61.293150684931504,
+"age": 61.295890410958904,
 "absenteeism_party_rank": 83,
 "name": "권명호",
 "district": "울산 동구",
@@ -44,7 +44,7 @@
 "phone": "02-784-5705, 지역 052-201-7676",
 "totalmembers": 306,
 "email": "kmh330575@naver.com",
-"absenteeism": 0.20491273432449908,
+"absenteeism": 0.2047803617571059,
 "roman_name": "KWON MYUNGHO",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771165.jpg",
@@ -57,12 +57,12 @@
 "party": "국민의힘"
 },
 "9771120": {
-"loyalty": 0.9616167581922647,
+"loyalty": 0.9616350228812873,
 "committees": [
 "보건복지위원회"
 ],
 "name_alt": "金民錫",
-"age": 57.912328767123284,
+"age": 57.915068493150685,
 "absenteeism_party_rank": 25,
 "name": "김민석",
 "district": "서울 영등포구을",
@@ -72,7 +72,7 @@
 "phone": "02-784-2390",
 "totalmembers": 306,
 "email": "newkms2030@gmail.com",
-"absenteeism": 0.3212669683257918,
+"absenteeism": 0.32105943152454786,
 "roman_name": "KIM MINSEOK",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771120.jpg",
@@ -85,14 +85,14 @@
 "party": "더불어민주당"
 },
 "9770876": {
-"loyalty": 0.9751577476411522,
+"loyalty": 0.9751664413430312,
 "committees": [
 "국회운영위원회",
 "법제사법위원회",
 "정보위원회"
 ],
 "name_alt": "尹昊重",
-"age": 59.084931506849315,
+"age": 59.087671232876716,
 "absenteeism_party_rank": 107,
 "name": "윤호중",
 "district": "경기 구리시",
@@ -102,7 +102,7 @@
 "phone": "02-784-4961~3",
 "totalmembers": 306,
 "email": "hjyun9292@naver.com",
-"absenteeism": 0.07692307692307687,
+"absenteeism": 0.07687338501291985,
 "roman_name": "YUN HOJUNG",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770876.jpg",
@@ -120,7 +120,7 @@
 "국방위원회"
 ],
 "name_alt": "李埰益",
-"age": 66.91780821917808,
+"age": 66.92054794520548,
 "absenteeism_party_rank": 42,
 "name": "이채익",
 "district": "울산 남구갑",
@@ -130,7 +130,7 @@
 "phone": "02-784-8011~3",
 "totalmembers": 306,
 "email": "lci8572@naver.com",
-"absenteeism": 0.39431157078215906,
+"absenteeism": 0.39470284237726094,
 "roman_name": "LEE CHEIK",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9770835.jpg",
@@ -143,12 +143,12 @@
 "party": "국민의힘"
 },
 "9770990": {
-"loyalty": 0.9016354986573337,
+"loyalty": 0.9016774719903062,
 "committees": [
 "국토교통위원회"
 ],
 "name_alt": "趙應天",
-"age": 59.608219178082194,
+"age": 59.61095890410959,
 "absenteeism_party_rank": 40,
 "name": "조응천",
 "district": "경기 남양주시갑",
@@ -158,14 +158,14 @@
 "phone": "02-784-2717",
 "totalmembers": 306,
 "email": "chopros312@gmail.com",
-"absenteeism": 0.24305106658047837,
+"absenteeism": 0.24289405684754517,
 "roman_name": "CHO EUNGCHEON",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770990.jpg",
 "loyalty_party_rank": 158,
 "session": 21,
 "office": "의원회관 847호",
-"absenteeism_rank": 122,
+"absenteeism_rank": 123,
 "website": "http://blog.naver.com/chopros",
 "terms": 2,
 "party": "더불어민주당"
@@ -177,21 +177,21 @@
 "예산결산특별위원회"
 ],
 "name_alt": "鄭雲天",
-"age": 68.04657534246576,
+"age": 68.04931506849314,
 "absenteeism_party_rank": 28,
 "name": "정운천",
 "district": "비례대표",
-"loyalty_rank": 211,
+"loyalty_rank": 212,
 "dob": "1954-04-10",
 "member_id": "9771012",
 "phone": "02-784-8975",
 "totalmembers": 306,
 "email": "706gbs@gmail.com",
-"absenteeism": 0.4680025856496445,
+"absenteeism": 0.46834625322997414,
 "roman_name": "CHUNG WOONCHUN",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771012.jpg",
-"loyalty_party_rank": 12,
+"loyalty_party_rank": 13,
 "session": 21,
 "office": "의원회관 706호",
 "absenteeism_rank": 48,
@@ -205,7 +205,7 @@
 "행정안전위원회"
 ],
 "name_alt": "崔春植",
-"age": 66.12054794520547,
+"age": 66.12328767123287,
 "absenteeism_party_rank": 26,
 "name": "최춘식",
 "district": "경기 포천시가평군",
@@ -215,7 +215,7 @@
 "phone": "02-784-5390",
 "totalmembers": 306,
 "email": "cschoi415@naver.com",
-"absenteeism": 0.49385908209437623,
+"absenteeism": 0.4941860465116279,
 "roman_name": "CHOI CHUNSIK",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771194.jpg",
@@ -228,14 +228,14 @@
 "party": "국민의힘"
 },
 "9771266": {
-"loyalty": 0.9507790451653331,
+"loyalty": 0.950796138742801,
 "committees": [
 "문화체육관광위원회",
 "여성가족위원회",
 "예산결산특별위원회"
 ],
 "name_alt": "兪訂炷",
-"age": 46.36986301369863,
+"age": 46.37260273972603,
 "absenteeism_party_rank": 7,
 "name": "유정주",
 "district": "비례대표",
@@ -245,7 +245,7 @@
 "phone": "02-6788-6821",
 "totalmembers": 306,
 "email": "junshine905@naver.com",
-"absenteeism": 0.06981254040077567,
+"absenteeism": 0.06976744186046513,
 "roman_name": "YOO JUNGJU",
 "partysize": 14,
 "image_url": "http://www.assembly.go.kr/photo/9771266.jpg",
@@ -258,12 +258,12 @@
 "party": "더불어시민당"
 },
 "9771226": {
-"loyalty": 0.8672744422663042,
+"loyalty": 0.8673246885515551,
 "committees": [
 "기획재정위원회"
 ],
 "name_alt": "朴亨修",
-"age": 56.51780821917808,
+"age": 56.52054794520548,
 "absenteeism_party_rank": 97,
 "name": "박형수",
 "district": "경북 영주시영양군봉화군울진군",
@@ -273,7 +273,7 @@
 "phone": "02-784-4165",
 "totalmembers": 306,
 "email": "7844165@naver.com",
-"absenteeism": 0.14673561732385265,
+"absenteeism": 0.14664082687338498,
 "roman_name": "PARK HYEUNGSOO",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771226.jpg",
@@ -286,13 +286,13 @@
 "party": "국민의힘"
 },
 "9771286": {
-"loyalty": 0.8268499790723871,
+"loyalty": 0.8269445190854015,
 "committees": [
 "국회운영위원회",
 "외교통일위원회"
 ],
 "name_alt": "太永浩",
-"age": 59.75616438356165,
+"age": 59.75890410958904,
 "absenteeism_party_rank": 36,
 "name": "태영호",
 "district": "서울 강남구갑",
@@ -302,7 +302,7 @@
 "phone": "02-784-4467",
 "totalmembers": 306,
 "email": "onekorea2025@gmail.com",
-"absenteeism": 0.40853264382676147,
+"absenteeism": 0.4082687338501292,
 "roman_name": "TAE YONGHO",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771286.jpg",
@@ -315,12 +315,12 @@
 "party": "국민의힘"
 },
 "9771103": {
-"loyalty": 0.8381711379972839,
+"loyalty": 0.8382390334741565,
 "committees": [
 "농림축산식품해양수산위원회"
 ],
 "name_alt": "鄭点植",
-"age": 56.78356164383562,
+"age": 56.78630136986301,
 "absenteeism_party_rank": 72,
 "name": "정점식",
 "district": "경남 통영시고성군",
@@ -330,7 +330,7 @@
 "phone": "02-784-6327",
 "totalmembers": 306,
 "email": "jsjeong0403@naver.com",
-"absenteeism": 0.23012281835811244,
+"absenteeism": 0.22997416020671835,
 "roman_name": "JEONG JEOMSIG",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771103.jpg",
@@ -349,7 +349,7 @@
 "예산결산특별위원회"
 ],
 "name_alt": "李將燮",
-"age": 58.95342465753425,
+"age": 58.95616438356164,
 "absenteeism_party_rank": 79,
 "name": "이장섭",
 "district": "충북 청주시서원구",
@@ -359,7 +359,7 @@
 "phone": "02-784-4441",
 "totalmembers": 306,
 "email": "",
-"absenteeism": 0.11570782159017456,
+"absenteeism": 0.11627906976744184,
 "roman_name": "LEE JANGSUB",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771201.jpg",
@@ -377,7 +377,7 @@
 "국토교통위원회"
 ],
 "name_alt": "沈相奵",
-"age": 63.18082191780822,
+"age": 63.18356164383562,
 "absenteeism_party_rank": 1,
 "name": "심상정",
 "district": "경기 고양시갑",
@@ -387,7 +387,7 @@
 "phone": "02-784-9530",
 "totalmembers": 306,
 "email": "713sim@naver.com",
-"absenteeism": 0.40271493212669685,
+"absenteeism": 0.4031007751937985,
 "roman_name": "SIM SANGJEUNG",
 "partysize": 6,
 "image_url": "http://www.assembly.go.kr/photo/9770869.jpg",
@@ -400,12 +400,12 @@
 "party": "정의당"
 },
 "9771239": {
-"loyalty": 0.7420435347351244,
+"loyalty": 0.7421423118650201,
 "committees": [
 "정무위원회"
 ],
 "name_alt": "尹柱卿",
-"age": 62.983561643835614,
+"age": 62.986301369863014,
 "absenteeism_party_rank": 92,
 "name": "윤주경",
 "district": "비례대표",
@@ -415,7 +415,7 @@
 "phone": "02-784-7057",
 "totalmembers": 306,
 "email": "bela0524@naver.com",
-"absenteeism": 0.15643180349062702,
+"absenteeism": 0.15633074935400515,
 "roman_name": "YUN JUKEYNG",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771239.jpg",
@@ -428,13 +428,13 @@
 "party": "국민의힘"
 },
 "9771259": {
-"loyalty": 0.936672748905849,
+"loyalty": 0.9366947566393004,
 "committees": [
 "교육위원회",
 "여성가족위원회"
 ],
 "name_alt": "權仁淑",
-"age": 57.66301369863014,
+"age": 57.66575342465753,
 "absenteeism_party_rank": 6,
 "name": "권인숙",
 "district": "비례대표",
@@ -444,7 +444,7 @@
 "phone": "02-784-9241",
 "totalmembers": 306,
 "email": "iskwon317@naver.com",
-"absenteeism": 0.07045895281189396,
+"absenteeism": 0.07041343669250644,
 "roman_name": "KWON INSOOK",
 "partysize": 14,
 "image_url": "http://www.assembly.go.kr/photo/9771259.jpg",
@@ -457,12 +457,12 @@
 "party": "더불어시민당"
 },
 "9771139": {
-"loyalty": 0.8575120336219358,
+"loyalty": 0.8575742147143047,
 "committees": [
 "보건복지위원회"
 ],
 "name_alt": "田奉珉",
-"age": 49.515068493150686,
+"age": 49.51780821917808,
 "absenteeism_party_rank": 59,
 "name": "전봉민",
 "district": "부산 수영구",
@@ -472,7 +472,7 @@
 "phone": "02-784-4591",
 "totalmembers": 306,
 "email": "jbm102100@na.go.kr",
-"absenteeism": 0.25985778926955394,
+"absenteeism": 0.2596899224806202,
 "roman_name": "JEON BONGMIN",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771139.jpg",
@@ -485,13 +485,13 @@
 "party": "국민의힘"
 },
 "9771205": {
-"loyalty": 0.9738708300158198,
+"loyalty": 0.9738805308403546,
 "committees": [
 "정무위원회",
 "윤리특별위원회"
 ],
 "name_alt": "李楨文",
-"age": 49.30684931506849,
+"age": 49.30958904109589,
 "absenteeism_party_rank": 70,
 "name": "이정문",
 "district": "충남 천안시병",
@@ -501,7 +501,7 @@
 "phone": "02-784-2350",
 "totalmembers": 306,
 "email": "ljm935@na.go.kr",
-"absenteeism": 0.12992889463477697,
+"absenteeism": 0.1298449612403101,
 "roman_name": "LEE JUNGMUN",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771205.jpg",
@@ -519,7 +519,7 @@
 "농림축산식품해양수산위원회"
 ],
 "name_alt": "權七勝",
-"age": 56.43835616438356,
+"age": 56.441095890410956,
 "absenteeism_party_rank": 7,
 "name": "권칠승",
 "district": "경기 화성시병",
@@ -529,7 +529,7 @@
 "phone": "02-784-1250",
 "totalmembers": 306,
 "email": "anotherk7@gmail.com",
-"absenteeism": 0.6800258564964448,
+"absenteeism": 0.6802325581395349,
 "roman_name": "KWON CHILSEUNG",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770998.jpg",
@@ -542,12 +542,12 @@
 "party": "더불어민주당"
 },
 "9771236": {
-"loyalty": 0.8238738225465001,
+"loyalty": 0.8239609490309082,
 "committees": [
 "기획재정위원회"
 ],
 "name_alt": "徐一俊",
-"age": 56.964383561643835,
+"age": 56.967123287671235,
 "absenteeism_party_rank": 50,
 "name": "서일준",
 "district": "경남 거제시",
@@ -557,7 +557,7 @@
 "phone": "02-784-1797",
 "totalmembers": 306,
 "email": "sijkorea@gmail.com",
-"absenteeism": 0.3471234647705236,
+"absenteeism": 0.3468992248062015,
 "roman_name": "SEO ILJUN",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771236.jpg",
@@ -570,12 +570,12 @@
 "party": "국민의힘"
 },
 "9771167": {
-"loyalty": 0.9794151451596991,
+"loyalty": 0.9794220033490749,
 "committees": [
 "정무위원회"
 ],
 "name_alt": "洪性國",
-"age": 59.16986301369863,
+"age": 59.172602739726024,
 "absenteeism_party_rank": 144,
 "name": "홍성국",
 "district": "세종특별자치시갑",
@@ -585,7 +585,7 @@
 "phone": "02-784-2820~2",
 "totalmembers": 306,
 "email": "sejonghsk@gmail.com",
-"absenteeism": 0.030381383322559796,
+"absenteeism": 0.030361757105943132,
 "roman_name": "HONG SUNGKOOK",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771167.jpg",
@@ -598,12 +598,12 @@
 "party": "더불어민주당"
 },
 "9771163": {
-"loyalty": 0.8199851335924105,
+"loyalty": 0.8201036034087353,
 "committees": [
 "국토교통위원회"
 ],
 "name_alt": "朴聖敏",
-"age": 63.02191780821918,
+"age": 63.02465753424657,
 "absenteeism_party_rank": 24,
 "name": "박성민",
 "district": "울산 중구",
@@ -613,7 +613,7 @@
 "phone": "02-784-1258",
 "totalmembers": 306,
 "email": "smpark3340@naver.com",
-"absenteeism": 0.5093729799612152,
+"absenteeism": 0.5090439276485788,
 "roman_name": "PARK SEONGMIN",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771163.jpg",
@@ -626,13 +626,13 @@
 "party": "국민의힘"
 },
 "9771209": {
-"loyalty": 0.9471108689571192,
+"loyalty": 0.9471291982354526,
 "committees": [
 "산업통상자원중소벤처기업위원회",
 "예산결산특별위원회"
 ],
 "name_alt": "申榮大",
-"age": 54.27945205479452,
+"age": 54.28219178082192,
 "absenteeism_party_rank": 116,
 "name": "신영대",
 "district": "전북 군산시",
@@ -642,7 +642,7 @@
 "phone": "02-784-1524",
 "totalmembers": 306,
 "email": "syd@assembly.go.kr",
-"absenteeism": 0.0678733031674208,
+"absenteeism": 0.0678294573643411,
 "roman_name": "SHIN YEONGDAE",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771209.jpg",
@@ -655,12 +655,12 @@
 "party": "더불어민주당"
 },
 "9770839": {
-"loyalty": 0.9527838957384809,
+"loyalty": 0.9528003387493439,
 "committees": [
 "보건복지위원회"
 ],
 "name_alt": "印在謹",
-"age": 68.45753424657535,
+"age": 68.46027397260274,
 "absenteeism_party_rank": 112,
 "name": "인재근",
 "district": "서울 도봉구갑",
@@ -670,7 +670,7 @@
 "phone": "02-784-8091",
 "totalmembers": 306,
 "email": "ijgalso@daum.net",
-"absenteeism": 0.07239819004524883,
+"absenteeism": 0.07235142118863047,
 "roman_name": "IN JAEKEUN",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770839.jpg",
@@ -683,13 +683,13 @@
 "party": "더불어민주당"
 },
 "9771172": {
-"loyalty": 0.9755527897916095,
+"loyalty": 0.9755623788134369,
 "committees": [
 "행정안전위원회",
 "예산결산특별위원회"
 ],
 "name_alt": "吳永煥",
-"age": 34.20821917808219,
+"age": 34.21095890410959,
 "absenteeism_party_rank": 51,
 "name": "오영환",
 "district": "경기 의정부시갑",
@@ -699,7 +699,7 @@
 "phone": "02-6788-6766",
 "totalmembers": 306,
 "email": "119heartsaver@naver.com",
-"absenteeism": 0.17647058823529416,
+"absenteeism": 0.1763565891472868,
 "roman_name": "OH YEONGHWAN",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771172.jpg",
@@ -712,12 +712,12 @@
 "party": "더불어민주당"
 },
 "9770963": {
-"loyalty": 0.95161433618734,
+"loyalty": 0.951632543399203,
 "committees": [
 "교육위원회"
 ],
 "name_alt": "朴贊大",
-"age": 54.964383561643835,
+"age": 54.967123287671235,
 "absenteeism_party_rank": 65,
 "name": "박찬대",
 "district": "인천 연수구갑",
@@ -727,7 +727,7 @@
 "phone": "02-784-5477",
 "totalmembers": 306,
 "email": "parkcd0214@gmail.com",
-"absenteeism": 0.14156431803490632,
+"absenteeism": 0.1414728682170543,
 "roman_name": "PARK CHANDAE",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770963.jpg",
@@ -740,12 +740,12 @@
 "party": "더불어민주당"
 },
 "9770931": {
-"loyalty": 0.9424486337561125,
+"loyalty": 0.9424688591534139,
 "committees": [
 "기획재정위원회"
 ],
 "name_alt": "高榕禛",
-"age": 57.723287671232875,
+"age": 57.726027397260275,
 "absenteeism_party_rank": 102,
 "name": "고용진",
 "district": "서울 노원구갑",
@@ -755,7 +755,7 @@
 "phone": "02-784-4840",
 "totalmembers": 306,
 "email": "gogoyongjin@naver.com",
-"absenteeism": 0.08080155138978673,
+"absenteeism": 0.08074935400516792,
 "roman_name": "KOH YONGJIN",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770931.jpg",
@@ -768,12 +768,12 @@
 "party": "더불어민주당"
 },
 "9771141": {
-"loyalty": 0.8438352226313524,
+"loyalty": 0.8438934604768863,
 "committees": [
 "기획재정위원회"
 ],
 "name_alt": "柳性杰",
-"age": 64.79178082191781,
+"age": 64.79452054794521,
 "absenteeism_party_rank": 100,
 "name": "류성걸",
 "district": "대구 동구갑",
@@ -783,7 +783,7 @@
 "phone": "02-784-7141",
 "totalmembers": 306,
 "email": "7847142@naver.com",
-"absenteeism": 0.13380736910148672,
+"absenteeism": 0.13372093023255816,
 "roman_name": "YOO SUNGKULL",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771141.jpg",
@@ -801,7 +801,7 @@
 "기획재정위원회"
 ],
 "name_alt": "金泰欽",
-"age": 59.29041095890411,
+"age": 59.293150684931504,
 "absenteeism_party_rank": 14,
 "name": "김태흠",
 "district": "충남 보령시서천군",
@@ -811,7 +811,7 @@
 "phone": "02-784-4710",
 "totalmembers": 306,
 "email": "ktheum@hanmail.net",
-"absenteeism": 0.6373626373626373,
+"absenteeism": 0.6375968992248062,
 "roman_name": "KIM TAEHEUM",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9770742.jpg",
@@ -829,7 +829,7 @@
 "외교통일위원회"
 ],
 "name_alt": "金台鎬",
-"age": 59.68219178082192,
+"age": 59.68493150684932,
 "absenteeism_party_rank": 2,
 "name": "김태호",
 "district": "경남 산청군함양군거창군합천군",
@@ -839,7 +839,7 @@
 "phone": "02-784-0896~7",
 "totalmembers": 306,
 "email": "taehoshgh@naver.com",
-"absenteeism": 0.8720103425985779,
+"absenteeism": 0.872093023255814,
 "roman_name": "KIM TAEHO",
 "partysize": 7,
 "image_url": "http://www.assembly.go.kr/photo/9771237.jpg",
@@ -852,12 +852,12 @@
 "party": "무소속"
 },
 "9770741": {
-"loyalty": 0.9689386788269134,
+"loyalty": 0.9689545954670429,
 "committees": [
 "외교통일위원회"
 ],
 "name_alt": "金太年",
-"age": 57.104109589041094,
+"age": 57.106849315068494,
 "absenteeism_party_rank": 19,
 "name": "김태년",
 "district": "경기 성남시수정구",
@@ -867,7 +867,7 @@
 "phone": "02-784-4570, 031-751-4048",
 "totalmembers": 306,
 "email": "ktn0320@daum.net",
-"absenteeism": 0.3697478991596639,
+"absenteeism": 0.3695090439276486,
 "roman_name": "KIM TAENYEON",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770741.jpg",
@@ -880,12 +880,12 @@
 "party": "더불어민주당"
 },
 "9771166": {
-"loyalty": 0.8730452769631474,
+"loyalty": 0.8730969370763899,
 "committees": [
 "행정안전위원회"
 ],
 "name_alt": "徐範洙",
-"age": 58.608219178082194,
+"age": 58.61095890410959,
 "absenteeism_party_rank": 82,
 "name": "서범수",
 "district": "울산 울주군",
@@ -895,7 +895,7 @@
 "phone": "02-784-6277",
 "totalmembers": 306,
 "email": "bumsoo917@naver.com",
-"absenteeism": 0.20620555914673566,
+"absenteeism": 0.20607235142118863,
 "roman_name": "SUH BUMSOO",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771166.jpg",
@@ -908,12 +908,12 @@
 "party": "국민의힘"
 },
 "9770991": {
-"loyalty": 0.9791532234056947,
+"loyalty": 0.9791638189726277,
 "committees": [
 "정무위원회"
 ],
 "name_alt": "金漢正",
-"age": 58.63835616438356,
+"age": 58.64109589041096,
 "absenteeism_party_rank": 20,
 "name": "김한정",
 "district": "경기 남양주시을",
@@ -923,7 +923,7 @@
 "phone": "02-784-0496",
 "totalmembers": 306,
 "email": "hanjkim631@naver.com",
-"absenteeism": 0.36457659987071755,
+"absenteeism": 0.3643410852713178,
 "roman_name": "KIM HANJUNG",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770991.jpg",
@@ -936,23 +936,23 @@
 "party": "더불어민주당"
 },
 "9771118": {
-"loyalty": 0.960784126614543,
+"loyalty": 0.9607990631503678,
 "committees": [
 "외교통일위원회",
 "정보위원회"
 ],
 "name_alt": "尹建永",
-"age": 52.583561643835615,
+"age": 52.586301369863016,
 "absenteeism_party_rank": 61,
 "name": "윤건영",
 "district": "서울 구로구을",
-"loyalty_rank": 78,
+"loyalty_rank": 77,
 "dob": "1969-09-26",
 "member_id": "9771118",
 "phone": "02-784-1534",
 "totalmembers": 306,
 "email": "younky926@gmail.com",
-"absenteeism": 0.15190691661279898,
+"absenteeism": 0.15180878552971577,
 "roman_name": "YOUN KUNYOUNG",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771118.jpg",
@@ -965,13 +965,13 @@
 "party": "더불어민주당"
 },
 "9770973": {
-"loyalty": 0.9785515382649672,
+"loyalty": 0.9785593847849792,
 "committees": [
 "과학기술정보방송통신위원회",
 "여성가족위원회"
 ],
 "name_alt": "趙承來",
-"age": 54.178082191780824,
+"age": 54.18082191780822,
 "absenteeism_party_rank": 78,
 "name": "조승래",
 "district": "대전 유성구갑",
@@ -981,7 +981,7 @@
 "phone": "02-784-2640",
 "totalmembers": 306,
 "email": "yuseong0413@daum.net",
-"absenteeism": 0.11700064641241115,
+"absenteeism": 0.11692506459948315,
 "roman_name": "JO SEOUNGLAE",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770973.jpg",
@@ -994,12 +994,12 @@
 "party": "더불어민주당"
 },
 "9771250": {
-"loyalty": 0.8385848302721209,
+"loyalty": 0.8386521006104156,
 "committees": [
 "외교통일위원회"
 ],
 "name_alt": "地成浩",
-"age": 40.06575342465754,
+"age": 40.06849315068493,
 "absenteeism_party_rank": 73,
 "name": "지성호",
 "district": "비례대표",
@@ -1009,7 +1009,7 @@
 "phone": "02-784-5270",
 "totalmembers": 306,
 "email": "mokbal2006@naver.com",
-"absenteeism": 0.2249515190691661,
+"absenteeism": 0.22480620155038755,
 "roman_name": "JI SEONGHO",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771250.jpg",
@@ -1022,13 +1022,13 @@
 "party": "국민의힘"
 },
 "9771184": {
-"loyalty": 0.8960577420677421,
+"loyalty": 0.8960949506810454,
 "committees": [
 "정무위원회"
 ],
 "name_alt": "李龍雨",
-"age": 58.23287671232877,
-"absenteeism_party_rank": 91,
+"age": 58.23561643835617,
+"absenteeism_party_rank": 92,
 "name": "이용우",
 "district": "경기 고양시정",
 "loyalty_rank": 195,
@@ -1037,25 +1037,25 @@
 "phone": "02-784-8780",
 "totalmembers": 306,
 "email": "minjoolee2020@gmail.com",
-"absenteeism": 0.0976082740788623,
+"absenteeism": 0.09754521963824292,
 "roman_name": "LEE YONGWOO",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771184.jpg",
 "loyalty_party_rank": 161,
 "session": 21,
 "office": "의원회관 313호",
-"absenteeism_rank": 213,
+"absenteeism_rank": 214,
 "website": "http://blog.naver.com/ywlee9501",
 "terms": 1,
 "party": "더불어민주당"
 },
 "9771263": {
-"loyalty": 0.9221658285007922,
+"loyalty": 0.9221926355177743,
 "committees": [
 "환경노동위원회"
 ],
 "name_alt": "尹美香",
-"age": 57.20821917808219,
+"age": 57.21095890410959,
 "absenteeism_party_rank": 9,
 "name": "윤미향",
 "district": "비례대표",
@@ -1065,7 +1065,7 @@
 "phone": "02-784-0790",
 "totalmembers": 306,
 "email": "",
-"absenteeism": 0.062055591467356175,
+"absenteeism": 0.06201550387596899,
 "roman_name": "YOUN MEEHYANG",
 "partysize": 14,
 "image_url": "http://www.assembly.go.kr/photo/9771263.jpg",
@@ -1078,12 +1078,12 @@
 "party": "더불어시민당"
 },
 "9771224": {
-"loyalty": 0.8554207190859261,
+"loyalty": 0.8554817874227219,
 "committees": [
 "산업통상자원중소벤처기업위원회"
 ],
 "name_alt": "具滋根",
-"age": 54.54794520547945,
+"age": 54.55068493150685,
 "absenteeism_party_rank": 71,
 "name": "구자근",
 "district": "경북 구미시갑",
@@ -1093,7 +1093,7 @@
 "phone": "02-784-3190",
 "totalmembers": 306,
 "email": "can929292@naver.com",
-"absenteeism": 0.23529411764705888,
+"absenteeism": 0.23514211886304914,
 "roman_name": "KU JAKEUN",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771224.jpg",
@@ -1111,7 +1111,7 @@
 "국토교통위원회"
 ],
 "name_alt": "宋錫俊",
-"age": 58.131506849315066,
+"age": 58.134246575342466,
 "absenteeism_party_rank": 79,
 "name": "송석준",
 "district": "경기 이천시",
@@ -1121,7 +1121,7 @@
 "phone": "02-784-3161",
 "totalmembers": 306,
 "email": "ymh0792@naver.com",
-"absenteeism": 0.2100840336134454,
+"absenteeism": 0.210594315245478,
 "roman_name": "SONG SEOGJUN",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9770996.jpg",
@@ -1139,7 +1139,7 @@
 "행정안전위원회"
 ],
 "name_alt": "李永",
-"age": 52.89041095890411,
+"age": 52.893150684931506,
 "absenteeism_party_rank": 94,
 "name": "이영",
 "district": "비례대표",
@@ -1149,7 +1149,7 @@
 "phone": "02-784-2174",
 "totalmembers": 306,
 "email": "futurekorea20@naver.com",
-"absenteeism": 0.15384615384615385,
+"absenteeism": 0.15439276485788112,
 "roman_name": "LEE YOUNG",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771251.jpg",
@@ -1162,12 +1162,12 @@
 "party": "국민의힘"
 },
 "9770356": {
-"loyalty": 0.9554606101464179,
+"loyalty": 0.9554815846659958,
 "committees": [
 "과학기술정보방송통신위원회"
 ],
 "name_alt": "卞在一",
-"age": 73.64931506849315,
+"age": 73.65205479452055,
 "absenteeism_party_rank": 26,
 "name": "변재일",
 "district": "충북 청주시청원구",
@@ -1177,7 +1177,7 @@
 "phone": "02-784-1626",
 "totalmembers": 306,
 "email": "bji@assembly.go.kr",
-"absenteeism": 0.3141564318034906,
+"absenteeism": 0.313953488372093,
 "roman_name": "BYUN JAEILL",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770356.jpg",
@@ -1190,13 +1190,13 @@
 "party": "더불어민주당"
 },
 "9771211": {
-"loyalty": 0.9676733436834439,
+"loyalty": 0.9676838752544407,
 "committees": [
 "국회운영위원회",
 "행정안전위원회"
 ],
 "name_alt": "韓秉道",
-"age": 54.38630136986301,
+"age": 54.38904109589041,
 "absenteeism_party_rank": 157,
 "name": "한병도",
 "district": "전북 익산시을",
@@ -1206,7 +1206,7 @@
 "phone": "02-784-5891",
 "totalmembers": 306,
 "email": "1bddoit@gmail.com",
-"absenteeism": 0.008403361344537785,
+"absenteeism": 0.008397932816537446,
 "roman_name": "HAN BYUNGDO",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771211.jpg",
@@ -1219,13 +1219,13 @@
 "party": "더불어민주당"
 },
 "9771089": {
-"loyalty": 0.9731488445844775,
+"loyalty": 0.9731595188665194,
 "committees": [
 "국회운영위원회",
 "산업통상자원중소벤처기업위원회"
 ],
 "name_alt": "金星煥",
-"age": 56.53150684931507,
+"age": 56.534246575342465,
 "absenteeism_party_rank": 47,
 "name": "김성환",
 "district": "서울 노원구병",
@@ -1235,7 +1235,7 @@
 "phone": "02-784-6271",
 "totalmembers": 306,
 "email": "kimnowongu@gmail.com",
-"absenteeism": 0.1874595992243051,
+"absenteeism": 0.1873385012919897,
 "roman_name": "KIM SUNGWHAN",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771089.jpg",
@@ -1248,13 +1248,13 @@
 "party": "더불어민주당"
 },
 "9771177": {
-"loyalty": 0.9637713585768902,
+"loyalty": 0.9637835506154058,
 "committees": [
 "국회운영위원회",
 "문화체육관광위원회"
 ],
 "name_alt": "林五卿",
-"age": 50.37534246575343,
+"age": 50.37808219178082,
 "absenteeism_party_rank": 138,
 "name": "임오경",
 "district": "경기 광명시갑",
@@ -1264,7 +1264,7 @@
 "phone": "국회) 784-6396 광명) 2682-0415",
 "totalmembers": 306,
 "email": "lok0415@hanmail.net",
-"absenteeism": 0.040077569489334164,
+"absenteeism": 0.040051679586563305,
 "roman_name": "LIM OKYEONG",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771177.jpg",
@@ -1284,8 +1284,8 @@
 "윤리특별위원회"
 ],
 "name_alt": "崔基相",
-"age": 52.553424657534244,
-"absenteeism_party_rank": 86,
+"age": 52.556164383561644,
+"absenteeism_party_rank": 85,
 "name": "최기상",
 "district": "서울 금천구",
 "loyalty_rank": 43,
@@ -1294,14 +1294,14 @@
 "phone": "02-784-4990",
 "totalmembers": 306,
 "email": "choiwakeup@gmail.com",
-"absenteeism": 0.10407239819004521,
+"absenteeism": 0.10465116279069764,
 "roman_name": "CHOI KISANG",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771119.jpg",
 "loyalty_party_rank": 33,
 "session": 21,
 "office": "의원회관 733호",
-"absenteeism_rank": 208,
+"absenteeism_rank": 207,
 "website": "http://blog.naver.com/gisang2020",
 "terms": 1,
 "party": "더불어민주당"
@@ -1312,7 +1312,7 @@
 "환경노동위원회"
 ],
 "name_alt": "宋玉珠",
-"age": 56.35068493150685,
+"age": 56.35342465753425,
 "absenteeism_party_rank": 118,
 "name": "송옥주",
 "district": "경기 화성시갑",
@@ -1322,7 +1322,7 @@
 "phone": "02-784-9470",
 "totalmembers": 306,
 "email": "songok4740@naver.com",
-"absenteeism": 0.06464124111182934,
+"absenteeism": 0.06524547803617575,
 "roman_name": "SONG OKJOO",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771058.jpg",
@@ -1335,15 +1335,15 @@
 "party": "더불어민주당"
 },
 "9771028": {
-"loyalty": 0.863602778093495,
+"loyalty": 0.8636564883621285,
 "committees": [
 "농림축산식품해양수산위원회",
 "예산결산특별위원회",
 "윤리특별위원회"
 ],
 "name_alt": "李晩熙",
-"age": 58.37534246575343,
-"absenteeism_party_rank": 87,
+"age": 58.37808219178082,
+"absenteeism_party_rank": 88,
 "name": "이만희",
 "district": "경북 영천시청도군",
 "loyalty_rank": 213,
@@ -1352,14 +1352,14 @@
 "phone": "02-784-5901",
 "totalmembers": 306,
 "email": "yc20002@naver.com",
-"absenteeism": 0.1797026502908856,
+"absenteeism": 0.17958656330749356,
 "roman_name": "LEE MANHEE",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771028.jpg",
 "loyalty_party_rank": 14,
 "session": 21,
 "office": "의원회관 819호",
-"absenteeism_rank": 151,
+"absenteeism_rank": 152,
 "website": "http://band.us/@yc20002",
 "terms": 2,
 "party": "국민의힘"
@@ -1370,7 +1370,7 @@
 "과학기술정보방송통신위원회"
 ],
 "name_alt": "林炳憲",
-"age": 68.54520547945205,
+"age": 68.54794520547945,
 "absenteeism_party_rank": 1,
 "name": "임병헌",
 "district": "대구 중구남구",
@@ -1380,7 +1380,7 @@
 "phone": "",
 "totalmembers": 306,
 "email": "",
-"absenteeism": 0.9857789269553976,
+"absenteeism": 0.9857881136950905,
 "roman_name": "LIM BYUNGHEON",
 "partysize": 7,
 "image_url": "http://www.assembly.go.kr/photo/9771290.jpg",
@@ -1393,12 +1393,12 @@
 "party": "무소속"
 },
 "9771175": {
-"loyalty": 0.936978711000121,
+"loyalty": 0.9370034300789303,
 "committees": [
 "정무위원회"
 ],
 "name_alt": "閔炳德",
-"age": 51.35068493150685,
+"age": 51.35342465753425,
 "absenteeism_party_rank": 51,
 "name": "민병덕",
 "district": "경기 안양시동안구갑",
@@ -1408,7 +1408,7 @@
 "phone": "02-784-9540",
 "totalmembers": 306,
 "email": "anyangmin@gmail.com",
-"absenteeism": 0.17647058823529416,
+"absenteeism": 0.1763565891472868,
 "roman_name": "MIN BYOUNGDUG",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771175.jpg",
@@ -1426,7 +1426,7 @@
 "산업통상자원중소벤처기업위원회"
 ],
 "name_alt": "李素永",
-"age": 37.20821917808219,
+"age": 37.21095890410959,
 "absenteeism_party_rank": 43,
 "name": "이소영",
 "district": "경기 의왕시과천시",
@@ -1436,7 +1436,7 @@
 "phone": "02-784-1051",
 "totalmembers": 306,
 "email": "hello@imsoyoung.kr",
-"absenteeism": 0.22236586942469294,
+"absenteeism": 0.22286821705426352,
 "roman_name": "LEE SOYOUNG",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771185.jpg",
@@ -1449,12 +1449,12 @@
 "party": "더불어민주당"
 },
 "9771152": {
-"loyalty": 0.9665389601828663,
+"loyalty": 0.9665517927968827,
 "committees": [
 "국토교통위원회"
 ],
 "name_alt": "金敎興",
-"age": 61.657534246575345,
+"age": 61.66027397260274,
 "absenteeism_party_rank": 59,
 "name": "김교흥",
 "district": "인천 서구갑",
@@ -1464,7 +1464,7 @@
 "phone": "02-784-1261 / 032-565-0806",
 "totalmembers": 306,
 "email": "kimkh4u@naver.com",
-"absenteeism": 0.1577246283128636,
+"absenteeism": 0.15762273901808788,
 "roman_name": "KIM KYOHEUNG",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771152.jpg",
@@ -1477,14 +1477,14 @@
 "party": "더불어민주당"
 },
 "9771269": {
-"loyalty": 0.9148513140499082,
+"loyalty": 0.9148811750664148,
 "committees": [
 "국회운영위원회",
 "환경노동위원회",
 "여성가족위원회"
 ],
 "name_alt": "李壽珍",
-"age": 52.95342465753425,
+"age": 52.95616438356164,
 "absenteeism_party_rank": 4,
 "name": "이수진",
 "district": "비례대표",
@@ -1494,7 +1494,7 @@
 "phone": "02-784-6351",
 "totalmembers": 306,
 "email": "leesj545@hanmail.net",
-"absenteeism": 0.07886231415643186,
+"absenteeism": 0.07881136950904388,
 "roman_name": "LEE SOOJIN",
 "partysize": 14,
 "image_url": "http://www.assembly.go.kr/photo/9771269.jpg",
@@ -1507,13 +1507,13 @@
 "party": "더불어시민당"
 },
 "9771279": {
-"loyalty": 0.8879229081845718,
+"loyalty": 0.8879778075715618,
 "committees": [
 "보건복지위원회",
 "여성가족위원회"
 ],
 "name_alt": "崔姸淑",
-"age": 61.75616438356165,
+"age": 61.75890410958904,
 "absenteeism_party_rank": 3,
 "name": "최연숙",
 "district": "비례대표",
@@ -1523,7 +1523,7 @@
 "phone": "02-784-7810~2",
 "totalmembers": 306,
 "email": "cysook915@naver.com",
-"absenteeism": 0.34065934065934067,
+"absenteeism": 0.3404392764857881,
 "roman_name": "CHOI YOUNSUK",
 "partysize": 3,
 "image_url": "http://www.assembly.go.kr/photo/9771279.jpg",
@@ -1541,7 +1541,7 @@
 "환경노동위원회"
 ],
 "name_alt": "安浩永",
-"age": 56.54246575342466,
+"age": 56.54520547945206,
 "absenteeism_party_rank": 132,
 "name": "안호영",
 "district": "전북 완주군진안군무주군장수군",
@@ -1551,7 +1551,7 @@
 "phone": "02-784-9751",
 "totalmembers": 306,
 "email": "ahnho065@gmail.com",
-"absenteeism": 0.04977375565610864,
+"absenteeism": 0.050387596899224785,
 "roman_name": "AN HOYOUNG",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771017.jpg",
@@ -1569,7 +1569,7 @@
 "교육위원회"
 ],
 "name_alt": "李誕熙",
-"age": 43.47945205479452,
+"age": 43.48219178082192,
 "absenteeism_party_rank": 44,
 "name": "이탄희",
 "district": "경기 용인시정",
@@ -1579,7 +1579,7 @@
 "phone": "02-784-8940",
 "totalmembers": 306,
 "email": "leetanhi1@gmail.com",
-"absenteeism": 0.20814479638009054,
+"absenteeism": 0.20865633074935397,
 "roman_name": "LEE TAHNEY",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771190.jpg",
@@ -1592,13 +1592,13 @@
 "party": "더불어민주당"
 },
 "9771277": {
-"loyalty": 0.9331525870120474,
+"loyalty": 0.9327225801809993,
 "committees": [
 "국회운영위원회",
 "정무위원회"
 ],
 "name_alt": "裵晋敎",
-"age": 53.66849315068493,
+"age": 53.67123287671233,
 "absenteeism_party_rank": 4,
 "name": "배진교",
 "district": "비례대표",
@@ -1608,7 +1608,7 @@
 "phone": "02-784-3080~2",
 "totalmembers": 306,
 "email": "bjg517@naver.com",
-"absenteeism": 0.04201680672268904,
+"absenteeism": 0.04198966408268734,
 "roman_name": "BAE JINGYO",
 "partysize": 6,
 "image_url": "http://www.assembly.go.kr/photo/9771277.jpg",
@@ -1621,12 +1621,12 @@
 "party": "정의당"
 },
 "9771245": {
-"loyalty": 0.7270567924614411,
+"loyalty": 0.7271728644239677,
 "committees": [
 "교육위원회"
 ],
 "name_alt": "丁慶姬",
-"age": 64.24931506849315,
+"age": 64.25205479452055,
 "absenteeism_party_rank": 69,
 "name": "정경희",
 "district": "비례대표",
@@ -1636,7 +1636,7 @@
 "phone": "02-784-1571",
 "totalmembers": 306,
 "email": "",
-"absenteeism": 0.2404654169360052,
+"absenteeism": 0.24031007751937983,
 "roman_name": "CHUNG KYUNGHEE",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771245.jpg",
@@ -1649,13 +1649,13 @@
 "party": "국민의힘"
 },
 "9770779": {
-"loyalty": 0.9636361677108346,
+"loyalty": 0.9636497692943623,
 "committees": [
 "기획재정위원회",
 "예산결산특별위원회"
 ],
 "name_alt": "朴洪根",
-"age": 52.55068493150685,
+"age": 52.553424657534244,
 "absenteeism_party_rank": 67,
 "name": "박홍근",
 "district": "서울 중랑구을",
@@ -1665,7 +1665,7 @@
 "phone": "02-784-8370",
 "totalmembers": 306,
 "email": "maumgil88@gmail.com",
-"absenteeism": 0.13639301874595988,
+"absenteeism": 0.1363049095607235,
 "roman_name": "PARK HONGKEUN",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770779.jpg",
@@ -1678,12 +1678,12 @@
 "party": "더불어민주당"
 },
 "9771130": {
-"loyalty": 0.8051491383500033,
+"loyalty": 0.8052505439575219,
 "committees": [
 "과학기술정보방송통신위원회"
 ],
 "name_alt": "皇甫承希",
-"age": 45.726027397260275,
+"age": 45.728767123287675,
 "absenteeism_party_rank": 47,
 "name": "황보승희",
 "district": "부산 중구영도구",
@@ -1693,7 +1693,7 @@
 "phone": "02-784-6931 / 051-412-0415",
 "totalmembers": 306,
 "email": "0415hbsh@naver.com",
-"absenteeism": 0.37944408532643825,
+"absenteeism": 0.3791989664082688,
 "roman_name": "HWANGBO SEUNGHEE",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771130.jpg",
@@ -1706,12 +1706,12 @@
 "party": "국민의힘"
 },
 "9771176": {
-"loyalty": 0.9733496500873206,
+"loyalty": 0.9733583664734613,
 "committees": [
 "보건복지위원회"
 ],
 "name_alt": "徐暎錫",
-"age": 57.61095890410959,
+"age": 57.61369863013699,
 "absenteeism_party_rank": 152,
 "name": "서영석",
 "district": "경기 부천시정",
@@ -1721,7 +1721,7 @@
 "phone": "02-784-9671",
 "totalmembers": 306,
 "email": "guseng@hanmail.net",
-"absenteeism": 0.012281835811247532,
+"absenteeism": 0.012273901808785515,
 "roman_name": "SEO YOUNGSEOK",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771176.jpg",
@@ -1734,12 +1734,12 @@
 "party": "더불어민주당"
 },
 "9771092": {
-"loyalty": 0.9687421201108376,
+"loyalty": 0.968752263833282,
 "committees": [
 "농림축산식품해양수산위원회"
 ],
 "name_alt": "徐參錫",
-"age": 62.73150684931507,
+"age": 62.73424657534247,
 "absenteeism_party_rank": 161,
 "name": "서삼석",
 "district": "전남 영암군무안군신안군",
@@ -1749,7 +1749,7 @@
 "phone": "02-784-9501",
 "totalmembers": 306,
 "email": "3s0011@naver.com",
-"absenteeism": 0.004524886877828038,
+"absenteeism": 0.004521963824289377,
 "roman_name": "SEO SAMSEOK",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771092.jpg",
@@ -1762,12 +1762,12 @@
 "party": "더불어민주당"
 },
 "9770912": {
-"loyalty": 0.8044068464467287,
+"loyalty": 0.8045098173164886,
 "committees": [
 "정무위원회"
 ],
 "name_alt": "兪義東",
-"age": 50.843835616438355,
+"age": 50.846575342465755,
 "absenteeism_party_rank": 46,
 "name": "유의동",
 "district": "경기 평택시을",
@@ -1777,7 +1777,7 @@
 "phone": "02-784-7351",
 "totalmembers": 306,
 "email": "ptopen730@naver.com",
-"absenteeism": 0.38655462184873945,
+"absenteeism": 0.3863049095607235,
 "roman_name": "YU EUIDONG",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9770912.jpg",
@@ -1796,8 +1796,8 @@
 "예산결산특별위원회"
 ],
 "name_alt": "金南局",
-"age": 39.512328767123286,
-"absenteeism_party_rank": 57,
+"age": 39.515068493150686,
+"absenteeism_party_rank": 56,
 "name": "김남국",
 "district": "경기 안산시단원구을",
 "loyalty_rank": 46,
@@ -1806,25 +1806,25 @@
 "phone": "02-784-2455",
 "totalmembers": 306,
 "email": "lawmaker0415@daum.net",
-"absenteeism": 0.16871363930187455,
+"absenteeism": 0.16925064599483208,
 "roman_name": "KIM NAMKUK",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771181.jpg",
 "loyalty_party_rank": 36,
 "session": 21,
 "office": "의원회관 1011호",
-"absenteeism_rank": 161,
+"absenteeism_rank": 160,
 "website": "",
 "terms": 1,
 "party": "더불어민주당"
 },
 "9770980": {
-"loyalty": 0.9652578686420861,
+"loyalty": 0.9652703680601405,
 "committees": [
 "행정안전위원회"
 ],
 "name_alt": "白惠蓮",
-"age": 55.18904109589041,
+"age": 55.19178082191781,
 "absenteeism_party_rank": 87,
 "name": "백혜련",
 "district": "경기 수원시을",
@@ -1834,7 +1834,7 @@
 "phone": "02-784-6130",
 "totalmembers": 306,
 "email": "bhrassembly0217@gmail.com",
-"absenteeism": 0.10213316095669034,
+"absenteeism": 0.1020671834625323,
 "roman_name": "BACK HYERYUN",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770980.jpg",
@@ -1847,14 +1847,14 @@
 "party": "더불어민주당"
 },
 "9771283": {
-"loyalty": 0.9311087857841418,
+"loyalty": 0.9311321744163609,
 "committees": [
 "국회운영위원회",
 "교육위원회",
 "예산결산특별위원회"
 ],
 "name_alt": "姜旼姃",
-"age": 61.0027397260274,
+"age": 61.00547945205479,
 "absenteeism_party_rank": 4,
 "name": "강민정",
 "district": "비례대표",
@@ -1864,7 +1864,7 @@
 "phone": "02-784-2477",
 "totalmembers": 306,
 "email": "kmj2020edu@gmail.com",
-"absenteeism": 0.04848093083387206,
+"absenteeism": 0.04844961240310075,
 "roman_name": "KANG MINJUNG",
 "partysize": 4,
 "image_url": "http://www.assembly.go.kr/photo/9771283.jpg",
@@ -1882,7 +1882,7 @@
 "행정안전위원회"
 ],
 "name_alt": "吳怜勳",
-"age": 53.367123287671234,
+"age": 53.36986301369863,
 "absenteeism_party_rank": 22,
 "name": "오영훈",
 "district": "제주 제주시을",
@@ -1892,7 +1892,7 @@
 "phone": "02-784-5621",
 "totalmembers": 306,
 "email": "7845621@naver.com",
-"absenteeism": 0.33548804137039434,
+"absenteeism": 0.3359173126614987,
 "roman_name": "OH YOUNGHUN",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771037.jpg",
@@ -1910,7 +1910,7 @@
 "외교통일위원회"
 ],
 "name_alt": "安敏錫",
-"age": 55.704109589041096,
+"age": 55.706849315068496,
 "absenteeism_party_rank": 123,
 "name": "안민석",
 "district": "경기 오산시",
@@ -1920,14 +1920,14 @@
 "phone": "02-784-3877~9",
 "totalmembers": 306,
 "email": "amsams0606@gmail.com",
-"absenteeism": 0.05753070458952814,
+"absenteeism": 0.05813953488372092,
 "roman_name": "AN MINSUK",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770372.jpg",
 "loyalty_party_rank": 55,
 "session": 21,
 "office": "의원회관 920호",
-"absenteeism_rank": 258,
+"absenteeism_rank": 257,
 "website": "https://blog.naver.com/ams0506",
 "terms": 5,
 "party": "더불어민주당"
@@ -1938,7 +1938,7 @@
 "기획재정위원회"
 ],
 "name_alt": "徐秉洙",
-"age": 70.2958904109589,
+"age": 70.2986301369863,
 "absenteeism_party_rank": 87,
 "name": "서병수",
 "district": "부산 진구갑",
@@ -1948,7 +1948,7 @@
 "phone": "02-784-1885",
 "totalmembers": 306,
 "email": "suhbs8680@naver.com",
-"absenteeism": 0.1797026502908856,
+"absenteeism": 0.18023255813953487,
 "roman_name": "SUH BYUNGSOO",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771133.jpg",
@@ -1961,12 +1961,12 @@
 "party": "국민의힘"
 },
 "9770812": {
-"loyalty": 0.8306589889926845,
+"loyalty": 0.8307319965455529,
 "committees": [
 "정무위원회"
 ],
 "name_alt": "尹在玉",
-"age": 60.62739726027397,
+"age": 60.63013698630137,
 "absenteeism_party_rank": 65,
 "name": "윤재옥",
 "district": "대구 달서구을",
@@ -1976,7 +1976,7 @@
 "phone": "02-784-4871",
 "totalmembers": 306,
 "email": "7882579@naver.com",
-"absenteeism": 0.25080801551389786,
+"absenteeism": 0.2506459948320413,
 "roman_name": "YUN JAEOK",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9770812.jpg",
@@ -1989,13 +1989,13 @@
 "party": "국민의힘"
 },
 "9770995": {
-"loyalty": 0.9638839650470841,
+"loyalty": 0.9638967021432139,
 "committees": [
 "문화체육관광위원회"
 ],
 "name_alt": "朴釘",
-"age": 59.43561643835616,
-"absenteeism_party_rank": 99,
+"age": 59.43835616438356,
+"absenteeism_party_rank": 100,
 "name": "박정",
 "district": "경기 파주시을",
 "loyalty_rank": 66,
@@ -2004,25 +2004,25 @@
 "phone": "02-784-3781",
 "totalmembers": 306,
 "email": "pjkorea21c@naver.com",
-"absenteeism": 0.08403361344537819,
+"absenteeism": 0.08397932816537468,
 "roman_name": "PARK JEUNG",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770995.jpg",
 "loyalty_party_rank": 56,
 "session": 21,
 "office": "의원회관 318호",
-"absenteeism_rank": 224,
+"absenteeism_rank": 225,
 "website": "http://blog.naver.com/pjkorea21c",
 "terms": 2,
 "party": "더불어민주당"
 },
 "9771132": {
-"loyalty": 0.7332355911531728,
+"loyalty": 0.7333449432417383,
 "committees": [
 "농림축산식품해양수산위원회"
 ],
 "name_alt": "安炳吉",
-"age": 60.23013698630137,
+"age": 60.23287671232877,
 "absenteeism_party_rank": 78,
 "name": "안병길",
 "district": "부산 서구동구",
@@ -2032,7 +2032,7 @@
 "phone": "02-784-5970",
 "totalmembers": 306,
 "email": "anbg02@naver.com",
-"absenteeism": 0.21202327084680028,
+"absenteeism": 0.21188630490956073,
 "roman_name": "AN BYUNGGIL",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771132.jpg",
@@ -2050,7 +2050,7 @@
 "외교통일위원회"
 ],
 "name_alt": "金弘傑",
-"age": 58.45479452054794,
+"age": 58.45753424657534,
 "absenteeism_party_rank": 1,
 "name": "김홍걸",
 "district": "비례대표",
@@ -2060,7 +2060,7 @@
 "phone": "02-784-0615",
 "totalmembers": 306,
 "email": "2020kimhonggul@gmail.com",
-"absenteeism": 0.3063994828700711,
+"absenteeism": 0.3068475452196382,
 "roman_name": "KIM HONGGUL",
 "partysize": 14,
 "image_url": "http://www.assembly.go.kr/photo/9771270.jpg",
@@ -2078,36 +2078,36 @@
 "국방위원회"
 ],
 "name_alt": "韓起鎬",
-"age": 69.7041095890411,
+"age": 69.7068493150685,
 "absenteeism_party_rank": 93,
 "name": "한기호",
 "district": "강원 춘천시철원군화천군양구군을",
-"loyalty_rank": 302,
+"loyalty_rank": 303,
 "dob": "1952-08-13",
 "member_id": "9771197",
 "phone": "02-784-3860",
 "totalmembers": 306,
 "email": "",
-"absenteeism": 0.15449256625727215,
+"absenteeism": 0.15503875968992253,
 "roman_name": "HAN KIHO",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771197.jpg",
-"loyalty_party_rank": 102,
+"loyalty_party_rank": 103,
 "session": 21,
 "office": "의원회관 908호",
-"absenteeism_rank": 170,
+"absenteeism_rank": 169,
 "website": "https://blog.naver.com/nombo1",
 "terms": 3,
 "party": "국민의힘"
 },
 "9771144": {
-"loyalty": 0.727411476676695,
+"loyalty": 0.7275347362458835,
 "committees": [
 "문화체육관광위원회",
 "예산결산특별위원회"
 ],
 "name_alt": "金承洙",
-"age": 56.81095890410959,
+"age": 56.81369863013698,
 "absenteeism_party_rank": 55,
 "name": "김승수",
 "district": "대구 북구을",
@@ -2117,7 +2117,7 @@
 "phone": "02-784-9518",
 "totalmembers": 306,
 "email": "kiminnotank@naver.com",
-"absenteeism": 0.2857142857142857,
+"absenteeism": 0.28552971576227393,
 "roman_name": "KIM SEUNGSU",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771144.jpg",
@@ -2135,7 +2135,7 @@
 "산업통상자원중소벤처기업위원회"
 ],
 "name_alt": "姜勳植",
-"age": 48.50684931506849,
+"age": 48.50958904109589,
 "absenteeism_party_rank": 33,
 "name": "강훈식",
 "district": "충남 아산시을",
@@ -2145,7 +2145,7 @@
 "phone": "02-784-1045~47",
 "totalmembers": 306,
 "email": "gohoonsik@gmail.com",
-"absenteeism": 0.26761473820297355,
+"absenteeism": 0.2680878552971576,
 "roman_name": "KANG HOONSIK",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771007.jpg",
@@ -2158,22 +2158,22 @@
 "party": "더불어민주당"
 },
 "9771288": {
-"loyalty": 0.9272607032546691,
+"loyalty": 0.9273567287707852,
 "committees": [
 "문화체육관광위원회"
 ],
 "name_alt": "金宜謙",
-"age": 58.93150684931507,
+"age": 58.93424657534246,
 "absenteeism_party_rank": 2,
 "name": "김의겸",
 "district": "비례대표",
-"loyalty_rank": 171,
+"loyalty_rank": 170,
 "dob": "1963-05-22",
 "member_id": "9771288",
 "phone": "02-784-9580~9582",
 "totalmembers": 306,
 "email": "kek9580@gmail.com",
-"absenteeism": 0.5196950444726811,
+"absenteeism": 0.5190355329949239,
 "roman_name": "KIMEUIKYEOM",
 "partysize": 4,
 "image_url": "http://www.assembly.go.kr/photo/9771288.jpg",
@@ -2192,7 +2192,7 @@
 "예산결산특별위원회"
 ],
 "name_alt": "朴振",
-"age": 65.6109589041096,
+"age": 65.61369863013698,
 "absenteeism_party_rank": 63,
 "name": "박진",
 "district": "서울 강남구을",
@@ -2202,7 +2202,7 @@
 "phone": "02-784-9071",
 "totalmembers": 306,
 "email": "dolphin1956@naver.com",
-"absenteeism": 0.25339366515837103,
+"absenteeism": 0.25387596899224807,
 "roman_name": "PARK JIN",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771125.jpg",
@@ -2215,12 +2215,12 @@
 "party": "국민의힘"
 },
 "9770975": {
-"loyalty": 0.9666542333922438,
+"loyalty": 0.9666658541511287,
 "committees": [
 "외교통일위원회"
 ],
 "name_alt": "金榮珠",
-"age": 66.75068493150685,
+"age": 66.75342465753425,
 "absenteeism_party_rank": 111,
 "name": "김영주",
 "district": "서울 영등포구갑",
@@ -2230,7 +2230,7 @@
 "phone": "02-784-2470",
 "totalmembers": 306,
 "email": "kimyoungjoo2018@gmail.com",
-"absenteeism": 0.07304460245636712,
+"absenteeism": 0.07299741602067178,
 "roman_name": "KIM YOUNGJOO",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770975.jpg",
@@ -2243,13 +2243,13 @@
 "party": "더불어민주당"
 },
 "9770753": {
-"loyalty": 0.9550548956695919,
+"loyalty": 0.9550701961310839,
 "committees": [
 "환경노동위원회",
 "정보위원회"
 ],
 "name_alt": "盧雄來",
-"age": 64.73150684931507,
+"age": 64.73424657534247,
 "absenteeism_party_rank": 131,
 "name": "노웅래",
 "district": "서울 마포구갑",
@@ -2259,7 +2259,7 @@
 "phone": "02-6788-6386",
 "totalmembers": 306,
 "email": "wraenoh1@gmail.com",
-"absenteeism": 0.051066580478345225,
+"absenteeism": 0.051033591731266204,
 "roman_name": "NOH WOONGRAE",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770753.jpg",
@@ -2277,7 +2277,7 @@
 "과학기술정보방송통신위원회"
 ],
 "name_alt": "許垠娥",
-"age": 49.92054794520548,
+"age": 49.92328767123288,
 "absenteeism_party_rank": 67,
 "name": "허은아",
 "district": "비례대표",
@@ -2287,7 +2287,7 @@
 "phone": "02-784-2890",
 "totalmembers": 306,
 "email": "",
-"absenteeism": 0.24563671622495153,
+"absenteeism": 0.24612403100775193,
 "roman_name": "HER EUNA",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771256.jpg",
@@ -2300,26 +2300,26 @@
 "party": "국민의힘"
 },
 "9771126": {
-"loyalty": 0.7114731386204379,
+"loyalty": 0.7116008336306222,
 "committees": [
 "기획재정위원회"
 ],
 "name_alt": "兪京濬",
-"age": 60.86027397260274,
+"age": 60.863013698630134,
 "absenteeism_party_rank": 57,
 "name": "유경준",
 "district": "서울 강남구병",
-"loyalty_rank": 300,
+"loyalty_rank": 301,
 "dob": "1961-06-17",
 "member_id": "9771126",
 "phone": "02-784-2051",
 "totalmembers": 306,
 "email": "y0890@assembly.go.kr",
-"absenteeism": 0.2702003878474467,
+"absenteeism": 0.27002583979328165,
 "roman_name": "YOO GYEONGJOON",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771126.jpg",
-"loyalty_party_rank": 100,
+"loyalty_party_rank": 101,
 "session": 21,
 "office": "의원회관 434호",
 "absenteeism_rank": 102,
@@ -2328,12 +2328,12 @@
 "party": "국민의힘"
 },
 "9770968": {
-"loyalty": 0.9413095703808544,
+"loyalty": 0.9413317051844396,
 "committees": [
 "국토교통위원회"
 ],
 "name_alt": "申東根",
-"age": 60.345205479452055,
+"age": 60.347945205479455,
 "absenteeism_party_rank": 64,
 "name": "신동근",
 "district": "인천 서구을",
@@ -2343,7 +2343,7 @@
 "phone": "02-784-6142~4, (F)02-6788-6675",
 "totalmembers": 306,
 "email": "sdkwin16@gmail.com",
-"absenteeism": 0.1435035552682612,
+"absenteeism": 0.14341085271317833,
 "roman_name": "SHIN DONGKUN",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770968.jpg",
@@ -2356,26 +2356,26 @@
 "party": "더불어민주당"
 },
 "9771212": {
-"loyalty": 0.9302472595858834,
+"loyalty": 0.9302699544751823,
 "committees": [
 "환경노동위원회"
 ],
 "name_alt": "尹準炳",
-"age": 61.15068493150685,
+"age": 61.153424657534245,
 "absenteeism_party_rank": 158,
 "name": "윤준병",
 "district": "전북 정읍시고창군",
-"loyalty_rank": 163,
+"loyalty_rank": 161,
 "dob": "1961-03-03",
 "member_id": "9771212",
 "phone": "02-784-1860",
 "totalmembers": 306,
 "email": "yjb870053@naver.com",
-"absenteeism": 0.007110536522301203,
+"absenteeism": 0.00710594315245483,
 "roman_name": "YOON JOONBYEONG",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771212.jpg",
-"loyalty_party_rank": 134,
+"loyalty_party_rank": 133,
 "session": 21,
 "office": "의원회관 522호",
 "absenteeism_rank": 299,
@@ -2384,12 +2384,12 @@
 "party": "더불어민주당"
 },
 "9771127": {
-"loyalty": 0.6351169557651029,
+"loyalty": 0.6352685167453631,
 "committees": [
 "환경노동위원회"
 ],
 "name_alt": "金雄",
-"age": 51.97808219178082,
+"age": 51.98082191780822,
 "absenteeism_party_rank": 74,
 "name": "김웅",
 "district": "서울 송파구갑",
@@ -2399,25 +2399,25 @@
 "phone": "02-784-6084",
 "totalmembers": 306,
 "email": "songpawoong@naver.com",
-"absenteeism": 0.22236586942469294,
+"absenteeism": 0.2222222222222222,
 "roman_name": "KIM WOONG",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771127.jpg",
 "loyalty_party_rank": 105,
 "session": 21,
 "office": "의원회관 329호",
-"absenteeism_rank": 131,
+"absenteeism_rank": 132,
 "website": "http://blog.naver.com/songpawoong",
 "terms": 1,
 "party": "국민의힘"
 },
 "9770981": {
-"loyalty": 0.9751528633839809,
+"loyalty": 0.97516170106401,
 "committees": [
 "기획재정위원회"
 ],
 "name_alt": "金榮鎭",
-"age": 54.62739726027397,
+"age": 54.63013698630137,
 "absenteeism_party_rank": 96,
 "name": "김영진",
 "district": "경기 수원시병",
@@ -2427,7 +2427,7 @@
 "phone": "02-784-8410",
 "totalmembers": 306,
 "email": "youngjink840@naver.com",
-"absenteeism": 0.09179056237879768,
+"absenteeism": 0.09173126614987082,
 "roman_name": "KIM YOUNGJIN",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770981.jpg",
@@ -2440,13 +2440,13 @@
 "party": "더불어민주당"
 },
 "9770527": {
-"loyalty": 0.9299944724868912,
+"loyalty": 0.93002302868939,
 "committees": [
 "과학기술정보방송통신위원회"
 ],
 "name_alt": "金相姬",
-"age": 67.94246575342466,
-"absenteeism_party_rank": 44,
+"age": 67.94520547945206,
+"absenteeism_party_rank": 45,
 "name": "김상희",
 "district": "경기 부천시병",
 "loyalty_rank": 164,
@@ -2455,14 +2455,14 @@
 "phone": "02-784-4173",
 "totalmembers": 306,
 "email": "shk@assembly.go.kr",
-"absenteeism": 0.20814479638009054,
+"absenteeism": 0.20801033591731266,
 "roman_name": "KIM SANGHEE",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770527.jpg",
 "loyalty_party_rank": 135,
 "session": 21,
 "office": "의원회관 808호",
-"absenteeism_rank": 139,
+"absenteeism_rank": 140,
 "website": "http://blog.naver.com/shk407",
 "terms": 4,
 "party": "더불어민주당"
@@ -2474,7 +2474,7 @@
 "정보위원회"
 ],
 "name_alt": "河泰慶",
-"age": 54.07945205479452,
+"age": 54.082191780821915,
 "absenteeism_party_rank": 12,
 "name": "하태경",
 "district": "부산 해운대구갑",
@@ -2484,7 +2484,7 @@
 "phone": "02-784-2491",
 "totalmembers": 306,
 "email": "radiohaha@naver.com",
-"absenteeism": 0.6755009696186167,
+"absenteeism": 0.6757105943152455,
 "roman_name": "HA TAEKEUNG",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9770858.jpg",
@@ -2502,7 +2502,7 @@
 ""
 ],
 "name_alt": "朴炳錫",
-"age": 70.25205479452055,
+"age": 70.25479452054795,
 "absenteeism_party_rank": 14,
 "name": "박병석",
 "district": "대전 서구갑",
@@ -2512,7 +2512,7 @@
 "phone": "02-6788-6461",
 "totalmembers": 306,
 "email": "pbs2100@gmail.com",
-"absenteeism": 0.40917905623787976,
+"absenteeism": 0.4095607235142119,
 "roman_name": "PARK BYEONGSEUG",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770090.jpg",
@@ -2525,14 +2525,14 @@
 "party": "더불어민주당"
 },
 "9770951": {
-"loyalty": 0.9882467751365691,
+"loyalty": 0.9882524379771115,
 "committees": [
 "정무위원회",
 "예산결산특별위원회",
 "윤리특별위원회"
 ],
 "name_alt": "田載秀",
-"age": 51.01917808219178,
+"age": 51.02191780821918,
 "absenteeism_party_rank": 23,
 "name": "전재수",
 "district": "부산 북구강서구갑",
@@ -2542,7 +2542,7 @@
 "phone": "02-784-7431",
 "totalmembers": 306,
 "email": "613jjs@gmail.com",
-"absenteeism": 0.3296703296703297,
+"absenteeism": 0.3294573643410853,
 "roman_name": "CHUN JAESOO",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770951.jpg",
@@ -2555,12 +2555,12 @@
 "party": "더불어민주당"
 },
 "9770837": {
-"loyalty": 0.8415057819729289,
+"loyalty": 0.8415617968953453,
 "committees": [
 "국토교통위원회"
 ],
 "name_alt": "李憲昇",
-"age": 58.961643835616435,
+"age": 58.964383561643835,
 "absenteeism_party_rank": 104,
 "name": "이헌승",
 "district": "부산 부산진구을",
@@ -2570,7 +2570,7 @@
 "phone": "02-784-7911",
 "totalmembers": 306,
 "email": "ilovebusanjin@hanmail.net",
-"absenteeism": 0.08597285067873306,
+"absenteeism": 0.08591731266149871,
 "roman_name": "LEE HUNSEUNG",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9770837.jpg",
@@ -2583,12 +2583,12 @@
 "party": "국민의힘"
 },
 "9771192": {
-"loyalty": 0.9204181089758051,
+"loyalty": 0.9204460177583657,
 "committees": [
 "기획재정위원회"
 ],
 "name_alt": "金周暎",
-"age": 60.53150684931507,
+"age": 60.534246575342465,
 "absenteeism_party_rank": 106,
 "name": "김주영",
 "district": "경기 김포시갑",
@@ -2598,7 +2598,7 @@
 "phone": "02-784-5260",
 "totalmembers": 306,
 "email": "gimpolovekjy@gmail.com",
-"absenteeism": 0.07886231415643186,
+"absenteeism": 0.07881136950904388,
 "roman_name": "KIM JUYOUNG",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771192.jpg",
@@ -2611,26 +2611,26 @@
 "party": "더불어민주당"
 },
 "9771241": {
-"loyalty": 0.7026735905461466,
+"loyalty": 0.7028043697077204,
 "committees": [
 "산업통상자원중소벤처기업위원회"
 ],
 "name_alt": "韓茂景",
-"age": 63.93698630136986,
+"age": 63.93972602739726,
 "absenteeism_party_rank": 58,
 "name": "한무경",
 "district": "비례대표",
-"loyalty_rank": 303,
+"loyalty_rank": 304,
 "dob": "1958-05-20",
 "member_id": "9771241",
 "phone": "02-784-2844",
 "totalmembers": 306,
 "email": "hanmk2021@naver.com",
-"absenteeism": 0.26567550096961867,
+"absenteeism": 0.2655038759689923,
 "roman_name": "HAN MOOKYUNG",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771241.jpg",
-"loyalty_party_rank": 103,
+"loyalty_party_rank": 104,
 "session": 21,
 "office": "의원회관 822호",
 "absenteeism_rank": 106,
@@ -2639,14 +2639,14 @@
 "party": "국민의힘"
 },
 "9771010": {
-"loyalty": 0.9451571527268345,
+"loyalty": 0.9451748696865193,
 "committees": [
 "국회운영위원회",
 "농림축산식품해양수산위원회",
 "예산결산특별위원회"
 ],
 "name_alt": "魚基龜",
-"age": 59.293150684931504,
+"age": 59.295890410958904,
 "absenteeism_party_rank": 163,
 "name": "어기구",
 "district": "충남 당진시",
@@ -2669,12 +2669,12 @@
 "party": "더불어민주당"
 },
 "9771193": {
-"loyalty": 0.9422450076307118,
+"loyalty": 0.9422658917363916,
 "committees": [
 "국토교통위원회"
 ],
 "name_alt": "朴商赫",
-"age": 49.104109589041094,
+"age": 49.106849315068494,
 "absenteeism_party_rank": 84,
 "name": "박상혁",
 "district": "경기 김포시을",
@@ -2684,7 +2684,7 @@
 "phone": "02-784-2417~9",
 "totalmembers": 306,
 "email": "gimpo_park@naver.com",
-"absenteeism": 0.10665804783451838,
+"absenteeism": 0.10658914728682167,
 "roman_name": "PARK SANGHYUK",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771193.jpg",
@@ -2697,13 +2697,13 @@
 "party": "더불어민주당"
 },
 "9770914": {
-"loyalty": 0.8580813005461341,
+"loyalty": 0.858135354518559,
 "committees": [
 "국토교통위원회",
 "예산결산특별위원회"
 ],
 "name_alt": "李鍾培",
-"age": 64.90958904109588,
+"age": 64.91232876712328,
 "absenteeism_party_rank": 95,
 "name": "이종배",
 "district": "충북 충주시",
@@ -2713,7 +2713,7 @@
 "phone": "02-784-4131~3",
 "totalmembers": 306,
 "email": "victoryljb@naver.com",
-"absenteeism": 0.15190691661279898,
+"absenteeism": 0.15180878552971577,
 "roman_name": "LEE JONGBAE",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9770914.jpg",
@@ -2726,12 +2726,12 @@
 "party": "국민의힘"
 },
 "9771170": {
-"loyalty": 0.9572654910479447,
+"loyalty": 0.9572812167187447,
 "committees": [
 "과학기술정보방송통신위원회"
 ],
 "name_alt": "尹永燦",
-"age": 57.726027397260275,
+"age": 57.728767123287675,
 "absenteeism_party_rank": 74,
 "name": "윤영찬",
 "district": "경기 성남시중원구",
@@ -2741,7 +2741,7 @@
 "phone": "02-784-2704",
 "totalmembers": 306,
 "email": "yyc8361@naver.com",
-"absenteeism": 0.12217194570135748,
+"absenteeism": 0.12209302325581395,
 "roman_name": "YOON YOUNGCHAN",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771170.jpg",
@@ -2754,12 +2754,12 @@
 "party": "더불어민주당"
 },
 "9771129": {
-"loyalty": 0.97434371890842,
+"loyalty": 0.974352370495613,
 "committees": [
 "행정안전위원회"
 ],
 "name_alt": "李海植",
-"age": 58.45205479452055,
+"age": 58.45479452054794,
 "absenteeism_party_rank": 135,
 "name": "이해식",
 "district": "서울 강동구을",
@@ -2769,7 +2769,7 @@
 "phone": "02-784-2171",
 "totalmembers": 306,
 "email": "",
-"absenteeism": 0.04201680672268904,
+"absenteeism": 0.04198966408268734,
 "roman_name": "LEE HAESIK",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771129.jpg",
@@ -2788,7 +2788,7 @@
 "여성가족위원회"
 ],
 "name_alt": "鄭春淑",
-"age": 58.298630136986304,
+"age": 58.3013698630137,
 "absenteeism_party_rank": 93,
 "name": "정춘숙",
 "district": "경기 용인시병",
@@ -2798,7 +2798,7 @@
 "phone": "02-784-3740",
 "totalmembers": 306,
 "email": "hopejung@na.go.kr",
-"absenteeism": 0.09631544925662572,
+"absenteeism": 0.0968992248062015,
 "roman_name": "JUNG CHOUNSOOK",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771068.jpg",
@@ -2811,12 +2811,12 @@
 "party": "더불어민주당"
 },
 "9770414": {
-"loyalty": 0.9417810077961387,
+"loyalty": 0.941815304701739,
 "committees": [
 "외교통일위원회"
 ],
 "name_alt": "李相珉",
-"age": 64.26027397260275,
+"age": 64.26301369863013,
 "absenteeism_party_rank": 11,
 "name": "이상민",
 "district": "대전 유성구을",
@@ -2826,7 +2826,7 @@
 "phone": "02-784-0924",
 "totalmembers": 306,
 "email": "smlee@assembly.go.kr",
-"absenteeism": 0.4518422753716871,
+"absenteeism": 0.45155038759689925,
 "roman_name": "LEE SANGMIN",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770414.jpg",
@@ -2839,12 +2839,12 @@
 "party": "더불어민주당"
 },
 "9771094": {
-"loyalty": 0.8633055702028357,
+"loyalty": 0.8635227179647166,
 "committees": [
 "국토교통위원회"
 ],
 "name_alt": "宋彦錫",
-"age": 58.94794520547945,
+"age": 58.95068493150685,
 "absenteeism_party_rank": 7,
 "name": "송언석",
 "district": "경북 김천시",
@@ -2854,7 +2854,7 @@
 "phone": "02-784-3011",
 "totalmembers": 306,
 "email": "",
-"absenteeism": 0.7970265029088559,
+"absenteeism": 0.7965116279069767,
 "roman_name": "SONG EONSEOG",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771094.jpg",
@@ -2872,7 +2872,7 @@
 "보건복지위원회"
 ],
 "name_alt": "姜起潤",
-"age": 61.895890410958906,
+"age": 61.8986301369863,
 "absenteeism_party_rank": 13,
 "name": "강기윤",
 "district": "경남 창원시성산구",
@@ -2882,7 +2882,7 @@
 "phone": "02-784-1751",
 "totalmembers": 306,
 "email": "ggotop@naver.com",
-"absenteeism": 0.6722689075630253,
+"absenteeism": 0.6724806201550387,
 "roman_name": "KANG GIYUN",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771230.jpg",
@@ -2895,13 +2895,13 @@
 "party": "국민의힘"
 },
 "9771254": {
-"loyalty": 0.7239254223528935,
+"loyalty": 0.7240526749882077,
 "committees": [
 "보건복지위원회",
 "여성가족위원회"
 ],
 "name_alt": "徐正淑",
-"age": 69.18630136986302,
+"age": 69.18904109589042,
 "absenteeism_party_rank": 54,
 "name": "서정숙",
 "district": "비례대표",
@@ -2911,7 +2911,7 @@
 "phone": "02-784-1255",
 "totalmembers": 306,
 "email": "suhjs708@naver.com",
-"absenteeism": 0.2992889463477699,
+"absenteeism": 0.29909560723514217,
 "roman_name": "SUH JUNGSOOK",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771254.jpg",
@@ -2924,12 +2924,12 @@
 "party": "국민의힘"
 },
 "9771247": {
-"loyalty": 0.8054004856983656,
+"loyalty": 0.8054854080302742,
 "committees": [
 "보건복지위원회"
 ],
 "name_alt": "曺明姬",
-"age": 66.61643835616438,
+"age": 66.61917808219178,
 "absenteeism_party_rank": 59,
 "name": "조명희",
 "district": "비례대표",
@@ -2939,7 +2939,7 @@
 "phone": "02-784-3255",
 "totalmembers": 306,
 "email": "843mhjo@gmail.com",
-"absenteeism": 0.25985778926955394,
+"absenteeism": 0.2596899224806202,
 "roman_name": "JO MYUNGHEE",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771247.jpg",
@@ -2952,12 +2952,12 @@
 "party": "국민의힘"
 },
 "9771272": {
-"loyalty": 0.956701662235182,
+"loyalty": 0.9567157132943757,
 "committees": [
 "문화체육관광위원회"
 ],
 "name_alt": "田溶冀",
-"age": 30.5013698630137,
+"age": 30.504109589041096,
 "absenteeism_party_rank": 14,
 "name": "전용기",
 "district": "비례대표",
@@ -2967,7 +2967,7 @@
 "phone": "02-784-2843",
 "totalmembers": 306,
 "email": "braveplane@gmail.com",
-"absenteeism": 0.004524886877828038,
+"absenteeism": 0.004521963824289377,
 "roman_name": "JEON YONGGI",
 "partysize": 14,
 "image_url": "http://www.assembly.go.kr/photo/9771272.jpg",
@@ -2980,12 +2980,12 @@
 "party": "더불어시민당"
 },
 "9771235": {
-"loyalty": 0.8649670358730637,
+"loyalty": 0.8650517757396627,
 "committees": [
 "기획재정위원회"
 ],
 "name_alt": "曺海珍",
-"age": 58.728767123287675,
+"age": 58.73150684931507,
 "absenteeism_party_rank": 27,
 "name": "조해진",
 "district": "경남 밀양시의령군함안군창녕군",
@@ -2995,7 +2995,7 @@
 "phone": "02-784-1513",
 "totalmembers": 306,
 "email": "chohaejin0804@naver.com",
-"absenteeism": 0.48545572074983845,
+"absenteeism": 0.48514211886304914,
 "roman_name": "CHO HAEJIN",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771235.jpg",
@@ -3013,7 +3013,7 @@
 "보건복지위원회"
 ],
 "name_alt": "白宗憲",
-"age": 59.342465753424655,
+"age": 59.345205479452055,
 "absenteeism_party_rank": 90,
 "name": "백종헌",
 "district": "부산 금정구",
@@ -3023,7 +3023,7 @@
 "phone": "02-784-3977",
 "totalmembers": 306,
 "email": "bjh438@naver.com",
-"absenteeism": 0.1648351648351648,
+"absenteeism": 0.16537467700258401,
 "roman_name": "BAEK JONGHEAN",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771137.jpg",
@@ -3036,12 +3036,12 @@
 "party": "국민의힘"
 },
 "9771221": {
-"loyalty": 0.9593200119815228,
+"loyalty": 0.9593334754894272,
 "committees": [
 "농림축산식품해양수산위원회"
 ],
 "name_alt": "尹才鉀",
-"age": 67.20821917808219,
+"age": 67.21095890410959,
 "absenteeism_party_rank": 147,
 "name": "윤재갑",
 "district": "전남 해남군완도군진도군",
@@ -3051,7 +3051,7 @@
 "phone": "02-784-1460",
 "totalmembers": 306,
 "email": "yoonjg542@naver.com",
-"absenteeism": 0.023917259211376884,
+"absenteeism": 0.02390180878552972,
 "roman_name": "YOON JAEKAB",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771221.jpg",
@@ -3064,12 +3064,12 @@
 "party": "더불어민주당"
 },
 "9770881": {
-"loyalty": 0.9534009453372709,
+"loyalty": 0.9534189964921852,
 "committees": [
 "기획재정위원회"
 ],
 "name_alt": "鄭成湖",
-"age": 60.62739726027397,
+"age": 60.63013698630137,
 "absenteeism_party_rank": 58,
 "name": "정성호",
 "district": "경기 양주시",
@@ -3079,7 +3079,7 @@
 "phone": "02-784-8991(의원회관 646호)",
 "totalmembers": 306,
 "email": "jsh35351@naver.com",
-"absenteeism": 0.1661279896574014,
+"absenteeism": 0.16602067183462532,
 "roman_name": "JUNG SUNGHO",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770881.jpg",
@@ -3097,7 +3097,7 @@
 "산업통상자원중소벤처기업위원회"
 ],
 "name_alt": "洪準杓",
-"age": 67.3917808219178,
+"age": 67.3945205479452,
 "absenteeism_party_rank": 4,
 "name": "홍준표",
 "district": "대구 수성구을",
@@ -3107,7 +3107,7 @@
 "phone": "02-784-7610, 02-6788-7481",
 "totalmembers": 306,
 "email": "jphong803@naver.com",
-"absenteeism": 0.7401422107304461,
+"absenteeism": 0.7403100775193798,
 "roman_name": "HONG JOONPYO",
 "partysize": 7,
 "image_url": "http://www.assembly.go.kr/photo/9771145.jpg",
@@ -3120,12 +3120,12 @@
 "party": "무소속"
 },
 "9770967": {
-"loyalty": 0.945978438495274,
+"loyalty": 0.9460073967184777,
 "committees": [
 "외교통일위원회"
 ],
 "name_alt": "宋永吉",
-"age": 59.1013698630137,
+"age": 59.104109589041094,
 "absenteeism_party_rank": 15,
 "name": "송영길",
 "district": "인천 계양구을",
@@ -3135,7 +3135,7 @@
 "phone": "02-784-8957",
 "totalmembers": 306,
 "email": "songyounggil@naver.com",
-"absenteeism": 0.3975436328377505,
+"absenteeism": 0.3972868217054264,
 "roman_name": "SONG YOUNGGIL",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770967.jpg",
@@ -3148,12 +3148,12 @@
 "party": "더불어민주당"
 },
 "9771150": {
-"loyalty": 0.9837311082045912,
+"loyalty": 0.9837366921731083,
 "committees": [
 "기획재정위원회"
 ],
 "name_alt": "鄭日永",
-"age": 64.7013698630137,
+"age": 64.7041095890411,
 "absenteeism_party_rank": 122,
 "name": "정일영",
 "district": "인천 연수구을",
@@ -3163,7 +3163,7 @@
 "phone": "02-784-6651",
 "totalmembers": 306,
 "email": "ilyeong4037871@gmail.com",
-"absenteeism": 0.05882352941176472,
+"absenteeism": 0.05878552971576223,
 "roman_name": "CHUNG ILYOUNG",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771150.jpg",
@@ -3176,12 +3176,12 @@
 "party": "더불어민주당"
 },
 "9771161": {
-"loyalty": 0.9509934331159942,
+"loyalty": 0.9510114270827781,
 "committees": [
 "산업통상자원중소벤처기업위원회"
 ],
 "name_alt": "黃雲夏",
-"age": 59.62739726027397,
+"age": 59.63013698630137,
 "absenteeism_party_rank": 77,
 "name": "황운하",
 "district": "대전 중구",
@@ -3191,25 +3191,25 @@
 "phone": "02-784-1935",
 "totalmembers": 306,
 "email": "unhah0301@gmail.com",
-"absenteeism": 0.1202327084680026,
+"absenteeism": 0.12015503875968991,
 "roman_name": "HWANG UNHA",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771161.jpg",
 "loyalty_party_rank": 102,
 "session": 21,
 "office": "의원회관 416호",
-"absenteeism_rank": 196,
+"absenteeism_rank": 197,
 "website": "",
 "terms": 1,
 "party": "더불어민주당"
 },
 "9771218": {
-"loyalty": 0.9307259801082902,
+"loyalty": 0.9307485633264589,
 "committees": [
 "교육위원회"
 ],
 "name_alt": "徐東榕",
-"age": 57.64931506849315,
+"age": 57.652054794520545,
 "absenteeism_party_rank": 156,
 "name": "서동용",
 "district": "전남 순천시광양시곡성군구례군을",
@@ -3219,7 +3219,7 @@
 "phone": "02-784-6120",
 "totalmembers": 306,
 "email": "",
-"absenteeism": 0.009049773755656076,
+"absenteeism": 0.009043927648578864,
 "roman_name": "SEO DONGYONG",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771218.jpg",
@@ -3238,7 +3238,7 @@
 "예산결산특별위원회"
 ],
 "name_alt": "金善敎",
-"age": 61.605479452054794,
+"age": 61.608219178082194,
 "absenteeism_party_rank": 1,
 "name": "김선교",
 "district": "경기 여주시양평군",
@@ -3248,7 +3248,7 @@
 "phone": "02-784-4195",
 "totalmembers": 306,
 "email": "kimsg5358@naver.com",
-"absenteeism": 0.24499030381383324,
+"absenteeism": 0.2448320413436692,
 "roman_name": "KIM SUNGYO",
 "partysize": 1,
 "image_url": "http://www.assembly.go.kr/photo/9771195.jpg",
@@ -3261,12 +3261,12 @@
 "party": "미래통합당"
 },
 "9771282": {
-"loyalty": 0.948602770113022,
+"loyalty": 0.9486225878233738,
 "committees": [
 "법제사법위원회"
 ],
 "name_alt": "崔康旭",
-"age": 53.97808219178082,
+"age": 53.98082191780822,
 "absenteeism_party_rank": 3,
 "name": "최강욱",
 "district": "비례대표",
@@ -3276,7 +3276,7 @@
 "phone": "02-784-9640",
 "totalmembers": 306,
 "email": "assembly420@gmail.com",
-"absenteeism": 0.16224951519069164,
+"absenteeism": 0.16214470284237725,
 "roman_name": "CHOE KANGWOOK",
 "partysize": 4,
 "image_url": "http://www.assembly.go.kr/photo/9771282.jpg",
@@ -3295,7 +3295,7 @@
 "예산결산특별위원회"
 ],
 "name_alt": "郭尙道",
-"age": 62.342465753424655,
+"age": 62.345205479452055,
 "absenteeism_party_rank": 16,
 "name": "곽상도",
 "district": "대구 중구남구",
@@ -3305,7 +3305,7 @@
 "phone": "02-784-8450",
 "totalmembers": 306,
 "email": "sangdokwak@na.go.kr",
-"absenteeism": 0.6173238526179703,
+"absenteeism": 0.6175710594315246,
 "roman_name": "KWAK SANGDO",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9770956.jpg",
@@ -3318,12 +3318,12 @@
 "party": "국민의힘"
 },
 "9770944": {
-"loyalty": 0.7473826163381865,
+"loyalty": 0.7475559387487534,
 "committees": [
 "과학기술정보방송통신위원회"
 ],
 "name_alt": "朴成重",
-"age": 63.73698630136986,
+"age": 63.73972602739726,
 "absenteeism_party_rank": 21,
 "name": "박성중",
 "district": "서울 서초구을",
@@ -3333,7 +3333,7 @@
 "phone": "02-784-4364",
 "totalmembers": 306,
 "email": "sjpark101@hanmail.net",
-"absenteeism": 0.5294117647058824,
+"absenteeism": 0.5290697674418605,
 "roman_name": "PARK SUNGJOONG",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9770944.jpg",
@@ -3351,7 +3351,7 @@
 "기획재정위원회"
 ],
 "name_alt": "李光宰",
-"age": 57.15890410958904,
+"age": 57.16164383561644,
 "absenteeism_party_rank": 10,
 "name": "이광재",
 "district": "강원 원주시갑",
@@ -3361,7 +3361,7 @@
 "phone": "02-784-2690",
 "totalmembers": 306,
 "email": "",
-"absenteeism": 0.5481577246283129,
+"absenteeism": 0.5484496124031008,
 "roman_name": "LEE KWANGJAE",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771198.jpg",
@@ -3374,40 +3374,40 @@
 "party": "더불어민주당"
 },
 "9771289": {
-"loyalty": 0.87798258649597,
+"loyalty": 0.8806646154081598,
 "committees": [
 "국토교통위원회"
 ],
 "name_alt": "金學容",
-"age": 60.37808219178082,
+"age": 60.38082191780822,
 "absenteeism_party_rank": 3,
 "name": "김학용",
 "district": "경기 안성시",
-"loyalty_rank": 200,
+"loyalty_rank": 199,
 "dob": "1961-12-10",
 "member_id": "9771289",
 "phone": "02-784-3291~3 /F.02-6788-6910",
 "totalmembers": 306,
 "email": "ansung24@naver.com",
-"absenteeism": 0.9857789269553976,
+"absenteeism": 0.9851421188630491,
 "roman_name": "KIM HACKYONG",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771289.jpg",
-"loyalty_party_rank": 2,
+"loyalty_party_rank": 1,
 "session": 21,
 "office": "의원회관 911호",
-"absenteeism_rank": 3,
+"absenteeism_rank": 4,
 "website": "",
 "terms": 4,
 "party": "국민의힘"
 },
 "9771001": {
-"loyalty": 0.9583054029487237,
+"loyalty": 0.9583217185811431,
 "committees": [
 "법제사법위원회"
 ],
 "name_alt": "宋基憲",
-"age": 58.56712328767123,
+"age": 58.56986301369863,
 "absenteeism_party_rank": 54,
 "name": "송기헌",
 "district": "강원 원주시을",
@@ -3417,7 +3417,7 @@
 "phone": "02-784-6150",
 "totalmembers": 306,
 "email": "peacesong1@naver.com",
-"absenteeism": 0.17453135100193928,
+"absenteeism": 0.17441860465116277,
 "roman_name": "SONG KI HUN",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771001.jpg",
@@ -3435,7 +3435,7 @@
 "행정안전위원회"
 ],
 "name_alt": "韓貞愛",
-"age": 57.298630136986304,
+"age": 57.3013698630137,
 "absenteeism_party_rank": 2,
 "name": "한정애",
 "district": "서울 강서구병",
@@ -3445,7 +3445,7 @@
 "phone": "02-784-3051",
 "totalmembers": 306,
 "email": "jeoung@gmail.com",
-"absenteeism": 0.7401422107304461,
+"absenteeism": 0.7403100775193798,
 "roman_name": "HAN JEOUNGAE",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770859.jpg",
@@ -3458,12 +3458,12 @@
 "party": "더불어민주당"
 },
 "9771157": {
-"loyalty": 0.9460956198409143,
+"loyalty": 0.9461137847547103,
 "committees": [
 "행정안전위원회"
 ],
 "name_alt": "李炯錫",
-"age": 60.558904109589044,
+"age": 60.56164383561644,
 "absenteeism_party_rank": 137,
 "name": "이형석",
 "district": "광주 북구을",
@@ -3473,7 +3473,7 @@
 "phone": "02-784-1307",
 "totalmembers": 306,
 "email": "hslee2020bk@gmail.com",
-"absenteeism": 0.041370394311570746,
+"absenteeism": 0.04134366925064603,
 "roman_name": "LEE HYUNGSEOK",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771157.jpg",
@@ -3486,12 +3486,12 @@
 "party": "더불어민주당"
 },
 "9771138": {
-"loyalty": 0.8405634718561552,
+"loyalty": 0.8406231970982374,
 "committees": [
 "산업통상자원중소벤처기업위원회"
 ],
 "name_alt": "李周桓",
-"age": 54.68493150684932,
+"age": 54.68767123287671,
 "absenteeism_party_rank": 99,
 "name": "이주환",
 "district": "부산 연제구",
@@ -3501,7 +3501,7 @@
 "phone": "02-784-6066",
 "totalmembers": 306,
 "email": "leejoohwan3@naver.com",
-"absenteeism": 0.13768584356819646,
+"absenteeism": 0.13759689922480622,
 "roman_name": "LEE JOOHWAN",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771138.jpg",
@@ -3519,7 +3519,7 @@
 "문화체육관광위원회"
 ],
 "name_alt": "尹相現",
-"age": 59.4027397260274,
+"age": 59.40547945205479,
 "absenteeism_party_rank": 3,
 "name": "윤상현",
 "district": "인천 동구미추홀구을",
@@ -3529,7 +3529,7 @@
 "phone": "02-784-4481",
 "totalmembers": 306,
 "email": "shyoon@na.go.kr",
-"absenteeism": 0.7847446670976083,
+"absenteeism": 0.7848837209302326,
 "roman_name": "YOON SANGHYUN",
 "partysize": 7,
 "image_url": "http://www.assembly.go.kr/photo/9770598.jpg",
@@ -3547,7 +3547,7 @@
 "교육위원회"
 ],
 "name_alt": "鄭燦敏",
-"age": 63.94794520547945,
+"age": 63.95068493150685,
 "absenteeism_party_rank": 51,
 "name": "정찬민",
 "district": "경기 용인시갑",
@@ -3557,7 +3557,7 @@
 "phone": "02-784-2316~8",
 "totalmembers": 306,
 "email": "jungchanmin@naver.com",
-"absenteeism": 0.3244990303813833,
+"absenteeism": 0.3249354005167958,
 "roman_name": "JUNG CHANMIN",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771189.jpg",
@@ -3570,12 +3570,12 @@
 "party": "국민의힘"
 },
 "9771234": {
-"loyalty": 0.8015361558729012,
+"loyalty": 0.8016180472913359,
 "committees": [
 "국토교통위원회"
 ],
 "name_alt": "河榮帝",
-"age": 68.16712328767123,
+"age": 68.16986301369863,
 "absenteeism_party_rank": 76,
 "name": "하영제",
 "district": "경남 사천시남해군하동군",
@@ -3585,7 +3585,7 @@
 "phone": "02-784-4750",
 "totalmembers": 306,
 "email": "hayoungje635@naver.com",
-"absenteeism": 0.2171945701357466,
+"absenteeism": 0.21705426356589153,
 "roman_name": "HA YOUNGJE",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771234.jpg",
@@ -3598,14 +3598,14 @@
 "party": "국민의힘"
 },
 "9771179": {
-"loyalty": 0.9727411104981372,
+"loyalty": 0.9727519382600348,
 "committees": [
 "국회운영위원회",
 "국토교통위원회",
 "정보위원회"
 ],
 "name_alt": "洪起元",
-"age": 57.36986301369863,
+"age": 57.37260273972603,
 "absenteeism_party_rank": 48,
 "name": "홍기원",
 "district": "경기 평택시갑",
@@ -3615,7 +3615,7 @@
 "phone": "02-784-2577",
 "totalmembers": 306,
 "email": "flyhong21@naver.com",
-"absenteeism": 0.18681318681318682,
+"absenteeism": 0.18669250645994828,
 "roman_name": "HONG KEEWON",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771179.jpg",
@@ -3633,7 +3633,7 @@
 "문화체육관광위원회"
 ],
 "name_alt": "李達坤",
-"age": 68.62465753424658,
+"age": 68.62739726027397,
 "absenteeism_party_rank": 22,
 "name": "이달곤",
 "district": "경남 창원시진해구",
@@ -3643,7 +3643,7 @@
 "phone": "02-784-6264~6",
 "totalmembers": 306,
 "email": "ldg200020@naver.com",
-"absenteeism": 0.5151906916612798,
+"absenteeism": 0.5155038759689923,
 "roman_name": "LEE DALGON",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771232.jpg",
@@ -3661,7 +3661,7 @@
 "법제사법위원회"
 ],
 "name_alt": "尹漢洪",
-"age": 59.484931506849314,
+"age": 59.487671232876714,
 "absenteeism_party_rank": 8,
 "name": "윤한홍",
 "district": "경남 창원시마산회원구",
@@ -3671,7 +3671,7 @@
 "phone": "02-784-2371",
 "totalmembers": 306,
 "email": "",
-"absenteeism": 0.7472527472527473,
+"absenteeism": 0.7474160206718345,
 "roman_name": "YOON HANHONG",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771032.jpg",
@@ -3684,12 +3684,12 @@
 "party": "국민의힘"
 },
 "9771228": {
-"loyalty": 0.8430582915589165,
+"loyalty": 0.8431267801977622,
 "committees": [
 "국토교통위원회"
 ],
 "name_alt": "金熙國",
-"age": 63.51780821917808,
+"age": 63.52054794520548,
 "absenteeism_party_rank": 59,
 "name": "김희국",
 "district": "경북 군위군의성군청송군영덕군",
@@ -3699,7 +3699,7 @@
 "phone": "02-784-3136~8",
 "totalmembers": 306,
 "email": "heekuk1020@naver.com",
-"absenteeism": 0.25985778926955394,
+"absenteeism": 0.2596899224806202,
 "roman_name": "KIM HEEKUK",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771228.jpg",
@@ -3712,12 +3712,12 @@
 "party": "국민의힘"
 },
 "9771217": {
-"loyalty": 0.975468678545226,
+"loyalty": 0.9754770467260784,
 "committees": [
 "법제사법위원회"
 ],
 "name_alt": "蘇秉哲",
-"age": 64.1945205479452,
+"age": 64.1972602739726,
 "absenteeism_party_rank": 127,
 "name": "소병철",
 "district": "전남 순천시광양시곡성군구례군갑",
@@ -3727,7 +3727,7 @@
 "phone": "02-784-4410",
 "totalmembers": 306,
 "email": "sbcpr21@gmail.com",
-"absenteeism": 0.0530058177117001,
+"absenteeism": 0.05297157622739013,
 "roman_name": "SO BYUNGCHUL",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771217.jpg",
@@ -3740,12 +3740,12 @@
 "party": "더불어민주당"
 },
 "9771142": {
-"loyalty": 0.8154026400766712,
+"loyalty": 0.8154900648317158,
 "committees": [
 "국방위원회"
 ],
 "name_alt": "姜大植",
-"age": 62.48219178082192,
+"age": 62.484931506849314,
 "absenteeism_party_rank": 53,
 "name": "강대식",
 "district": "대구 동구을",
@@ -3755,7 +3755,7 @@
 "phone": "02-784-5275",
 "totalmembers": 306,
 "email": "kds21341@naver.com",
-"absenteeism": 0.31803490627020037,
+"absenteeism": 0.3178294573643411,
 "roman_name": "KANG DAESIK",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771142.jpg",
@@ -3773,7 +3773,7 @@
 "외교통일위원회"
 ],
 "name_alt": "鄭鎭碩",
-"age": 61.64383561643836,
+"age": 61.64657534246575,
 "absenteeism_party_rank": 62,
 "name": "정진석",
 "district": "충남 공주시부여군청양군",
@@ -3783,7 +3783,7 @@
 "phone": "02-784-5070",
 "totalmembers": 306,
 "email": "jsemail@naver.com",
-"absenteeism": 0.2572721396250808,
+"absenteeism": 0.25775193798449614,
 "roman_name": "CHUNG JINSUK",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771006.jpg",
@@ -3796,12 +3796,12 @@
 "party": "국민의힘"
 },
 "9771112": {
-"loyalty": 0.9457670686023675,
+"loyalty": 0.9457870992332992,
 "committees": [
 "국토교통위원회"
 ],
 "name_alt": "千俊鎬",
-"age": 51.1945205479452,
+"age": 51.1972602739726,
 "absenteeism_party_rank": 72,
 "name": "천준호",
 "district": "서울 강북구갑",
@@ -3811,7 +3811,7 @@
 "phone": "02-784-0712",
 "totalmembers": 306,
 "email": "juno3355@gmail.com",
-"absenteeism": 0.12540400775694893,
+"absenteeism": 0.1253229974160207,
 "roman_name": "CHEON JUNHO",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771112.jpg",
@@ -3829,7 +3829,7 @@
 "외교통일위원회"
 ],
 "name_alt": "李洛淵",
-"age": 69.35068493150685,
+"age": 69.35342465753425,
 "absenteeism_party_rank": 4,
 "name": "이낙연",
 "district": "서울 종로구",
@@ -3839,7 +3839,7 @@
 "phone": "02-784-3866",
 "totalmembers": 306,
 "email": "nyleetogether@gmail.com",
-"absenteeism": 0.7155785391079509,
+"absenteeism": 0.7157622739018088,
 "roman_name": "LEE NAKYON",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771106.jpg",
@@ -3852,12 +3852,12 @@
 "party": "더불어민주당"
 },
 "9770836": {
-"loyalty": 0.9660820719728196,
+"loyalty": 0.9660970039251291,
 "committees": [
 "산업통상자원중소벤처기업위원회"
 ],
 "name_alt": "李學永",
-"age": 70.03013698630137,
+"age": 70.03287671232877,
 "absenteeism_party_rank": 34,
 "name": "이학영",
 "district": "경기 군포시",
@@ -3867,7 +3867,7 @@
 "phone": "02-784-8051",
 "totalmembers": 306,
 "email": "youngcamp1@gmail.com",
-"absenteeism": 0.26632191338073696,
+"absenteeism": 0.2661498708010336,
 "roman_name": "LEE HACKYOUNG",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770836.jpg",
@@ -3880,14 +3880,14 @@
 "party": "더불어민주당"
 },
 "9770450": {
-"loyalty": 0.7686585023440253,
+"loyalty": 0.7687845396716348,
 "committees": [
 "교육위원회",
 "예산결산특별위원회"
 ],
 "name_alt": "趙慶泰",
-"age": 54.293150684931504,
-"absenteeism_party_rank": 38,
+"age": 54.295890410958904,
+"absenteeism_party_rank": 39,
 "name": "조경태",
 "district": "부산 사하구을",
 "loyalty_rank": 282,
@@ -3896,27 +3896,27 @@
 "phone": "02-784-6380",
 "totalmembers": 306,
 "email": "yeskt@hanmail.net",
-"absenteeism": 0.4072398190045249,
+"absenteeism": 0.40697674418604646,
 "roman_name": "CHO KYOUNGTAE",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9770450.jpg",
 "loyalty_party_rank": 82,
 "session": 21,
 "office": "의원회관 636호",
-"absenteeism_rank": 62,
+"absenteeism_rank": 63,
 "website": "",
 "terms": 5,
 "party": "국민의힘"
 },
 "9771284": {
-"loyalty": 0.9672814130693943,
+"loyalty": 0.9672928232133963,
 "committees": [
 "국회운영위원회",
 "법제사법위원회",
 "여성가족위원회"
 ],
 "name_alt": "李秀眞",
-"age": 52.47945205479452,
+"age": 52.48219178082192,
 "absenteeism_party_rank": 110,
 "name": "이수진",
 "district": "서울 동작구을",
@@ -3926,7 +3926,7 @@
 "phone": "02-784-3174",
 "totalmembers": 306,
 "email": "sujinleehope@gmail.com",
-"absenteeism": 0.07369101486748542,
+"absenteeism": 0.0736434108527132,
 "roman_name": "LEE SUJIN",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771284.jpg",
@@ -3944,7 +3944,7 @@
 "국방위원회"
 ],
 "name_alt": "李相稷",
-"age": 59.23835616438356,
+"age": 59.24109589041096,
 "absenteeism_party_rank": 8,
 "name": "이상직",
 "district": "전북 전주시을",
@@ -3954,7 +3954,7 @@
 "phone": "02-784-1781",
 "totalmembers": 306,
 "email": "sangjik21c@naver.com",
-"absenteeism": 0.6522301228183581,
+"absenteeism": 0.6524547803617571,
 "roman_name": "LEE SANGJIK",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771207.jpg",
@@ -3967,14 +3967,14 @@
 "party": "더불어민주당"
 },
 "9771268": {
-"loyalty": 0.9478101541801646,
+"loyalty": 0.9478282411139324,
 "committees": [
 "국회운영위원회",
 "국방위원회",
 "예산결산특별위원회"
 ],
 "name_alt": "金柄周",
-"age": 60.21643835616438,
+"age": 60.21917808219178,
 "absenteeism_party_rank": 8,
 "name": "김병주",
 "district": "비례대표",
@@ -3984,7 +3984,7 @@
 "phone": "02-784-4177",
 "totalmembers": 306,
 "email": "kimbyungjoo62@gmail.com",
-"absenteeism": 0.0678733031674208,
+"absenteeism": 0.0678294573643411,
 "roman_name": "KIM BYUNGJOO",
 "partysize": 14,
 "image_url": "http://www.assembly.go.kr/photo/9771268.jpg",
@@ -3997,12 +3997,12 @@
 "party": "더불어시민당"
 },
 "9770929": {
-"loyalty": 0.9238932808618032,
+"loyalty": 0.9239232264538098,
 "committees": [
 "정무위원회"
 ],
 "name_alt": "朴用鎭",
-"age": 51.02739726027397,
+"age": 51.03013698630137,
 "absenteeism_party_rank": 49,
 "name": "박용진",
 "district": "서울 강북구을",
@@ -4012,7 +4012,7 @@
 "phone": "02-784-9721",
 "totalmembers": 306,
 "email": "gangbuk24@gmail.com",
-"absenteeism": 0.17905623787976732,
+"absenteeism": 0.17894056847545214,
 "roman_name": "PARK YONGJIN",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770929.jpg",
@@ -4032,7 +4032,7 @@
 "윤리특별위원회"
 ],
 "name_alt": "李泰珪",
-"age": 58.0986301369863,
+"age": 58.1013698630137,
 "absenteeism_party_rank": 2,
 "name": "이태규",
 "district": "비례대표",
@@ -4042,7 +4042,7 @@
 "phone": "02-784-8101",
 "totalmembers": 306,
 "email": "leetk918@gmail.com",
-"absenteeism": 0.4970911441499677,
+"absenteeism": 0.49741602067183466,
 "roman_name": "LEE TAEKYU",
 "partysize": 3,
 "image_url": "http://www.assembly.go.kr/photo/9771280.jpg",
@@ -4055,12 +4055,12 @@
 "party": "국민의당"
 },
 "9771248": {
-"loyalty": 0.8231120451446321,
+"loyalty": 0.8231840825961455,
 "committees": [
 "환경노동위원회"
 ],
 "name_alt": "朴大壽",
-"age": 61.657534246575345,
+"age": 61.66027397260274,
 "absenteeism_party_rank": 81,
 "name": "박대수",
 "district": "비례대표",
@@ -4070,7 +4070,7 @@
 "phone": "02-784-1238",
 "totalmembers": 306,
 "email": "",
-"absenteeism": 0.20685197155785395,
+"absenteeism": 0.20671834625322993,
 "roman_name": "PARK DAESOO",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771248.jpg",
@@ -4088,7 +4088,7 @@
 "외교통일위원회"
 ],
 "name_alt": "金碩基",
-"age": 67.72328767123288,
+"age": 67.72602739726027,
 "absenteeism_party_rank": 11,
 "name": "김석기",
 "district": "경북 경주시",
@@ -4098,7 +4098,7 @@
 "phone": "02-784-4170",
 "totalmembers": 306,
 "email": "7882576kj@hanmail.net",
-"absenteeism": 0.691661279896574,
+"absenteeism": 0.6918604651162791,
 "roman_name": "KIM SEOKKI",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771024.jpg",
@@ -4116,7 +4116,7 @@
 "산업통상자원중소벤처기업위원회"
 ],
 "name_alt": "李圭閔",
-"age": 53.964383561643835,
+"age": 53.967123287671235,
 "absenteeism_party_rank": 24,
 "name": "이규민",
 "district": "경기 안성시",
@@ -4126,11 +4126,11 @@
 "phone": "02-784-3770",
 "totalmembers": 306,
 "email": "2003415@naver.com",
-"absenteeism": 0.32773109243697474,
+"absenteeism": 0.3281653746770026,
 "roman_name": "LEE KYUMIN",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771191.jpg",
-"loyalty_party_rank": 133,
+"loyalty_party_rank": 134,
 "session": 21,
 "office": "의원회관 334호",
 "absenteeism_rank": 86,
@@ -4139,12 +4139,12 @@
 "party": "더불어민주당"
 },
 "9770813": {
-"loyalty": 0.9743760851981006,
+"loyalty": 0.9743861278850636,
 "committees": [
 "기획재정위원회"
 ],
 "name_alt": "尹厚德",
-"age": 65.2958904109589,
+"age": 65.2986301369863,
 "absenteeism_party_rank": 53,
 "name": "윤후덕",
 "district": "경기 파주시갑",
@@ -4154,7 +4154,7 @@
 "phone": "02-6788-6901",
 "totalmembers": 306,
 "email": "yoons609@hanmail.net",
-"absenteeism": 0.17582417582417587,
+"absenteeism": 0.1757105943152455,
 "roman_name": "YOON HUDUK",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770813.jpg",
@@ -4172,7 +4172,7 @@
 "법제사법위원회"
 ],
 "name_alt": "權性東",
-"age": 61.99452054794521,
+"age": 61.9972602739726,
 "absenteeism_party_rank": 5,
 "name": "권성동",
 "district": "강원 강릉시",
@@ -4182,7 +4182,7 @@
 "phone": "02-784-3396~8 / 788-2469",
 "totalmembers": 306,
 "email": "ksdd22@naver.com",
-"absenteeism": 0.5074337427278603,
+"absenteeism": 0.5071059431524547,
 "roman_name": "KWEON SEONGDONG",
 "partysize": 7,
 "image_url": "http://www.assembly.go.kr/photo/9770679.jpg",
@@ -4195,27 +4195,27 @@
 "party": "무소속"
 },
 "9771227": {
-"loyalty": 0.7056733743010699,
+"loyalty": 0.7058138308233604,
 "committees": [
 "정무위원회",
 "예산결산특별위원회"
 ],
 "name_alt": "尹斗鉉",
-"age": 60.95890410958904,
+"age": 60.961643835616435,
 "absenteeism_party_rank": 52,
 "name": "윤두현",
 "district": "경북 경산시",
-"loyalty_rank": 301,
+"loyalty_rank": 302,
 "dob": "1961-05-12",
 "member_id": "9771227",
 "phone": "02-784-5281",
 "totalmembers": 306,
 "email": "gyeongsan.love@gmail.com",
-"absenteeism": 0.3232062055591467,
+"absenteeism": 0.3229974160206718,
 "roman_name": "YOON DOOHYUN",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771227.jpg",
-"loyalty_party_rank": 101,
+"loyalty_party_rank": 102,
 "session": 21,
 "office": "의원회관 602호",
 "absenteeism_rank": 88,
@@ -4224,13 +4224,13 @@
 "party": "국민의힘"
 },
 "9771196": {
-"loyalty": 0.9453457447544721,
+"loyalty": 0.9453639780344609,
 "committees": [
 "국토교통위원회",
 "예산결산특별위원회"
 ],
 "name_alt": "許榮",
-"age": 52.07945205479452,
+"age": 52.082191780821915,
 "absenteeism_party_rank": 143,
 "name": "허영",
 "district": "강원 춘천시철원군화천군양구군갑",
@@ -4240,7 +4240,7 @@
 "phone": "02-784-1840~2",
 "totalmembers": 306,
 "email": "successhuh@gmail.com",
-"absenteeism": 0.03167420814479638,
+"absenteeism": 0.03165374677002586,
 "roman_name": "HUH YOUNG",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771196.jpg",
@@ -4253,13 +4253,13 @@
 "party": "더불어민주당"
 },
 "9771041": {
-"loyalty": 0.8651667522301987,
+"loyalty": 0.8652147099936826,
 "committees": [
 "국회운영위원회",
 "환경노동위원회"
 ],
 "name_alt": "林利子",
-"age": 58.14520547945205,
+"age": 58.14794520547945,
 "absenteeism_party_rank": 103,
 "name": "임이자",
 "district": "경북 상주시문경시",
@@ -4269,7 +4269,7 @@
 "phone": "02-784-6970",
 "totalmembers": 306,
 "email": "llj11@hanmail.net",
-"absenteeism": 0.09179056237879768,
+"absenteeism": 0.09173126614987082,
 "roman_name": "LIM LEEJA",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771041.jpg",
@@ -4282,12 +4282,12 @@
 "party": "국민의힘"
 },
 "9770984": {
-"loyalty": 0.9674544782777468,
+"loyalty": 0.9674654678177265,
 "committees": [
 "정무위원회"
 ],
 "name_alt": "金炳旭",
-"age": 57.032876712328765,
+"age": 57.035616438356165,
 "absenteeism_party_rank": 134,
 "name": "김병욱",
 "district": "경기 성남시분당구을",
@@ -4297,26 +4297,26 @@
 "phone": "02-784-3670",
 "totalmembers": 306,
 "email": "777byung@naver.com",
-"absenteeism": 0.04330963154492562,
+"absenteeism": 0.043281653746770066,
 "roman_name": "KIM BYUNGWOOK",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770984.jpg",
 "loyalty_party_rank": 43,
 "session": 21,
 "office": "의원회관 510호",
-"absenteeism_rank": 270,
+"absenteeism_rank": 271,
 "website": "http://blog.naver.com/777byung",
 "terms": 2,
 "party": "더불어민주당"
 },
 "9771162": {
-"loyalty": 0.9243157724213394,
+"loyalty": 0.9243428266590505,
 "committees": [
 "국토교통위원회"
 ],
 "name_alt": "朴英淳",
-"age": 57.38630136986301,
-"absenteeism_party_rank": 93,
+"age": 57.38904109589041,
+"absenteeism_party_rank": 94,
 "name": "박영순",
 "district": "대전 대덕구",
 "loyalty_rank": 175,
@@ -4325,14 +4325,14 @@
 "phone": "02-784-2066",
 "totalmembers": 306,
 "email": "pys6427@naver.com",
-"absenteeism": 0.09631544925662572,
+"absenteeism": 0.09625322997416019,
 "roman_name": "PARK YOUNGSOON",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771162.jpg",
 "loyalty_party_rank": 144,
 "session": 21,
 "office": "의원회관 430호",
-"absenteeism_rank": 215,
+"absenteeism_rank": 216,
 "website": "http://blog.naver.com/ysb3860",
 "terms": 1,
 "party": "더불어민주당"
@@ -4343,7 +4343,7 @@
 "기획재정위원회"
 ],
 "name_alt": "李仁榮",
-"age": 57.83013698630137,
+"age": 57.83287671232877,
 "absenteeism_party_rank": 1,
 "name": "이인영",
 "district": "서울 구로구갑",
@@ -4353,7 +4353,7 @@
 "phone": "02-784-6811~3",
 "totalmembers": 306,
 "email": "liy1964@empal.com",
-"absenteeism": 0.9715578539107951,
+"absenteeism": 0.9715762273901809,
 "roman_name": "LEE INYOUNG",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770878.jpg",
@@ -4366,14 +4366,14 @@
 "party": "더불어민주당"
 },
 "9771168": {
-"loyalty": 0.9822083998353812,
+"loyalty": 0.9822143751840517,
 "committees": [
 "국회운영위원회",
 "국토교통위원회",
 "예산결산특별위원회"
 ],
 "name_alt": "康準鉉",
-"age": 57.68767123287671,
+"age": 57.69041095890411,
 "absenteeism_party_rank": 139,
 "name": "강준현",
 "district": "세종특별자치시을",
@@ -4383,7 +4383,7 @@
 "phone": "02-784-6950",
 "totalmembers": 306,
 "email": "jhkang315@gmail.com",
-"absenteeism": 0.03813833225597929,
+"absenteeism": 0.03811369509043927,
 "roman_name": "KANG JUNHYEON",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771168.jpg",
@@ -4396,13 +4396,13 @@
 "party": "더불어민주당"
 },
 "9771244": {
-"loyalty": 0.8387043058535093,
+"loyalty": 0.8387680213188223,
 "committees": [
 "외교통일위원회",
 "정보위원회"
 ],
 "name_alt": "趙太庸",
-"age": 65.66027397260274,
+"age": 65.66301369863014,
 "absenteeism_party_rank": 86,
 "name": "조태용",
 "district": "비례대표",
@@ -4412,7 +4412,7 @@
 "phone": "02-784-8231",
 "totalmembers": 306,
 "email": "ty709ho@gmail.com",
-"absenteeism": 0.18228829993535878,
+"absenteeism": 0.1821705426356589,
 "roman_name": "CHO TAEYONG",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771244.jpg",
@@ -4431,7 +4431,7 @@
 "문화체육관광위원회"
 ],
 "name_alt": "金勝源",
-"age": 52.8027397260274,
+"age": 52.8054794520548,
 "absenteeism_party_rank": 125,
 "name": "김승원",
 "district": "경기 수원시갑",
@@ -4441,7 +4441,7 @@
 "phone": "02-784-5285",
 "totalmembers": 306,
 "email": "swkimsuwon@gmail.com",
-"absenteeism": 0.05429864253393668,
+"absenteeism": 0.05490956072351416,
 "roman_name": "KIM SEUNGWON",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771169.jpg",
@@ -4460,7 +4460,7 @@
 "예산결산특별위원회"
 ],
 "name_alt": "裵俊英",
-"age": 51.515068493150686,
+"age": 51.51780821917808,
 "absenteeism_party_rank": 56,
 "name": "배준영",
 "district": "인천 중구강화군옹진군",
@@ -4470,7 +4470,7 @@
 "phone": "02-784-5087",
 "totalmembers": 306,
 "email": "",
-"absenteeism": 0.28248222365869424,
+"absenteeism": 0.2829457364341085,
 "roman_name": "BAE JUNEYOUNG",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771148.jpg",
@@ -4483,13 +4483,13 @@
 "party": "국민의힘"
 },
 "9770587": {
-"loyalty": 0.9537338394021122,
+"loyalty": 0.9537496433856981,
 "committees": [
 "국방위원회"
 ],
 "name_alt": "安圭伯",
-"age": 60.99452054794521,
-"absenteeism_party_rank": 125,
+"age": 60.9972602739726,
+"absenteeism_party_rank": 126,
 "name": "안규백",
 "district": "서울 동대문구갑",
 "loyalty_rank": 104,
@@ -4498,14 +4498,14 @@
 "phone": "02-784-4181",
 "totalmembers": 306,
 "email": "intoan429@gmail.com",
-"absenteeism": 0.05429864253393668,
+"absenteeism": 0.054263565891472854,
 "roman_name": "AHN GYUBACK",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770587.jpg",
 "loyalty_party_rank": 89,
 "session": 21,
 "office": "의원회관 807호",
-"absenteeism_rank": 260,
+"absenteeism_rank": 261,
 "website": "http://www.safe100.or.kr",
 "terms": 4,
 "party": "더불어민주당"
@@ -4516,8 +4516,8 @@
 "기획재정위원회"
 ],
 "name_alt": "尹喜淑",
-"age": 52.21643835616438,
-"absenteeism_party_rank": 45,
+"age": 52.21917808219178,
+"absenteeism_party_rank": 44,
 "name": "윤희숙",
 "district": "서울 서초구갑",
 "loyalty_rank": 287,
@@ -4526,14 +4526,14 @@
 "phone": "02-784-3291",
 "totalmembers": 306,
 "email": "",
-"absenteeism": 0.38784744667097604,
+"absenteeism": 0.38824289405684753,
 "roman_name": "YUN HEESUK",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771123.jpg",
 "loyalty_party_rank": 87,
 "session": 21,
 "office": "의원회관 911호",
-"absenteeism_rank": 72,
+"absenteeism_rank": 71,
 "website": "",
 "terms": 1,
 "party": "국민의힘"
@@ -4544,7 +4544,7 @@
 "국방위원회"
 ],
 "name_alt": "洪永杓",
-"age": 64.99178082191781,
+"age": 64.9945205479452,
 "absenteeism_party_rank": 28,
 "name": "홍영표",
 "district": "인천 부평구을",
@@ -4554,7 +4554,7 @@
 "phone": "02-784-3143",
 "totalmembers": 306,
 "email": "youngvote@hanmail.net",
-"absenteeism": 0.3070458952811894,
+"absenteeism": 0.3074935400516796,
 "roman_name": "HONG YOUNGPYO",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770676.jpg",
@@ -4567,12 +4567,12 @@
 "party": "더불어민주당"
 },
 "9771180": {
-"loyalty": 0.9596653409453291,
+"loyalty": 0.9596792422585301,
 "committees": [
 "보건복지위원회"
 ],
 "name_alt": "高永寅",
-"age": 58.8054794520548,
+"age": 58.80821917808219,
 "absenteeism_party_rank": 120,
 "name": "고영인",
 "district": "경기 안산시단원구갑",
@@ -4582,7 +4582,7 @@
 "phone": "02-784-5490",
 "totalmembers": 306,
 "email": "koyoungin312@gmail.com",
-"absenteeism": 0.06270200387847447,
+"absenteeism": 0.0626614987080103,
 "roman_name": "KO YOUNGIN",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771180.jpg",
@@ -4595,12 +4595,12 @@
 "party": "더불어민주당"
 },
 "9771121": {
-"loyalty": 0.9649932122604722,
+"loyalty": 0.9650085560209022,
 "committees": [
 "교육위원회"
 ],
 "name_alt": "柳基洪",
-"age": 63.87671232876713,
+"age": 63.87945205479452,
 "absenteeism_party_rank": 35,
 "name": "유기홍",
 "district": "서울 관악구갑",
@@ -4610,7 +4610,7 @@
 "phone": "02-784-7901",
 "totalmembers": 306,
 "email": "yookihong1001@gmail.com",
-"absenteeism": 0.2630898513251454,
+"absenteeism": 0.2629198966408268,
 "roman_name": "YOO KIHONG",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771121.jpg",
@@ -4628,8 +4628,8 @@
 "과학기술정보방송통신위원회"
 ],
 "name_alt": "朴大出",
-"age": 61.10958904109589,
-"absenteeism_party_rank": 37,
+"age": 61.11232876712329,
+"absenteeism_party_rank": 36,
 "name": "박대출",
 "district": "경남 진주시갑",
 "loyalty_rank": 306,
@@ -4638,26 +4638,26 @@
 "phone": "02-784-6750",
 "totalmembers": 306,
 "email": "dcparkjj@assembly.go.kr",
-"absenteeism": 0.4078862314156432,
+"absenteeism": 0.4082687338501292,
 "roman_name": "PARK DAECHUL",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9770767.jpg",
 "loyalty_party_rank": 106,
 "session": 21,
 "office": "의원회관 802호",
-"absenteeism_rank": 61,
+"absenteeism_rank": 60,
 "website": "http://blog.naver.com/dcparkjj",
 "terms": 3,
 "party": "국민의힘"
 },
 "9771160": {
-"loyalty": 0.9513697803483302,
+"loyalty": 0.9513872638001452,
 "committees": [
 "환경노동위원회",
 "예산결산특별위원회"
 ],
 "name_alt": "張喆敏",
-"age": 38.94794520547945,
+"age": 38.95068493150685,
 "absenteeism_party_rank": 88,
 "name": "장철민",
 "district": "대전 동구",
@@ -4667,7 +4667,7 @@
 "phone": "02-784-2187",
 "totalmembers": 306,
 "email": "jcm5440@gmail.com",
-"absenteeism": 0.10148674854557205,
+"absenteeism": 0.10142118863049099,
 "roman_name": "CHULMIN JANG",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771160.jpg",
@@ -4680,13 +4680,13 @@
 "party": "더불어민주당"
 },
 "9771153": {
-"loyalty": 0.9170873557506118,
+"loyalty": 0.9171146700798819,
 "committees": [
 "국회운영위원회",
 "교육위원회"
 ],
 "name_alt": "尹永德",
-"age": 52.635616438356166,
+"age": 52.63835616438356,
 "absenteeism_party_rank": 148,
 "name": "윤영덕",
 "district": "광주 동구남구갑",
@@ -4696,7 +4696,7 @@
 "phone": "02)784 3870~2",
 "totalmembers": 306,
 "email": "yyd0415v@naver.com",
-"absenteeism": 0.019392372333548846,
+"absenteeism": 0.019379844961240345,
 "roman_name": "YOON YOUNGDEOK",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771153.jpg",
@@ -4714,7 +4714,7 @@
 "국토교통위원회"
 ],
 "name_alt": "金恩慧",
-"age": 51.3041095890411,
+"age": 51.30684931506849,
 "absenteeism_party_rank": 9,
 "name": "김은혜",
 "district": "경기 성남시분당구갑",
@@ -4724,7 +4724,7 @@
 "phone": "02-784-0905",
 "totalmembers": 306,
 "email": "eunhye4400@naver.com",
-"absenteeism": 0.7084680025856496,
+"absenteeism": 0.7086563307493541,
 "roman_name": "KIM EUNHYE",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771171.jpg",
@@ -4742,7 +4742,7 @@
 "국토교통위원회"
 ],
 "name_alt": "金潤德",
-"age": 55.92876712328767,
+"age": 55.93150684931507,
 "absenteeism_party_rank": 76,
 "name": "김윤덕",
 "district": "전북 전주시갑",
@@ -4752,7 +4752,7 @@
 "phone": "02-784-4367~9",
 "totalmembers": 306,
 "email": "ydkim22@naver.com",
-"absenteeism": 0.1208791208791209,
+"absenteeism": 0.12144702842377264,
 "roman_name": "KIM YUNDUCK",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771206.jpg",
@@ -4773,7 +4773,7 @@
 "윤리특별위원회"
 ],
 "name_alt": "全珠惠",
-"age": 55.78356164383562,
+"age": 55.78630136986301,
 "absenteeism_party_rank": 32,
 "name": "전주혜",
 "district": "비례대표",
@@ -4783,7 +4783,7 @@
 "phone": "02-784-9340",
 "totalmembers": 306,
 "email": "jhjoy827@naver.com",
-"absenteeism": 0.4414996767937944,
+"absenteeism": 0.4418604651162791,
 "roman_name": "JUN JOOHYAE",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771253.jpg",
@@ -4801,7 +4801,7 @@
 "행정안전위원회"
 ],
 "name_alt": "金用判",
-"age": 64.30684931506849,
+"age": 64.30958904109589,
 "absenteeism_party_rank": 68,
 "name": "김용판",
 "district": "대구 달서구병",
@@ -4811,7 +4811,7 @@
 "phone": "02-784-9480",
 "totalmembers": 306,
 "email": "jebek8969@gmail.com",
-"absenteeism": 0.24305106658047837,
+"absenteeism": 0.2435400516795866,
 "roman_name": "KIM YONGPAN",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771147.jpg",
@@ -4824,42 +4824,42 @@
 "party": "국민의힘"
 },
 "9771293": {
-"loyalty": 0.87798258649597,
+"loyalty": 0.8806646154081598,
 "committees": [
 "산업통상자원중소벤처기업위원회"
 ],
 "name_alt": "崔在亨",
-"age": 65.64931506849315,
+"age": 65.65205479452055,
 "absenteeism_party_rank": 3,
 "name": "최재형",
 "district": "서울 종로구",
-"loyalty_rank": 200,
+"loyalty_rank": 199,
 "dob": "1956-09-02",
 "member_id": "9771293",
 "phone": "",
 "totalmembers": 306,
 "email": "",
-"absenteeism": 0.9857789269553976,
+"absenteeism": 0.9851421188630491,
 "roman_name": "CHOEJAEHYEONG",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771293.jpg",
-"loyalty_party_rank": 2,
+"loyalty_party_rank": 1,
 "session": 21,
 "office": "",
-"absenteeism_rank": 3,
+"absenteeism_rank": 4,
 "website": "",
 "terms": 1,
 "party": "국민의힘"
 },
 "9771136": {
-"loyalty": 0.7565749623570033,
+"loyalty": 0.756672586197963,
 "committees": [
 "보건복지위원회",
 "여성가족위원회",
 "윤리특별위원회"
 ],
 "name_alt": "金美愛",
-"age": 52.556164383561644,
+"age": 52.558904109589044,
 "absenteeism_party_rank": 84,
 "name": "김미애",
 "district": "부산 해운대구을",
@@ -4869,7 +4869,7 @@
 "phone": "02-784-5680",
 "totalmembers": 306,
 "email": "015miae@naver.com",
-"absenteeism": 0.1945701357466063,
+"absenteeism": 0.19444444444444442,
 "roman_name": "KIM MIAE",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771136.jpg",
@@ -4882,13 +4882,13 @@
 "party": "국민의힘"
 },
 "9771274": {
-"loyalty": 0.9499310146003138,
+"loyalty": 0.949685292309887,
 "committees": [
 "산업통상자원중소벤처기업위원회",
 "윤리특별위원회"
 ],
 "name_alt": "柳好貞",
-"age": 29.715068493150685,
+"age": 29.71780821917808,
 "absenteeism_party_rank": 5,
 "name": "류호정",
 "district": "비례대표",
@@ -4898,7 +4898,7 @@
 "phone": "02-784-9740",
 "totalmembers": 306,
 "email": "help@ryuhojeong.com",
-"absenteeism": 0.018099547511312264,
+"absenteeism": 0.018087855297157618,
 "roman_name": "RYU HOJEONG",
 "partysize": 6,
 "image_url": "http://www.assembly.go.kr/photo/9771274.jpg",
@@ -4917,7 +4917,7 @@
 "여성가족위원회"
 ],
 "name_alt": "李亮壽",
-"age": 54.6986301369863,
+"age": 54.701369863013696,
 "absenteeism_party_rank": 29,
 "name": "이양수",
 "district": "강원 속초시인제군고성군양양군",
@@ -4927,7 +4927,7 @@
 "phone": "02-784-8150",
 "totalmembers": 306,
 "email": "2yangs6288@naver.com",
-"absenteeism": 0.4576599870717518,
+"absenteeism": 0.45801033591731266,
 "roman_name": "LEE YANGSOO",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771003.jpg",
@@ -4940,12 +4940,12 @@
 "party": "국민의힘"
 },
 "9771009": {
-"loyalty": 0.9476259205217639,
+"loyalty": 0.9476563794248798,
 "committees": [
 "법제사법위원회"
 ],
 "name_alt": "金鐘民",
-"age": 57.95890410958904,
+"age": 57.961643835616435,
 "absenteeism_party_rank": 12,
 "name": "김종민",
 "district": "충남 논산시계룡시금산군",
@@ -4955,7 +4955,7 @@
 "phone": "02-784-5920",
 "totalmembers": 306,
 "email": "withmin413@gmail.com",
-"absenteeism": 0.4447317388493859,
+"absenteeism": 0.4444444444444444,
 "roman_name": "KIM JONGMIN",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771009.jpg",
@@ -4968,13 +4968,13 @@
 "party": "더불어민주당"
 },
 "9771183": {
-"loyalty": 0.9636330864294875,
+"loyalty": 0.9636466789971724,
 "committees": [
 "산업통상자원중소벤처기업위원회",
 "예산결산특별위원회"
 ],
 "name_alt": "洪貞敏",
-"age": 43.42191780821918,
+"age": 43.42465753424658,
 "absenteeism_party_rank": 68,
 "name": "홍정민",
 "district": "경기 고양시병",
@@ -4984,7 +4984,7 @@
 "phone": "02-784-8950",
 "totalmembers": 306,
 "email": "",
-"absenteeism": 0.1357466063348416,
+"absenteeism": 0.1356589147286822,
 "roman_name": "HONG JUNGMIN",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771183.jpg",
@@ -5003,7 +5003,7 @@
 "예산결산특별위원회"
 ],
 "name_alt": "金成願",
-"age": 48.53150684931507,
+"age": 48.534246575342465,
 "absenteeism_party_rank": 33,
 "name": "김성원",
 "district": "경기 동두천시연천군",
@@ -5013,7 +5013,7 @@
 "phone": "02-784-6566",
 "totalmembers": 306,
 "email": "kimsw910@naver.com",
-"absenteeism": 0.43309631544925664,
+"absenteeism": 0.43346253229974163,
 "roman_name": "KIM SUNGWON",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9770985.jpg",
@@ -5026,12 +5026,12 @@
 "party": "국민의힘"
 },
 "9770719": {
-"loyalty": 0.8497439445453449,
+"loyalty": 0.8497974640681307,
 "committees": [
 "행정안전위원회"
 ],
 "name_alt": "金度邑",
-"age": 57.80821917808219,
+"age": 57.81095890410959,
 "absenteeism_party_rank": 102,
 "name": "김도읍",
 "district": "부산 북구강서구을",
@@ -5041,7 +5041,7 @@
 "phone": "02-784-1740",
 "totalmembers": 306,
 "email": "ldek3525@naver.com",
-"absenteeism": 0.09308338720103426,
+"absenteeism": 0.09302325581395354,
 "roman_name": "KIM DOEUP",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9770719.jpg",
@@ -5054,12 +5054,12 @@
 "party": "국민의힘"
 },
 "9771258": {
-"loyalty": 0.941476964108964,
+"loyalty": 0.941497078574549,
 "committees": [
 "산업통상자원중소벤처기업위원회"
 ],
 "name_alt": "金京萬",
-"age": 59.59178082191781,
+"age": 59.59452054794521,
 "absenteeism_party_rank": 10,
 "name": "김경만",
 "district": "비례대표",
@@ -5069,7 +5069,7 @@
 "phone": "02-784-9820",
 "totalmembers": 306,
 "email": "2020kkman@gmail.com",
-"absenteeism": 0.0601163542340013,
+"absenteeism": 0.06007751937984496,
 "roman_name": "KIM KYUNGMAN",
 "partysize": 14,
 "image_url": "http://www.assembly.go.kr/photo/9771258.jpg",
@@ -5082,12 +5082,12 @@
 "party": "더불어시민당"
 },
 "9771093": {
-"loyalty": 0.9896308650798565,
+"loyalty": 0.9896363124849712,
 "committees": [
 "산업통상자원중소벤처기업위원회"
 ],
 "name_alt": "宋甲錫",
-"age": 55.54520547945206,
+"age": 55.54794520547945,
 "absenteeism_party_rank": 17,
 "name": "송갑석",
 "district": "광주 서구갑",
@@ -5097,7 +5097,7 @@
 "phone": "02-784-5750",
 "totalmembers": 306,
 "email": "kssong800518@daum.net",
-"absenteeism": 0.3852617970265029,
+"absenteeism": 0.3850129198966409,
 "roman_name": "SONG GABSEOK",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771093.jpg",
@@ -5116,7 +5116,7 @@
 "예산결산특별위원회"
 ],
 "name_alt": "辛正勳",
-"age": 57.38904109589041,
+"age": 57.391780821917806,
 "absenteeism_party_rank": 91,
 "name": "신정훈",
 "district": "전남 나주시화순군",
@@ -5126,7 +5126,7 @@
 "phone": "02-784-4277",
 "totalmembers": 306,
 "email": "",
-"absenteeism": 0.0976082740788623,
+"absenteeism": 0.09819121447028423,
 "roman_name": "SHIN JEONGHOON",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771219.jpg",
@@ -5139,13 +5139,13 @@
 "party": "더불어민주당"
 },
 "9771246": {
-"loyalty": 0.7433024642755177,
+"loyalty": 0.743452623712599,
 "committees": [
 "국회운영위원회",
 "국방위원회"
 ],
 "name_alt": "申源湜",
-"age": 63.75890410958904,
+"age": 63.76164383561644,
 "absenteeism_party_rank": 31,
 "name": "신원식",
 "district": "비례대표",
@@ -5155,7 +5155,7 @@
 "phone": "02-784-9630",
 "totalmembers": 306,
 "email": "wonteam20@naver.com",
-"absenteeism": 0.44796380090497734,
+"absenteeism": 0.4476744186046512,
 "roman_name": "SHIN WONSIK",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771246.jpg",
@@ -5173,7 +5173,7 @@
 "외교통일위원회"
 ],
 "name_alt": "趙恩禧",
-"age": 60.93698630136986,
+"age": 60.93972602739726,
 "absenteeism_party_rank": 2,
 "name": "조은희",
 "district": "서울 서초구갑",
@@ -5183,7 +5183,7 @@
 "phone": "",
 "totalmembers": 306,
 "email": "",
-"absenteeism": 0.9864253393665159,
+"absenteeism": 0.9864341085271318,
 "roman_name": "CHOEUNHEE",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771292.jpg",
@@ -5201,7 +5201,7 @@
 "환경노동위원회"
 ],
 "name_alt": "林鍾聲",
-"age": 56.726027397260275,
+"age": 56.728767123287675,
 "absenteeism_party_rank": 123,
 "name": "임종성",
 "district": "경기 광주시을",
@@ -5211,26 +5211,26 @@
 "phone": "02-784-8380",
 "totalmembers": 306,
 "email": "5321tempia@hanmail.net",
-"absenteeism": 0.05753070458952814,
+"absenteeism": 0.05813953488372092,
 "roman_name": "LIM JONGSEONG",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771000.jpg",
 "loyalty_party_rank": 104,
 "session": 21,
 "office": "의원회관 845호",
-"absenteeism_rank": 258,
+"absenteeism_rank": 257,
 "website": "http://blog.naver.com/ijs5321",
 "terms": 2,
 "party": "더불어민주당"
 },
 "9771238": {
-"loyalty": 0.9480061524503037,
+"loyalty": 0.9480316709046259,
 "committees": [
 "정무위원회",
 "예산결산특별위원회"
 ],
 "name_alt": "宋在祜",
-"age": 61.35068493150685,
+"age": 61.35342465753425,
 "absenteeism_party_rank": 21,
 "name": "송재호",
 "district": "제주 제주시갑",
@@ -5240,7 +5240,7 @@
 "phone": "02-784-1631",
 "totalmembers": 306,
 "email": "songjeju2020@gmail.com",
-"absenteeism": 0.34195216548157725,
+"absenteeism": 0.3417312661498708,
 "roman_name": "SONG JAEHO",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771238.jpg",
@@ -5259,7 +5259,7 @@
 "예산결산특별위원회"
 ],
 "name_alt": "申賢榮",
-"age": 41.441095890410956,
+"age": 41.443835616438356,
 "absenteeism_party_rank": 2,
 "name": "신현영",
 "district": "비례대표",
@@ -5269,7 +5269,7 @@
 "phone": "02-6788-6691~4",
 "totalmembers": 306,
 "email": "21shy740@gmail.com",
-"absenteeism": 0.1202327084680026,
+"absenteeism": 0.12080103359173122,
 "roman_name": "SHIN HYUNYOUNG",
 "partysize": 14,
 "image_url": "http://www.assembly.go.kr/photo/9771257.jpg",
@@ -5282,12 +5282,12 @@
 "party": "더불어시민당"
 },
 "9771038": {
-"loyalty": 0.9015623881172949,
+"loyalty": 0.9015950970771223,
 "committees": [
 "농림축산식품해양수산위원회"
 ],
 "name_alt": "魏聖坤",
-"age": 54.26575342465753,
+"age": 54.26849315068493,
 "absenteeism_party_rank": 145,
 "name": "위성곤",
 "district": "제주 서귀포시",
@@ -5297,7 +5297,7 @@
 "phone": "02-784-6450",
 "totalmembers": 306,
 "email": "wishjeju@hanmail.net",
-"absenteeism": 0.02779573367808663,
+"absenteeism": 0.02777777777777779,
 "roman_name": "WI SEONGGON",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771038.jpg",
@@ -5315,7 +5315,7 @@
 "과학기술정보방송통신위원회"
 ],
 "name_alt": "金英植",
-"age": 62.775342465753425,
+"age": 62.778082191780825,
 "absenteeism_party_rank": 49,
 "name": "김영식",
 "district": "경북 구미시을",
@@ -5325,7 +5325,7 @@
 "phone": "02-6788-6246",
 "totalmembers": 306,
 "email": "yeungshik20@naver.com",
-"absenteeism": 0.3522947640594699,
+"absenteeism": 0.3527131782945736,
 "roman_name": "KIM YEUNGSHIK",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771225.jpg",
@@ -5343,7 +5343,7 @@
 "농림축산식품해양수산위원회"
 ],
 "name_alt": "金承南",
-"age": 56.556164383561644,
+"age": 56.558904109589044,
 "absenteeism_party_rank": 133,
 "name": "김승남",
 "district": "전남 고흥군보성군장흥군강진군",
@@ -5353,7 +5353,7 @@
 "phone": "02-784-1091~2",
 "totalmembers": 306,
 "email": "snk651006@gmail.com",
-"absenteeism": 0.04718810601163548,
+"absenteeism": 0.04780361757105944,
 "roman_name": "KIM SEUNGNAM",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771220.jpg",
@@ -5366,12 +5366,12 @@
 "party": "더불어민주당"
 },
 "9770997": {
-"loyalty": 0.9670108588649255,
+"loyalty": 0.9670281714565849,
 "committees": [
 "기획재정위원회"
 ],
 "name_alt": "金斗官",
-"age": 63.04657534246575,
+"age": 63.04931506849315,
 "absenteeism_party_rank": 18,
 "name": "김두관",
 "district": "경남 양산시을",
@@ -5381,7 +5381,7 @@
 "phone": "02-784-2566",
 "totalmembers": 306,
 "email": "okdkkorea@gmail.com",
-"absenteeism": 0.3846153846153846,
+"absenteeism": 0.38436692506459946,
 "roman_name": "KIM DUKWAN",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770997.jpg",
@@ -5394,12 +5394,12 @@
 "party": "더불어민주당"
 },
 "9770999": {
-"loyalty": 0.9426130322233306,
+"loyalty": 0.9426318507081051,
 "committees": [
 "국토교통위원회"
 ],
 "name_alt": "蘇秉勳",
-"age": 67.8986301369863,
+"age": 67.9013698630137,
 "absenteeism_party_rank": 150,
 "name": "소병훈",
 "district": "경기 광주시갑",
@@ -5409,7 +5409,7 @@
 "phone": "02-784-5020",
 "totalmembers": 306,
 "email": "sotong848@daum.net",
-"absenteeism": 0.014867485455720697,
+"absenteeism": 0.014857881136950857,
 "roman_name": "SO BYUNGHOON",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770999.jpg",
@@ -5427,7 +5427,7 @@
 "농림축산식품해양수산위원회"
 ],
 "name_alt": "朴德欽",
-"age": 68.52328767123288,
+"age": 68.52602739726028,
 "absenteeism_party_rank": 5,
 "name": "박덕흠",
 "district": "충북 보은군옥천군영동군괴산군",
@@ -5437,7 +5437,7 @@
 "phone": "02-784-6550",
 "totalmembers": 306,
 "email": "parkdukhyum@naver.com",
-"absenteeism": 0.8720103425985779,
+"absenteeism": 0.872093023255814,
 "roman_name": "PARK DUKHYUM",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9770768.jpg",
@@ -5450,12 +5450,12 @@
 "party": "국민의힘"
 },
 "9771098": {
-"loyalty": 0.9705193207064722,
+"loyalty": 0.970531932762362,
 "committees": [
 "문화체육관광위원회"
 ],
 "name_alt": "李相憲",
-"age": 67.7972602739726,
+"age": 67.8,
 "absenteeism_party_rank": 38,
 "name": "이상헌",
 "district": "울산 북구",
@@ -5465,7 +5465,7 @@
 "phone": "02-784-8630~2",
 "totalmembers": 306,
 "email": "leesh_2018@naver.com",
-"absenteeism": 0.24499030381383324,
+"absenteeism": 0.2448320413436692,
 "roman_name": "LEE SANGHEON",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771098.jpg",
@@ -5478,12 +5478,12 @@
 "party": "더불어민주당"
 },
 "9771264": {
-"loyalty": 0.9535146488722233,
+"loyalty": 0.9535298129082255,
 "committees": [
 "과학기술정보방송통신위원회"
 ],
 "name_alt": "鄭必模",
-"age": 63.8986301369863,
+"age": 63.9013698630137,
 "absenteeism_party_rank": 12,
 "name": "정필모",
 "district": "비례대표",
@@ -5493,7 +5493,7 @@
 "phone": "02-784-6355",
 "totalmembers": 306,
 "email": "pmjung537@gmail.com",
-"absenteeism": 0.009696186166774368,
+"absenteeism": 0.009689922480620172,
 "roman_name": "JUNG PILMO",
 "partysize": 14,
 "image_url": "http://www.assembly.go.kr/photo/9771264.jpg",
@@ -5506,13 +5506,13 @@
 "party": "더불어시민당"
 },
 "9771060": {
-"loyalty": 0.9289605961590987,
+"loyalty": 0.9289922889573928,
 "committees": [
 "외교통일위원회",
 "윤리특별위원회"
 ],
 "name_alt": "李在汀",
-"age": 47.73424657534247,
+"age": 47.73698630136986,
 "absenteeism_party_rank": 30,
 "name": "이재정",
 "district": "경기 안양시동안구을",
@@ -5522,26 +5522,26 @@
 "phone": "02-784-2677",
 "totalmembers": 306,
 "email": "leejjlaw@gmail.com",
-"absenteeism": 0.27601809954751133,
+"absenteeism": 0.27583979328165376,
 "roman_name": "LEE JAEJUNG",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771060.jpg",
 "loyalty_party_rank": 137,
 "session": 21,
 "office": "의원회관 543호",
-"absenteeism_rank": 99,
+"absenteeism_rank": 100,
 "website": "https://blog.naver.com/leejjlaw",
 "terms": 2,
 "party": "더불어민주당"
 },
 "9771203": {
-"loyalty": 0.9725959188336873,
+"loyalty": 0.9726052542388863,
 "committees": [
 "행정안전위원회"
 ],
 "name_alt": "林昊宣",
-"age": 57.58082191780822,
-"absenteeism_party_rank": 129,
+"age": 57.583561643835615,
+"absenteeism_party_rank": 130,
 "name": "임호선",
 "district": "충북 증평군진천군괴산군음성군",
 "loyalty_rank": 40,
@@ -5550,25 +5550,25 @@
 "phone": "02-784-1730",
 "totalmembers": 306,
 "email": "limhoseon2020@naver.com",
-"absenteeism": 0.051712992889463516,
+"absenteeism": 0.05167958656330751,
 "roman_name": "LIM HOSEON",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771203.jpg",
 "loyalty_party_rank": 30,
 "session": 21,
 "office": "의원회관 429호",
-"absenteeism_rank": 264,
+"absenteeism_rank": 265,
 "website": "http://blog.naver.com/propol21",
 "terms": 1,
 "party": "더불어민주당"
 },
 "9770852": {
-"loyalty": 0.9588255634707058,
+"loyalty": 0.958840023325947,
 "committees": [
 "국토교통위원회"
 ],
 "name_alt": "陳善美",
-"age": 54.95342465753425,
+"age": 54.95616438356164,
 "absenteeism_party_rank": 105,
 "name": "진선미",
 "district": "서울 강동구갑",
@@ -5578,7 +5578,7 @@
 "phone": "02-784-9591",
 "totalmembers": 306,
 "email": "smjingogo@gmail.com",
-"absenteeism": 0.08015513897866844,
+"absenteeism": 0.08010335917312661,
 "roman_name": "JIN SUNMEE",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770852.jpg",
@@ -5591,12 +5591,12 @@
 "party": "더불어민주당"
 },
 "9771204": {
-"loyalty": 0.9164612744024271,
+"loyalty": 0.9164930200716705,
 "committees": [
 "국토교통위원회"
 ],
 "name_alt": "文振碩",
-"age": 60.202739726027396,
+"age": 60.205479452054796,
 "absenteeism_party_rank": 62,
 "name": "문진석",
 "district": "충남 천안시갑",
@@ -5606,7 +5606,7 @@
 "phone": "02-784-9030",
 "totalmembers": 306,
 "email": "jmoon123@naver.com",
-"absenteeism": 0.1499676793794441,
+"absenteeism": 0.14987080103359174,
 "roman_name": "MOON JINSEOG",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771204.jpg",
@@ -5619,23 +5619,23 @@
 "party": "더불어민주당"
 },
 "9771276": {
-"loyalty": 0.9434923356805611,
+"loyalty": 0.9429081245183917,
 "committees": [
 "환경노동위원회",
 "예산결산특별위원회"
 ],
 "name_alt": "姜恩美",
-"age": 51.63835616438356,
+"age": 51.64109589041096,
 "absenteeism_party_rank": 2,
 "name": "강은미",
 "district": "비례대표",
-"loyalty_rank": 137,
+"loyalty_rank": 139,
 "dob": "1970-09-06",
 "member_id": "9771276",
 "phone": "02-784-4162",
 "totalmembers": 306,
 "email": "em7086@gmail.com",
-"absenteeism": 0.15513897866839044,
+"absenteeism": 0.15503875968992253,
 "roman_name": "KANG EUNMI",
 "partysize": 6,
 "image_url": "http://www.assembly.go.kr/photo/9771276.jpg",
@@ -5654,8 +5654,8 @@
 "예산결산특별위원회"
 ],
 "name_alt": "全惠淑",
-"age": 66.97808219178083,
-"absenteeism_party_rank": 39,
+"age": 66.98082191780821,
+"absenteeism_party_rank": 38,
 "name": "전혜숙",
 "district": "서울 광진구갑",
 "loyalty_rank": 80,
@@ -5664,27 +5664,27 @@
 "phone": "02-784-8340",
 "totalmembers": 306,
 "email": "jhsook7612@gmail.com",
-"absenteeism": 0.24434389140271495,
+"absenteeism": 0.2448320413436692,
 "roman_name": "JUN HYESOOK",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770926.jpg",
 "loyalty_party_rank": 67,
 "session": 21,
 "office": "의원회관 906호",
-"absenteeism_rank": 121,
+"absenteeism_rank": 119,
 "website": "https://blog.naver.com/jhsook7612",
 "terms": 3,
 "party": "더불어민주당"
 },
 "9771199": {
-"loyalty": 0.7292173416377727,
+"loyalty": 0.7293626502923805,
 "committees": [
 "국회운영위원회",
 "법제사법위원회",
 "윤리특별위원회"
 ],
 "name_alt": "劉相凡",
-"age": 55.895890410958906,
+"age": 55.8986301369863,
 "absenteeism_party_rank": 41,
 "name": "유상범",
 "district": "강원 홍천군횡성군",
@@ -5694,7 +5694,7 @@
 "phone": "02-784-4760",
 "totalmembers": 306,
 "email": "sbyoo64@naver.com",
-"absenteeism": 0.3981900452488688,
+"absenteeism": 0.3979328165374677,
 "roman_name": "YOO SANGBUM",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771199.jpg",
@@ -5707,12 +5707,12 @@
 "party": "국민의힘"
 },
 "9771242": {
-"loyalty": 0.82469890252737,
+"loyalty": 0.824765468353758,
 "committees": [
 "보건복지위원회"
 ],
 "name_alt": "李鍾成",
-"age": 52.18904109589041,
+"age": 52.19178082191781,
 "absenteeism_party_rank": 96,
 "name": "이종성",
 "district": "비례대표",
@@ -5722,7 +5722,7 @@
 "phone": "02-784-2374, 02-6788-7066",
 "totalmembers": 306,
 "email": "217jongseong@naver.com",
-"absenteeism": 0.14932126696832582,
+"absenteeism": 0.14922480620155043,
 "roman_name": "LEE JONGSEONG",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771242.jpg",
@@ -5740,7 +5740,7 @@
 "기획재정위원회"
 ],
 "name_alt": "龍慧仁",
-"age": 32.04109589041096,
+"age": 32.04383561643836,
 "absenteeism_party_rank": 1,
 "name": "용혜인",
 "district": "비례대표",
@@ -5750,7 +5750,7 @@
 "phone": "02-784-3063",
 "totalmembers": 306,
 "email": "hello@yonghyein.kr",
-"absenteeism": 0.19263089851325144,
+"absenteeism": 0.19250645994832039,
 "roman_name": "YONG HYEIN",
 "partysize": 1,
 "image_url": "http://www.assembly.go.kr/photo/9771261.jpg",
@@ -5763,22 +5763,22 @@
 "party": "기본소득당"
 },
 "9771275": {
-"loyalty": 0.9303684345801846,
+"loyalty": 0.930203977598576,
 "committees": [
 "기획재정위원회"
 ],
 "name_alt": "張惠英",
-"age": 35.05205479452055,
+"age": 35.054794520547944,
 "absenteeism_party_rank": 6,
 "name": "장혜영",
 "district": "비례대표",
-"loyalty_rank": 161,
+"loyalty_rank": 163,
 "dob": "1987-04-08",
 "member_id": "9771275",
 "phone": "02-784-1845(의원회관516호)",
 "totalmembers": 306,
 "email": "janghyeyeong21@gmail.com",
-"absenteeism": 0.009696186166774368,
+"absenteeism": 0.009689922480620172,
 "roman_name": "JANG HYEYOUNG",
 "partysize": 6,
 "image_url": "http://www.assembly.go.kr/photo/9771275.jpg",
@@ -5791,12 +5791,12 @@
 "party": "정의당"
 },
 "9771149": {
-"loyalty": 0.951878519654488,
+"loyalty": 0.9518941562041602,
 "committees": [
 "보건복지위원회"
 ],
 "name_alt": "許琮植",
-"age": 60.21369863013699,
+"age": 60.21643835616438,
 "absenteeism_party_rank": 160,
 "name": "허종식",
 "district": "인천 동구미추홀구갑",
@@ -5806,7 +5806,7 @@
 "phone": "02-784-8870",
 "totalmembers": 306,
 "email": "jongsyy@naver.com",
-"absenteeism": 0.005817711700064621,
+"absenteeism": 0.005813953488372103,
 "roman_name": "HEO JONGSIK",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771149.jpg",
@@ -5819,22 +5819,22 @@
 "party": "더불어민주당"
 },
 "9770986": {
-"loyalty": 0.9273156511884354,
+"loyalty": 0.9273393616274325,
 "committees": [
 "교육위원회"
 ],
 "name_alt": "金哲玟",
-"age": 65.1945205479452,
+"age": 65.1972602739726,
 "absenteeism_party_rank": 155,
 "name": "김철민",
 "district": "경기 안산시상록구을",
-"loyalty_rank": 170,
+"loyalty_rank": 171,
 "dob": "1957-02-15",
 "member_id": "9770986",
 "phone": "02-784-2135",
 "totalmembers": 306,
 "email": "kcm8764@naver.com",
-"absenteeism": 0.009696186166774368,
+"absenteeism": 0.009689922480620172,
 "roman_name": "KIM CHEOLMIN",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770986.jpg",
@@ -5847,13 +5847,13 @@
 "party": "더불어민주당"
 },
 "9770941": {
-"loyalty": 0.9552320476122188,
+"loyalty": 0.9552523459367208,
 "committees": [
 "국방위원회",
 "정보위원회"
 ],
 "name_alt": "金炳基",
-"age": 60.797260273972604,
+"age": 60.8,
 "absenteeism_party_rank": 29,
 "name": "김병기",
 "district": "서울 동작구갑",
@@ -5863,7 +5863,7 @@
 "phone": "02-784-1322",
 "totalmembers": 306,
 "email": "the.kim.weapon@gmail.com",
-"absenteeism": 0.28765352294764057,
+"absenteeism": 0.28746770025839796,
 "roman_name": "KIM BYUNGKEE",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770941.jpg",
@@ -5876,12 +5876,12 @@
 "party": "더불어민주당"
 },
 "9771260": {
-"loyalty": 0.9549938144193627,
+"loyalty": 0.9550092512867626,
 "committees": [
 "산업통상자원중소벤처기업위원회"
 ],
 "name_alt": "李東洲",
-"age": 49.64383561643836,
+"age": 49.64657534246575,
 "absenteeism_party_rank": 11,
 "name": "이동주",
 "district": "비례대표",
@@ -5891,7 +5891,7 @@
 "phone": "02-784-9761~3",
 "totalmembers": 306,
 "email": "fairness933@gmail.com",
-"absenteeism": 0.05817711700064643,
+"absenteeism": 0.05813953488372092,
 "roman_name": "LEE DONGJU",
 "partysize": 14,
 "image_url": "http://www.assembly.go.kr/photo/9771260.jpg",
@@ -5911,8 +5911,8 @@
 "여성가족위원회"
 ],
 "name_alt": "金汀才",
-"age": 56.1945205479452,
-"absenteeism_party_rank": 75,
+"age": 56.1972602739726,
+"absenteeism_party_rank": 74,
 "name": "김정재",
 "district": "경북 포항시북구",
 "loyalty_rank": 204,
@@ -5921,25 +5921,25 @@
 "phone": "02-784-6831",
 "totalmembers": 306,
 "email": "lawjj@naver.com",
-"absenteeism": 0.22171945701357465,
+"absenteeism": 0.2222222222222222,
 "roman_name": "KIM JUNGJAE",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771023.jpg",
 "loyalty_party_rank": 6,
 "session": 21,
 "office": "의원회관 914호",
-"absenteeism_rank": 133,
+"absenteeism_rank": 132,
 "website": "",
 "terms": 2,
 "party": "국민의힘"
 },
 "9770602": {
-"loyalty": 0.8513226238680895,
+"loyalty": 0.8514046980538261,
 "committees": [
 "행정안전위원회"
 ],
 "name_alt": "李明洙",
-"age": 67.20547945205479,
+"age": 67.20821917808219,
 "absenteeism_party_rank": 35,
 "name": "이명수",
 "district": "충남 아산시갑",
@@ -5949,7 +5949,7 @@
 "phone": "02-784-5711",
 "totalmembers": 306,
 "email": "mslee3@assembly.go.kr",
-"absenteeism": 0.4149967679379444,
+"absenteeism": 0.4147286821705426,
 "roman_name": "LEE MYOUNGSU",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9770602.jpg",
@@ -5967,7 +5967,7 @@
 "국방위원회"
 ],
 "name_alt": "黃熙",
-"age": 54.74794520547945,
+"age": 54.75068493150685,
 "absenteeism_party_rank": 2,
 "name": "황희",
 "district": "서울 양천구갑",
@@ -5977,7 +5977,7 @@
 "phone": "02-784-8551",
 "totalmembers": 306,
 "email": "hwanghee6728@gmail.com",
-"absenteeism": 0.7401422107304461,
+"absenteeism": 0.7403100775193798,
 "roman_name": "HWANG HEE",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770936.jpg",
@@ -5990,13 +5990,13 @@
 "party": "더불어민주당"
 },
 "9771267": {
-"loyalty": 0.9351314095656301,
+"loyalty": 0.93515415850213,
 "committees": [
 "국회운영위원회",
 "보건복지위원회"
 ],
 "name_alt": "崔惠英",
-"age": 42.9041095890411,
+"age": 42.90684931506849,
 "absenteeism_party_rank": 4,
 "name": "최혜영",
 "district": "비례대표",
@@ -6006,7 +6006,7 @@
 "phone": "02-784-7190~2",
 "totalmembers": 306,
 "email": "choihy647@gmail.com",
-"absenteeism": 0.07886231415643186,
+"absenteeism": 0.07881136950904388,
 "roman_name": null,
 "partysize": 14,
 "image_url": "http://www.assembly.go.kr/photo/9771267.jpg",
@@ -6025,7 +6025,7 @@
 "여성가족위원회"
 ],
 "name_alt": "梁李媛瑛",
-"age": 50.95342465753425,
+"age": 50.95616438356164,
 "absenteeism_party_rank": 3,
 "name": "양이원영",
 "district": "비례대표",
@@ -6035,14 +6035,14 @@
 "phone": "02-784-8834~6",
 "totalmembers": 306,
 "email": "yangyi.assembly@gmail.com",
-"absenteeism": 0.11958629605688431,
+"absenteeism": 0.12015503875968991,
 "roman_name": "YANG YIWONYOUNG",
 "partysize": 14,
 "image_url": "http://www.assembly.go.kr/photo/9771287.jpg",
 "loyalty_party_rank": 14,
 "session": 21,
 "office": "의원회관 502호",
-"absenteeism_rank": 198,
+"absenteeism_rank": 197,
 "website": "http://www.yangyi.kr",
 "terms": 1,
 "party": "더불어시민당"
@@ -6053,7 +6053,7 @@
 "농림축산식품해양수산위원회"
 ],
 "name_alt": "洪文杓",
-"age": 74.55890410958904,
+"age": 74.56164383561644,
 "absenteeism_party_rank": 23,
 "name": "홍문표",
 "district": "충남 홍성군예산군",
@@ -6063,7 +6063,7 @@
 "phone": "02-784-9587",
 "totalmembers": 306,
 "email": "mphonglove@hanmail.net",
-"absenteeism": 0.513251454427925,
+"absenteeism": 0.5135658914728682,
 "roman_name": "HONG MOONPYO",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9770886.jpg",
@@ -6076,12 +6076,12 @@
 "party": "국민의힘"
 },
 "9771117": {
-"loyalty": 0.9147777393908897,
+"loyalty": 0.9148112716607729,
 "committees": [
 "국토교통위원회"
 ],
 "name_alt": "陳聲準",
-"age": 55.02191780821918,
+"age": 55.02465753424657,
 "absenteeism_party_rank": 49,
 "name": "진성준",
 "district": "서울 강서구을",
@@ -6091,7 +6091,7 @@
 "phone": "02-784-5725",
 "totalmembers": 306,
 "email": "hotjjoon@gmail.com",
-"absenteeism": 0.17905623787976732,
+"absenteeism": 0.17894056847545214,
 "roman_name": "JIN SUNGJOON",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771117.jpg",
@@ -6104,26 +6104,26 @@
 "party": "더불어민주당"
 },
 "9771291": {
-"loyalty": 0.7006418579769118,
+"loyalty": 0.7145732107949165,
 "committees": [
 "산업통상자원중소벤처기업위원회"
 ],
 "name_alt": "鄭宇澤",
-"age": 69.18630136986302,
+"age": 69.18904109589042,
 "absenteeism_party_rank": 1,
 "name": "정우택",
 "district": "충북 청주시상당구",
-"loyalty_rank": 304,
+"loyalty_rank": 300,
 "dob": "1953-02-18",
 "member_id": "9771291",
 "phone": "02-784-3866",
 "totalmembers": 306,
 "email": "",
-"absenteeism": 0.9935358758888171,
+"absenteeism": 0.9928940568475452,
 "roman_name": "CHUNG WOOTAIK",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771291.jpg",
-"loyalty_party_rank": 104,
+"loyalty_party_rank": 100,
 "session": 21,
 "office": "의원회관 746호",
 "absenteeism_rank": 1,
@@ -6132,12 +6132,12 @@
 "party": "국민의힘"
 },
 "9771114": {
-"loyalty": 0.8931365125640194,
+"loyalty": 0.8931735986270609,
 "committees": [
 "교육위원회"
 ],
 "name_alt": "鄭淸來",
-"age": 57.02465753424657,
+"age": 57.02739726027397,
 "absenteeism_party_rank": 115,
 "name": "정청래",
 "district": "서울 마포구을",
@@ -6147,7 +6147,7 @@
 "phone": "02-784-4316",
 "totalmembers": 306,
 "email": "ssaribi0415@naver.com",
-"absenteeism": 0.06916612798965738,
+"absenteeism": 0.06912144702842382,
 "roman_name": "JUNG CHUNGRAE",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771114.jpg",
@@ -6160,13 +6160,13 @@
 "party": "더불어민주당"
 },
 "9771229": {
-"loyalty": 0.8433618961387696,
+"loyalty": 0.8434221531534483,
 "committees": [
 "과학기술정보방송통신위원회",
 "예산결산특별위원회"
 ],
 "name_alt": "鄭熙溶",
-"age": 45.56986301369863,
+"age": 45.57260273972603,
 "absenteeism_party_rank": 91,
 "name": "정희용",
 "district": "경북 고령군성주군칠곡군",
@@ -6176,7 +6176,7 @@
 "phone": "02-784-8540",
 "totalmembers": 306,
 "email": "heeyong4you@naver.com",
-"absenteeism": 0.16031027795733677,
+"absenteeism": 0.16020671834625322,
 "roman_name": "JUNG HEEYONG",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771229.jpg",
@@ -6189,13 +6189,13 @@
 "party": "국민의힘"
 },
 "9771231": {
-"loyalty": 0.8272793973638798,
+"loyalty": 0.8273724831171438,
 "committees": [
 "문화체육관광위원회",
 "예산결산특별위원회"
 ],
 "name_alt": "崔炯斗",
-"age": 59.50958904109589,
+"age": 59.512328767123286,
 "absenteeism_party_rank": 40,
 "name": "최형두",
 "district": "경남 창원시마산합포구",
@@ -6205,7 +6205,7 @@
 "phone": "784-1606",
 "totalmembers": 306,
 "email": "happyhappo@naver.com",
-"absenteeism": 0.40077569489334197,
+"absenteeism": 0.40051679586563305,
 "roman_name": "CHOI HYUNGDU",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771231.jpg",
@@ -6218,14 +6218,14 @@
 "party": "국민의힘"
 },
 "9771273": {
-"loyalty": 0.9606214558353703,
+"loyalty": 0.9606342431531826,
 "committees": [
 "기획재정위원회",
 "여성가족위원회",
 "예산결산특별위원회"
 ],
 "name_alt": "梁敬淑",
-"age": 59.63835616438356,
+"age": 59.64109589041096,
 "absenteeism_party_rank": 13,
 "name": "양경숙",
 "district": "비례대표",
@@ -6235,7 +6235,7 @@
 "phone": "02-784-4091",
 "totalmembers": 306,
 "email": "kyungsook_0906@naver.com",
-"absenteeism": 0.005171299288946329,
+"absenteeism": 0.0051679586563307955,
 "roman_name": "YANG KYUNGSOOK",
 "partysize": 14,
 "image_url": "http://www.assembly.go.kr/photo/9771273.jpg",
@@ -6248,12 +6248,12 @@
 "party": "더불어시민당"
 },
 "9771135": {
-"loyalty": 0.7915627720367233,
+"loyalty": 0.7916381425790404,
 "committees": [
 "정무위원회"
 ],
 "name_alt": "朴洙瑩",
-"age": 58.3013698630137,
+"age": 58.3041095890411,
 "absenteeism_party_rank": 101,
 "name": "박수영",
 "district": "부산 남구갑",
@@ -6263,7 +6263,7 @@
 "phone": "02-784-3760",
 "totalmembers": 306,
 "email": "psyfor2020@naver.com",
-"absenteeism": 0.10665804783451838,
+"absenteeism": 0.10658914728682167,
 "roman_name": "PARK SOOYOUNG",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771135.jpg",
@@ -6281,7 +6281,7 @@
 "보건복지위원회"
 ],
 "name_alt": "李容鎬",
-"age": 62.104109589041094,
+"age": 62.106849315068494,
 "absenteeism_party_rank": 6,
 "name": "이용호",
 "district": "전북 남원시임실군순창군",
@@ -6291,7 +6291,7 @@
 "phone": "02-784-2570",
 "totalmembers": 306,
 "email": "614lyh@naver.com",
-"absenteeism": 0.480284421460892,
+"absenteeism": 0.47997416020671835,
 "roman_name": "LEE YONGHO",
 "partysize": 7,
 "image_url": "http://www.assembly.go.kr/photo/9771015.jpg",
@@ -6304,12 +6304,12 @@
 "party": "무소속"
 },
 "9771223": {
-"loyalty": 0.8215647613075188,
+"loyalty": 0.8216416233566126,
 "committees": [
 "행정안전위원회"
 ],
 "name_alt": "金亨東",
-"age": 47.09041095890411,
+"age": 47.09315068493151,
 "absenteeism_party_rank": 66,
 "name": "김형동",
 "district": "경북 안동시예천군",
@@ -6319,7 +6319,7 @@
 "phone": "02-6788-6356",
 "totalmembers": 306,
 "email": "khyungdong@naver.com",
-"absenteeism": 0.2501616031027796,
+"absenteeism": 0.25,
 "roman_name": "KIM HYUNGDONG",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771223.jpg",
@@ -6337,7 +6337,7 @@
 "외교통일위원회"
 ],
 "name_alt": "全海澈",
-"age": 59.942465753424656,
+"age": 59.945205479452056,
 "absenteeism_party_rank": 6,
 "name": "전해철",
 "district": "경기 안산시상록구갑",
@@ -6347,7 +6347,7 @@
 "phone": "02-784-8901",
 "totalmembers": 306,
 "email": "sangrokgab@naver.com",
-"absenteeism": 0.6897220426632191,
+"absenteeism": 0.689922480620155,
 "roman_name": "JEON HAECHEOL",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770846.jpg",
@@ -6360,12 +6360,12 @@
 "party": "더불어민주당"
 },
 "9770786": {
-"loyalty": 0.9659818651005564,
+"loyalty": 0.9659936954382118,
 "committees": [
 "국방위원회"
 ],
 "name_alt": "薛勳",
-"age": 69.01095890410959,
+"age": 69.01369863013699,
 "absenteeism_party_rank": 113,
 "name": "설훈",
 "district": "경기 부천시을",
@@ -6375,7 +6375,7 @@
 "phone": "02-784-8570",
 "totalmembers": 306,
 "email": "sulhoon21@naver.com",
-"absenteeism": 0.07110536522301225,
+"absenteeism": 0.07105943152454786,
 "roman_name": "SUL HOON",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770786.jpg",
@@ -6388,12 +6388,12 @@
 "party": "더불어민주당"
 },
 "9770784": {
-"loyalty": 0.9715421214603842,
+"loyalty": 0.9715525935411581,
 "committees": [
 "행정안전위원회"
 ],
 "name_alt": "徐瑛敎",
-"age": 57.45753424657534,
+"age": 57.46027397260274,
 "absenteeism_party_rank": 74,
 "name": "서영교",
 "district": "서울 중랑구갑",
@@ -6403,7 +6403,7 @@
 "phone": "02-784-8490",
 "totalmembers": 306,
 "email": "youngkyos@naver.com",
-"absenteeism": 0.12217194570135748,
+"absenteeism": 0.12209302325581395,
 "roman_name": "SEO YOUNGKYO",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770784.jpg",
@@ -6416,13 +6416,13 @@
 "party": "더불어민주당"
 },
 "9771116": {
-"loyalty": 0.967526237534592,
+"loyalty": 0.9675401658056446,
 "committees": [
 "보건복지위원회",
 "예산결산특별위원회"
 ],
 "name_alt": "姜仙祐",
-"age": 43.9013698630137,
+"age": 43.9041095890411,
 "absenteeism_party_rank": 37,
 "name": "강선우",
 "district": "서울 강서구갑",
@@ -6432,7 +6432,7 @@
 "phone": "02-784-5761~3",
 "totalmembers": 306,
 "email": "gangseo.kap@gmail.com",
-"absenteeism": 0.24692954104718812,
+"absenteeism": 0.24677002583979324,
 "roman_name": "KANG SUNWOO",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771116.jpg",
@@ -6450,7 +6450,7 @@
 "국토교통위원회"
 ],
 "name_alt": "金鎭愛",
-"age": 69.1917808219178,
+"age": 69.1945205479452,
 "absenteeism_party_rank": 1,
 "name": "김진애",
 "district": "비례대표",
@@ -6478,7 +6478,7 @@
 "산업통상자원중소벤처기업위원회"
 ],
 "name_alt": "趙廷訓",
-"age": 49.553424657534244,
+"age": 49.556164383561644,
 "absenteeism_party_rank": 1,
 "name": "조정훈",
 "district": "비례대표",
@@ -6488,7 +6488,7 @@
 "phone": "02-784-2181",
 "totalmembers": 306,
 "email": "chojunghun544@naver.com",
-"absenteeism": 0.27601809954751133,
+"absenteeism": 0.27648578811369506,
 "roman_name": "CHO JUNGHUN",
 "partysize": 1,
 "image_url": "http://www.assembly.go.kr/photo/9771262.jpg",
@@ -6508,7 +6508,7 @@
 "예산결산특별위원회"
 ],
 "name_alt": "李喆圭",
-"age": 64.6,
+"age": 64.6027397260274,
 "absenteeism_party_rank": 80,
 "name": "이철규",
 "district": "강원 동해시태백시삼척시정선군",
@@ -6518,7 +6518,7 @@
 "phone": "02-784-9811",
 "totalmembers": 306,
 "email": "",
-"absenteeism": 0.20943762120232712,
+"absenteeism": 0.2099483204134367,
 "roman_name": "LEE CHULGYU",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771002.jpg",
@@ -6536,7 +6536,7 @@
 "행정안전위원회"
 ],
 "name_alt": "朴完柱",
-"age": 55.46027397260274,
+"age": 55.463013698630135,
 "absenteeism_party_rank": 73,
 "name": "박완주",
 "district": "충남 천안시을",
@@ -6546,7 +6546,7 @@
 "phone": "02-784-7560",
 "totalmembers": 306,
 "email": "lasco21@hanmail.net",
-"absenteeism": 0.12346477052359406,
+"absenteeism": 0.12403100775193798,
 "roman_name": "PARK WANJOO",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770774.jpg",
@@ -6559,12 +6559,12 @@
 "party": "더불어민주당"
 },
 "9770950": {
-"loyalty": 0.9587681735042782,
+"loyalty": 0.9587865682526824,
 "committees": [
 "행정안전위원회"
 ],
 "name_alt": "朴在昊",
-"age": 63.2,
+"age": 63.202739726027396,
 "absenteeism_party_rank": 30,
 "name": "박재호",
 "district": "부산 남구을",
@@ -6574,25 +6574,25 @@
 "phone": "02-784-5512",
 "totalmembers": 306,
 "email": "2016pjh@gmail.com",
-"absenteeism": 0.27601809954751133,
+"absenteeism": 0.27583979328165376,
 "roman_name": "PARK JAEHO",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770950.jpg",
 "loyalty_party_rank": 75,
 "session": 21,
 "office": "의원회관 737호",
-"absenteeism_rank": 99,
+"absenteeism_rank": 100,
 "website": "http://blog.naver.com/pjh0586",
 "terms": 2,
 "party": "더불어민주당"
 },
 "9771285": {
-"loyalty": 0.8266124059461372,
+"loyalty": 0.8267039758463997,
 "committees": [
 "교육위원회"
 ],
 "name_alt": "金炳旭",
-"age": 44.99178082191781,
+"age": 44.99452054794521,
 "absenteeism_party_rank": 44,
 "name": "김병욱",
 "district": "경북 포항시남구울릉군",
@@ -6602,7 +6602,7 @@
 "phone": "02-784-6430",
 "totalmembers": 306,
 "email": "kimbyongwook0415@gmail.com",
-"absenteeism": 0.38849385908209433,
+"absenteeism": 0.38824289405684753,
 "roman_name": "KIM BYONGWOOK",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771285.jpg",
@@ -6615,13 +6615,13 @@
 "party": "국민의힘"
 },
 "9771187": {
-"loyalty": 0.941271617043749,
+"loyalty": 0.9412966771613638,
 "committees": [
 "국토교통위원회",
 "예산결산특별위원회"
 ],
 "name_alt": "文貞福",
-"age": 55.293150684931504,
+"age": 55.295890410958904,
 "absenteeism_party_rank": 40,
 "name": "문정복",
 "district": "경기 시흥시갑",
@@ -6631,14 +6631,14 @@
 "phone": "02-784-9850",
 "totalmembers": 306,
 "email": "indobangrang@hanmail.net",
-"absenteeism": 0.24305106658047837,
+"absenteeism": 0.24289405684754517,
 "roman_name": "MOON JEONGBOG",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771187.jpg",
 "loyalty_party_rank": 128,
 "session": 21,
 "office": "의원회관 521호",
-"absenteeism_rank": 122,
+"absenteeism_rank": 123,
 "website": "https://blog.naver.com/indobangrang",
 "terms": 1,
 "party": "더불어민주당"
@@ -6650,7 +6650,7 @@
 "예산결산특별위원회"
 ],
 "name_alt": "尹永碩",
-"age": 57.553424657534244,
+"age": 57.556164383561644,
 "absenteeism_party_rank": 6,
 "name": "윤영석",
 "district": "경남 양산시갑",
@@ -6660,7 +6660,7 @@
 "phone": "02-784-4861",
 "totalmembers": 306,
 "email": "hangomy@assembly.go.kr",
-"absenteeism": 0.8054298642533937,
+"absenteeism": 0.8055555555555556,
 "roman_name": "YOON YOUNGSEOK",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9770811.jpg",
@@ -6673,12 +6673,12 @@
 "party": "국민의힘"
 },
 "9771208": {
-"loyalty": 0.9275442061172829,
+"loyalty": 0.9275704249688317,
 "committees": [
 "보건복지위원회"
 ],
 "name_alt": "金成柱",
-"age": 58.04657534246575,
+"age": 58.04931506849315,
 "absenteeism_party_rank": 83,
 "name": "김성주",
 "district": "전북 전주시병",
@@ -6688,7 +6688,7 @@
 "phone": "02-784-7380~2",
 "totalmembers": 306,
 "email": "ksjwithjj@naver.com",
-"absenteeism": 0.10730446024563667,
+"absenteeism": 0.10723514211886309,
 "roman_name": "KIM SUNGJOO",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771208.jpg",
@@ -6701,12 +6701,12 @@
 "party": "더불어민주당"
 },
 "9771252": {
-"loyalty": 0.7155106203452399,
+"loyalty": 0.715631090128179,
 "committees": [
 "산업통상자원중소벤처기업위원회"
 ],
 "name_alt": "崔承宰",
-"age": 54.794520547945204,
+"age": 54.797260273972604,
 "absenteeism_party_rank": 70,
 "name": "최승재",
 "district": "비례대표",
@@ -6716,7 +6716,7 @@
 "phone": "02-784-6730",
 "totalmembers": 306,
 "email": "joynet4321@gmail.com",
-"absenteeism": 0.23723335488041375,
+"absenteeism": 0.23708010335917318,
 "roman_name": "CHOI SEUNGJAE",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771252.jpg",
@@ -6729,13 +6729,13 @@
 "party": "국민의힘"
 },
 "9771156": {
-"loyalty": 0.9256966152211423,
+"loyalty": 0.9257209650119907,
 "committees": [
 "국토교통위원회",
 "예산결산특별위원회"
 ],
 "name_alt": "曺五燮",
-"age": 53.772602739726025,
+"age": 53.775342465753425,
 "absenteeism_party_rank": 151,
 "name": "조오섭",
 "district": "광주 북구갑",
@@ -6745,7 +6745,7 @@
 "phone": "02-784-8191~3",
 "totalmembers": 306,
 "email": "hana-king@hanmail.net",
-"absenteeism": 0.014221073044602406,
+"absenteeism": 0.014211886304909549,
 "roman_name": "JO OSEOP",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771156.jpg",
@@ -6764,7 +6764,7 @@
 "정보위원회"
 ],
 "name_alt": "趙正湜",
-"age": 58.33698630136986,
+"age": 58.33972602739726,
 "absenteeism_party_rank": 36,
 "name": "조정식",
 "district": "경기 시흥시을",
@@ -6774,7 +6774,7 @@
 "phone": "02-784-2760~2",
 "totalmembers": 306,
 "email": "7842760@naver.com",
-"absenteeism": 0.25274725274725274,
+"absenteeism": 0.25322997416020676,
 "roman_name": "CHO JEONGSIK",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770456.jpg",
@@ -6794,7 +6794,7 @@
 "윤리특별위원회"
 ],
 "name_alt": "秋慶鎬",
-"age": 61.74520547945205,
+"age": 61.74794520547945,
 "absenteeism_party_rank": 64,
 "name": "추경호",
 "district": "대구 달성군",
@@ -6804,7 +6804,7 @@
 "phone": "02-784-8946",
 "totalmembers": 306,
 "email": "khchoo@assembly.go.kr",
-"absenteeism": 0.25210084033613445,
+"absenteeism": 0.25258397932816534,
 "roman_name": "CHOO KYUNGHO",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9770962.jpg",
@@ -6817,13 +6817,13 @@
 "party": "국민의힘"
 },
 "9771143": {
-"loyalty": 0.7960068698251683,
+"loyalty": 0.7960859522589117,
 "committees": [
 "산업통상자원중소벤처기업위원회",
 "여성가족위원회"
 ],
 "name_alt": "梁琴喜",
-"age": 60.446575342465756,
+"age": 60.44931506849315,
 "absenteeism_party_rank": 89,
 "name": "양금희",
 "district": "대구 북구갑",
@@ -6833,7 +6833,7 @@
 "phone": "02-784-7451~7453",
 "totalmembers": 306,
 "email": "ygoldh8999@naver.com",
-"absenteeism": 0.16677440206851968,
+"absenteeism": 0.16666666666666663,
 "roman_name": "YANG KUMHEE",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771143.jpg",
@@ -6846,12 +6846,12 @@
 "party": "국민의힘"
 },
 "9770808": {
-"loyalty": 0.9727968465551612,
+"loyalty": 0.9728056974268595,
 "committees": [
 "정무위원회"
 ],
 "name_alt": "尹官石",
-"age": 61.69315068493151,
+"age": 61.6958904109589,
 "absenteeism_party_rank": 158,
 "name": "윤관석",
 "district": "인천 남동구을",
@@ -6861,7 +6861,7 @@
 "phone": "02-784-4380",
 "totalmembers": 306,
 "email": "winneryks@naver.com",
-"absenteeism": 0.007110536522301203,
+"absenteeism": 0.00710594315245483,
 "roman_name": "YOUN KWANSUK",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770808.jpg",
@@ -6874,26 +6874,26 @@
 "party": "더불어민주당"
 },
 "9770725": {
-"loyalty": 0.8781985343650827,
+"loyalty": 0.8782707986643153,
 "committees": [
 "국토교통위원회"
 ],
 "name_alt": "金相勳",
-"age": 59.25205479452055,
+"age": 59.25479452054795,
 "absenteeism_party_rank": 30,
 "name": "김상훈",
 "district": "대구 서구",
-"loyalty_rank": 199,
+"loyalty_rank": 201,
 "dob": "1963-01-25",
 "member_id": "9770725",
 "phone": "02-784-2310",
 "totalmembers": 306,
 "email": "kshdg11@gmail.com",
-"absenteeism": 0.45572074983839694,
+"absenteeism": 0.4554263565891473,
 "roman_name": "KIM SANGHOON",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9770725.jpg",
-"loyalty_party_rank": 1,
+"loyalty_party_rank": 3,
 "session": 21,
 "office": "의원회관 944호",
 "absenteeism_rank": 50,
@@ -6907,7 +6907,7 @@
 "문화체육관광위원회"
 ],
 "name_alt": "李鏞",
-"age": 43.843835616438355,
+"age": 43.846575342465755,
 "absenteeism_party_rank": 17,
 "name": "이용",
 "district": "비례대표",
@@ -6917,7 +6917,7 @@
 "phone": "02-784-5076",
 "totalmembers": 306,
 "email": "yonglee0623@naver.com",
-"absenteeism": 0.6147382029734971,
+"absenteeism": 0.6149870801033592,
 "roman_name": "LEE YONG",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771255.jpg",
@@ -6930,13 +6930,13 @@
 "party": "국민의힘"
 },
 "9771008": {
-"loyalty": 0.8261711943998781,
+"loyalty": 0.8262677927988912,
 "committees": [
 "국회운영위원회",
 "국방위원회"
 ],
 "name_alt": "成一鍾",
-"age": 59.106849315068494,
+"age": 59.10958904109589,
 "absenteeism_party_rank": 34,
 "name": "성일종",
 "district": "충남 서산시태안군",
@@ -6946,7 +6946,7 @@
 "phone": "02-784-6290",
 "totalmembers": 306,
 "email": "sij5140@naver.com",
-"absenteeism": 0.4188752424046541,
+"absenteeism": 0.41860465116279066,
 "roman_name": "SUNG ILJONG",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771008.jpg",
@@ -6964,7 +6964,7 @@
 "행정안전위원회"
 ],
 "name_alt": "朴完洙",
-"age": 66.66849315068494,
+"age": 66.67123287671232,
 "absenteeism_party_rank": 38,
 "name": "박완수",
 "district": "경남 창원시의창구",
@@ -6974,7 +6974,7 @@
 "phone": "02-784-7773",
 "totalmembers": 306,
 "email": "wansu705@naver.com",
-"absenteeism": 0.4072398190045249,
+"absenteeism": 0.4076227390180879,
 "roman_name": "PARK WANSU",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771030.jpg",
@@ -6987,13 +6987,13 @@
 "party": "국민의힘"
 },
 "9771173": {
-"loyalty": 0.9839040037929171,
+"loyalty": 0.9839095589255095,
 "committees": [
 "국회운영위원회",
 "행정안전위원회"
 ],
 "name_alt": "金敏徹",
-"age": 54.43835616438356,
+"age": 54.441095890410956,
 "absenteeism_party_rank": 119,
 "name": "김민철",
 "district": "경기 의정부시을",
@@ -7003,7 +7003,7 @@
 "phone": "02-784-5031",
 "totalmembers": 306,
 "email": "mckim6812@naver.com",
-"absenteeism": 0.06399482870071105,
+"absenteeism": 0.06395348837209303,
 "roman_name": "KIM MINCHUL",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771173.jpg",
@@ -7016,12 +7016,12 @@
 "party": "더불어민주당"
 },
 "9771210": {
-"loyalty": 0.9589084307204122,
+"loyalty": 0.9589218703182466,
 "committees": [
 "기획재정위원회"
 ],
 "name_alt": "金洙興",
-"age": 60.99452054794521,
+"age": 60.9972602739726,
 "absenteeism_party_rank": 152,
 "name": "김수흥",
 "district": "전북 익산시갑",
@@ -7031,7 +7031,7 @@
 "phone": "02-6788-6221",
 "totalmembers": 306,
 "email": "iksan832@naver.com",
-"absenteeism": 0.012281835811247532,
+"absenteeism": 0.012273901808785515,
 "roman_name": "KIM SOOHEUNG",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771210.jpg",
@@ -7044,22 +7044,22 @@
 "party": "더불어민주당"
 },
 "9771113": {
-"loyalty": 0.9434447681530124,
+"loyalty": 0.9434638392147068,
 "committees": [
 "정무위원회"
 ],
 "name_alt": "吳奇炯",
-"age": 55.41917808219178,
+"age": 55.42191780821918,
 "absenteeism_party_rank": 135,
 "name": "오기형",
 "district": "서울 도봉구을",
-"loyalty_rank": 138,
+"loyalty_rank": 137,
 "dob": "1966-11-25",
 "member_id": "9771113",
 "phone": "02-6788-6761",
 "totalmembers": 306,
 "email": "okhyung628@naver.com",
-"absenteeism": 0.04201680672268904,
+"absenteeism": 0.04198966408268734,
 "roman_name": "OH GIHYOUNG",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771113.jpg",
@@ -7072,12 +7072,12 @@
 "party": "더불어민주당"
 },
 "9770952": {
-"loyalty": 0.961706095322342,
+"loyalty": 0.9617223249923558,
 "committees": [
 "농림축산식품해양수산위원회"
 ],
 "name_alt": "崔仁昊",
-"age": 55.53150684931507,
+"age": 55.534246575342465,
 "absenteeism_party_rank": 42,
 "name": "최인호",
 "district": "부산 사하구갑",
@@ -7087,7 +7087,7 @@
 "phone": "02-784-2195",
 "totalmembers": 306,
 "email": "332inho@gmail.com",
-"absenteeism": 0.23787976729153204,
+"absenteeism": 0.23772609819121449,
 "roman_name": "CHOI INHO",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770952.jpg",
@@ -7105,7 +7105,7 @@
 "법제사법위원회"
 ],
 "name_alt": "趙修眞",
-"age": 49.85479452054795,
+"age": 49.85753424657534,
 "absenteeism_party_rank": 19,
 "name": "조수진",
 "district": "비례대표",
@@ -7115,7 +7115,7 @@
 "phone": "02-784-9423",
 "totalmembers": 306,
 "email": "assembly2020@naver.com",
-"absenteeism": 0.5429864253393666,
+"absenteeism": 0.54328165374677,
 "roman_name": "CHO SUJIN",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771243.jpg",
@@ -7133,7 +7133,7 @@
 "정무위원회"
 ],
 "name_alt": "朴洸瑥",
-"age": 65.08767123287672,
+"age": 65.09041095890412,
 "absenteeism_party_rank": 60,
 "name": "박광온",
 "district": "경기 수원시정",
@@ -7143,7 +7143,7 @@
 "phone": "02-784-5364",
 "totalmembers": 306,
 "email": "sotong533@gmail.com",
-"absenteeism": 0.15319974143503556,
+"absenteeism": 0.1537467700258398,
 "roman_name": "PARK KWANGON",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770911.jpg",
@@ -7156,12 +7156,12 @@
 "party": "더불어민주당"
 },
 "9771188": {
-"loyalty": 0.9737971751701784,
+"loyalty": 0.9738059636409371,
 "committees": [
 "보건복지위원회"
 ],
 "name_alt": "崔鍾允",
-"age": 56.16164383561644,
+"age": 56.16438356164384,
 "absenteeism_party_rank": 141,
 "name": "최종윤",
 "district": "경기 하남시",
@@ -7171,7 +7171,7 @@
 "phone": "02-784-6201",
 "totalmembers": 306,
 "email": "cjyjjw@naver.com",
-"absenteeism": 0.03684550743374271,
+"absenteeism": 0.036821705426356544,
 "roman_name": "CHOI JONGYOON",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771188.jpg",
@@ -7184,14 +7184,14 @@
 "party": "더불어민주당"
 },
 "9771110": {
-"loyalty": 0.9526833836922581,
+"loyalty": 0.952700911611477,
 "committees": [
 "국회운영위원회",
 "국토교통위원회",
 "여성가족위원회"
 ],
 "name_alt": "張耿態",
-"age": 38.53972602739726,
+"age": 38.54246575342466,
 "absenteeism_party_rank": 71,
 "name": "장경태",
 "district": "서울 동대문구을",
@@ -7201,7 +7201,7 @@
 "phone": "02-784-3106",
 "totalmembers": 306,
 "email": "letskt2020@gmail.com",
-"absenteeism": 0.1279896574014221,
+"absenteeism": 0.12790697674418605,
 "roman_name": "JANG KYUNGTAE",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771110.jpg",
@@ -7214,12 +7214,12 @@
 "party": "더불어민주당"
 },
 "9771146": {
-"loyalty": 0.7793524488667065,
+"loyalty": 0.7794408670434217,
 "committees": [
 "환경노동위원회"
 ],
 "name_alt": "洪碩晙",
-"age": 55.945205479452056,
+"age": 55.94794520547945,
 "absenteeism_party_rank": 85,
 "name": "홍석준",
 "district": "대구 달서구갑",
@@ -7229,7 +7229,7 @@
 "phone": "02-784-2601",
 "totalmembers": 306,
 "email": "0634assembly@naver.com",
-"absenteeism": 0.19392372333548802,
+"absenteeism": 0.1937984496124031,
 "roman_name": "HONG SUKJOON",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771146.jpg",
@@ -7247,7 +7247,7 @@
 "법제사법위원회"
 ],
 "name_alt": "張濟元",
-"age": 55.038356164383565,
+"age": 55.04109589041096,
 "absenteeism_party_rank": 10,
 "name": "장제원",
 "district": "부산 사상구",
@@ -7257,7 +7257,7 @@
 "phone": "02-784-3851",
 "totalmembers": 306,
 "email": "jfirst607@naver.com",
-"absenteeism": 0.702650290885585,
+"absenteeism": 0.702842377260982,
 "roman_name": "CHANG JEWON",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9770954.jpg",
@@ -7270,12 +7270,12 @@
 "party": "국민의힘"
 },
 "9770826": {
-"loyalty": 0.8951258028473685,
+"loyalty": 0.8951751438038293,
 "committees": [
 "과학기술정보방송통신위원회"
 ],
 "name_alt": "李元旭",
-"age": 59.104109589041094,
+"age": 59.106849315068494,
 "absenteeism_party_rank": 27,
 "name": "이원욱",
 "district": "경기 화성시을",
@@ -7285,7 +7285,7 @@
 "phone": "02-784-6471",
 "totalmembers": 306,
 "email": "ewon33@gmail.com",
-"absenteeism": 0.31351001939237233,
+"absenteeism": 0.3133074935400517,
 "roman_name": "LEE WONWOOK",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770826.jpg",
@@ -7304,7 +7304,7 @@
 "예산결산특별위원회"
 ],
 "name_alt": "高旼廷",
-"age": 42.676712328767124,
+"age": 42.679452054794524,
 "absenteeism_party_rank": 99,
 "name": "고민정",
 "district": "서울 광진구을",
@@ -7314,7 +7314,7 @@
 "phone": "02-784-4630~2",
 "totalmembers": 306,
 "email": "kominjung21@gmail.com",
-"absenteeism": 0.08403361344537819,
+"absenteeism": 0.08462532299741599,
 "roman_name": "KO MINJUNG",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771109.jpg",
@@ -7327,28 +7327,28 @@
 "party": "더불어민주당"
 },
 "9771164": {
-"loyalty": 0.8642040239652877,
+"loyalty": 0.8642551231114186,
 "committees": [
 "국회운영위원회",
 "외교통일위원회",
 "정보위원회"
 ],
 "name_alt": "金起炫",
-"age": 63.178082191780824,
+"age": 63.18082191780822,
 "absenteeism_party_rank": 98,
 "name": "김기현",
 "district": "울산 남구을",
-"loyalty_rank": 212,
+"loyalty_rank": 211,
 "dob": "1959-02-21",
 "member_id": "9771164",
 "phone": "02-784-3874",
 "totalmembers": 306,
 "email": "together.eut@gmail.com",
-"absenteeism": 0.14156431803490632,
+"absenteeism": 0.1414728682170543,
 "roman_name": "KIM GIHYEON",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771164.jpg",
-"loyalty_party_rank": 13,
+"loyalty_party_rank": 12,
 "session": 21,
 "office": "의원회관 550호",
 "absenteeism_rank": 180,
@@ -7357,13 +7357,13 @@
 "party": "국민의힘"
 },
 "9771091": {
-"loyalty": 0.9903818468648187,
+"loyalty": 0.9903852751854177,
 "committees": [
 "농림축산식품해양수산위원회",
 "예산결산특별위원회"
 ],
 "name_alt": "孟聖奎",
-"age": 60.06027397260274,
+"age": 60.06301369863014,
 "absenteeism_party_rank": 95,
 "name": "맹성규",
 "district": "인천 남동구갑",
@@ -7373,7 +7373,7 @@
 "phone": "02-784-6181, 032-466-9100",
 "totalmembers": 306,
 "email": "minjoomsk@naver.com",
-"absenteeism": 0.09372979961215255,
+"absenteeism": 0.09366925064599485,
 "roman_name": "MAENG SUNGKYU",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771091.jpg",
@@ -7386,12 +7386,12 @@
 "party": "더불어민주당"
 },
 "9771216": {
-"loyalty": 0.9578765581209957,
+"loyalty": 0.957891519386564,
 "committees": [
 "국토교통위원회"
 ],
 "name_alt": "金會在",
-"age": 59.42191780821918,
+"age": 59.42465753424658,
 "absenteeism_party_rank": 97,
 "name": "김회재",
 "district": "전남 여수시을",
@@ -7401,7 +7401,7 @@
 "phone": "02-784-3285 / 061-684-6600",
 "totalmembers": 306,
 "email": "khj539@naver.com",
-"absenteeism": 0.0904977375565611,
+"absenteeism": 0.09043927648578809,
 "roman_name": "KIM HOIJAE",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771216.jpg",
@@ -7414,12 +7414,12 @@
 "party": "더불어민주당"
 },
 "9771159": {
-"loyalty": 0.9066129312219819,
+"loyalty": 0.9066454080335286,
 "committees": [
 "정무위원회"
 ],
 "name_alt": "閔馨培",
-"age": 60.865753424657534,
+"age": 60.868493150684934,
 "absenteeism_party_rank": 113,
 "name": "민형배",
 "district": "광주 광산구을",
@@ -7429,7 +7429,7 @@
 "phone": "02-6788-6426",
 "totalmembers": 306,
 "email": "mhb1961@naver.com",
-"absenteeism": 0.07110536522301225,
+"absenteeism": 0.07105943152454786,
 "roman_name": "MIN HYUNGBAE",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771159.jpg",
@@ -7442,13 +7442,13 @@
 "party": "더불어민주당"
 },
 "9771122": {
-"loyalty": 0.9545427500200016,
+"loyalty": 0.954557935338608,
 "committees": [
 "산업통상자원중소벤처기업위원회",
 "예산결산특별위원회"
 ],
 "name_alt": "鄭泰浩",
-"age": 59.104109589041094,
+"age": 59.106849315068494,
 "absenteeism_party_rank": 142,
 "name": "정태호",
 "district": "서울 관악구을",
@@ -7458,7 +7458,7 @@
 "phone": "02-784-5073",
 "totalmembers": 306,
 "email": "jth5073@gmail.com",
-"absenteeism": 0.03296703296703296,
+"absenteeism": 0.032945736434108475,
 "roman_name": "JUNG TAEHO",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771122.jpg",
@@ -7471,12 +7471,12 @@
 "party": "더불어민주당"
 },
 "9771215": {
-"loyalty": 0.9230680231064218,
+"loyalty": 0.923093843539065,
 "committees": [
 "농림축산식품해양수산위원회"
 ],
 "name_alt": "朱哲鉉",
-"age": 63.12602739726027,
+"age": 63.12876712328767,
 "absenteeism_party_rank": 140,
 "name": "주철현",
 "district": "전남 여수시갑",
@@ -7486,7 +7486,7 @@
 "phone": "02-784-6341~3",
 "totalmembers": 306,
 "email": "jassembly536@gmail.com",
-"absenteeism": 0.037491919844861,
+"absenteeism": 0.03746770025839796,
 "roman_name": "JU CHEOLHYEON",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771215.jpg",
@@ -7505,7 +7505,7 @@
 "정보위원회"
 ],
 "name_alt": "金炅俠",
-"age": 59.46849315068493,
+"age": 59.47123287671233,
 "absenteeism_party_rank": 55,
 "name": "김경협",
 "district": "경기 부천시갑",
@@ -7515,7 +7515,7 @@
 "phone": "02-784-1190",
 "totalmembers": 306,
 "email": "ggh000@naver.com",
-"absenteeism": 0.16936005171299284,
+"absenteeism": 0.1698966408268734,
 "roman_name": "KIM KYUNGHYUP",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770712.jpg",
@@ -7528,40 +7528,40 @@
 "party": "더불어민주당"
 },
 "9770752": {
-"loyalty": 0.9429137307760905,
+"loyalty": 0.9429359303760837,
 "committees": [
 "보건복지위원회"
 ],
 "name_alt": "南仁順",
-"age": 63.47397260273973,
-"absenteeism_party_rank": 55,
+"age": 63.47671232876712,
+"absenteeism_party_rank": 56,
 "name": "남인순",
 "district": "서울 송파구병",
-"loyalty_rank": 139,
+"loyalty_rank": 138,
 "dob": "1958-11-05",
 "member_id": "9770752",
 "phone": "02-784-5980",
 "totalmembers": 306,
 "email": "nisoon@na.go.kr",
-"absenteeism": 0.16936005171299284,
+"absenteeism": 0.16925064599483208,
 "roman_name": "NAM INSOON",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770752.jpg",
 "loyalty_party_rank": 117,
 "session": 21,
 "office": "의원회관 748호",
-"absenteeism_rank": 159,
+"absenteeism_rank": 160,
 "website": "http://blog.naver.com/nisoon",
 "terms": 3,
 "party": "더불어민주당"
 },
 "9770872": {
-"loyalty": 0.9205597737137379,
+"loyalty": 0.9206023575958041,
 "committees": [
 "기획재정위원회"
 ],
 "name_alt": "禹元植",
-"age": 64.6054794520548,
+"age": 64.6082191780822,
 "absenteeism_party_rank": 15,
 "name": "우원식",
 "district": "서울 노원구을",
@@ -7571,7 +7571,7 @@
 "phone": "02-784-3601~3",
 "totalmembers": 306,
 "email": "reform1-1@hanmail.net",
-"absenteeism": 0.3975436328377505,
+"absenteeism": 0.3972868217054264,
 "roman_name": "WOO WONSHIK",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770872.jpg",
@@ -7589,7 +7589,7 @@
 "산업통상자원중소벤처기업위원회"
 ],
 "name_alt": "金禎鎬",
-"age": 61.85753424657534,
+"age": 61.86027397260274,
 "absenteeism_party_rank": 129,
 "name": "김정호",
 "district": "경남 김해시을",
@@ -7599,7 +7599,7 @@
 "phone": "02-784-5871",
 "totalmembers": 306,
 "email": "kimjungho3359@daum.net",
-"absenteeism": 0.051712992889463516,
+"absenteeism": 0.05232558139534882,
 "roman_name": "KIM JUNGHO",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771090.jpg",
@@ -7612,12 +7612,12 @@
 "party": "더불어민주당"
 },
 "9770905": {
-"loyalty": 0.9656330173960889,
+"loyalty": 0.9656447407403167,
 "committees": [
 "농림축산식품해양수산위원회"
 ],
 "name_alt": "李介昊",
-"age": 62.843835616438355,
+"age": 62.846575342465755,
 "absenteeism_party_rank": 127,
 "name": "이개호",
 "district": "전남 담양군함평군영광군장성군",
@@ -7627,7 +7627,7 @@
 "phone": "02-784-2165",
 "totalmembers": 306,
 "email": "7880291@naver.com",
-"absenteeism": 0.0530058177117001,
+"absenteeism": 0.05297157622739013,
 "roman_name": "LEE KAIHO",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770905.jpg",
@@ -7640,12 +7640,12 @@
 "party": "더불어민주당"
 },
 "9770966": {
-"loyalty": 0.9538472388260024,
+"loyalty": 0.9538634583876258,
 "committees": [
 "정무위원회"
 ],
 "name_alt": "柳東秀",
-"age": 60.605479452054794,
+"age": 60.608219178082194,
 "absenteeism_party_rank": 102,
 "name": "유동수",
 "district": "인천 계양구갑",
@@ -7655,7 +7655,7 @@
 "phone": "02-784-3543",
 "totalmembers": 306,
 "email": "newds61@naver.com",
-"absenteeism": 0.08080155138978673,
+"absenteeism": 0.08074935400516792,
 "roman_name": "YOO DONGSOO",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770966.jpg",
@@ -7668,14 +7668,14 @@
 "party": "더불어민주당"
 },
 "9771213": {
-"loyalty": 0.9676619368645304,
+"loyalty": 0.9676733576888793,
 "committees": [
 "농림축산식품해양수산위원회",
 "여성가족위원회",
 "예산결산특별위원회"
 ],
 "name_alt": "李源澤",
-"age": 52.25205479452055,
+"age": 52.25479452054795,
 "absenteeism_party_rank": 98,
 "name": "이원택",
 "district": "전북 김제시부안군",
@@ -7685,7 +7685,7 @@
 "phone": "02-6788-7031",
 "totalmembers": 306,
 "email": "we1taeg@daum.net",
-"absenteeism": 0.08532643826761477,
+"absenteeism": 0.0852713178294574,
 "roman_name": "LEE WONTAEG",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771213.jpg",
@@ -7703,7 +7703,7 @@
 "환경노동위원회"
 ],
 "name_alt": "朴範界",
-"age": 59.0,
+"age": 59.0027397260274,
 "absenteeism_party_rank": 5,
 "name": "박범계",
 "district": "대전 서구을",
@@ -7713,7 +7713,7 @@
 "phone": "02-784-6960",
 "totalmembers": 306,
 "email": "",
-"absenteeism": 0.7117000646412411,
+"absenteeism": 0.7118863049095607,
 "roman_name": null,
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770770.jpg",
@@ -7731,7 +7731,7 @@
 "문화체육관광위원회"
 ],
 "name_alt": "裵賢鎭",
-"age": 38.47123287671233,
+"age": 38.47397260273973,
 "absenteeism_party_rank": 18,
 "name": "배현진",
 "district": "서울 송파구을",
@@ -7741,7 +7741,7 @@
 "phone": "02-784-2062",
 "totalmembers": 306,
 "email": "",
-"absenteeism": 0.5694893341952165,
+"absenteeism": 0.5697674418604651,
 "roman_name": "BAE HYUNJIN",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771128.jpg",
@@ -7759,7 +7759,7 @@
 "산업통상자원중소벤처기업위원회"
 ],
 "name_alt": "嚴泰永",
-"age": 64.26027397260275,
+"age": 64.26301369863013,
 "absenteeism_party_rank": 25,
 "name": "엄태영",
 "district": "충북 제천시단양군",
@@ -7769,7 +7769,7 @@
 "phone": "02-6788-6756~9",
 "totalmembers": 306,
 "email": "2040jd@gmail.com",
-"absenteeism": 0.4951519069166128,
+"absenteeism": 0.4954780361757106,
 "roman_name": "EOM TAEYOUNG",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771202.jpg",
@@ -7782,13 +7782,13 @@
 "party": "국민의힘"
 },
 "9771140": {
-"loyalty": 0.861744062360905,
+"loyalty": 0.8617922099986662,
 "committees": [
 "국토교통위원회",
 "예산결산특별위원회"
 ],
 "name_alt": "鄭東萬",
-"age": 56.775342465753425,
+"age": 56.778082191780825,
 "absenteeism_party_rank": 105,
 "name": "정동만",
 "district": "부산 기장군",
@@ -7798,7 +7798,7 @@
 "phone": "02-784-8071",
 "totalmembers": 306,
 "email": "dongmanjeong432@gmail.com",
-"absenteeism": 0.07239819004524883,
+"absenteeism": 0.07235142118863047,
 "roman_name": "JEONG DONGMAN",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771140.jpg",
@@ -7811,27 +7811,27 @@
 "party": "국민의힘"
 },
 "9771151": {
-"loyalty": 0.9426688113021447,
+"loyalty": 0.9426894081013357,
 "committees": [
 "산업통상자원중소벤처기업위원회",
 "예산결산특별위원회"
 ],
 "name_alt": "李成萬",
-"age": 60.47671232876712,
+"age": 60.47945205479452,
 "absenteeism_party_rank": 89,
 "name": "이성만",
 "district": "인천 부평구갑",
-"loyalty_rank": 140,
+"loyalty_rank": 141,
 "dob": "1961-11-04",
 "member_id": "9771151",
 "phone": "02-784-6090",
 "totalmembers": 306,
 "email": "giant.smlee@gmail.com",
-"absenteeism": 0.10084033613445376,
+"absenteeism": 0.10077519379844957,
 "roman_name": "LEE SUNGMAN",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771151.jpg",
-"loyalty_party_rank": 118,
+"loyalty_party_rank": 119,
 "session": 21,
 "office": "의원회관 532호",
 "absenteeism_rank": 211,
@@ -7845,7 +7845,7 @@
 "정무위원회"
 ],
 "name_alt": "尹暢賢",
-"age": 61.74794520547945,
+"age": 61.75068493150685,
 "absenteeism_party_rank": 106,
 "name": "윤창현",
 "district": "비례대표",
@@ -7855,25 +7855,25 @@
 "phone": "02-784-2855",
 "totalmembers": 306,
 "email": "yunch5270@gmail.com",
-"absenteeism": 0.06593406593406592,
+"absenteeism": 0.06653746770025837,
 "roman_name": "YUN CHANGHYUN",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771240.jpg",
 "loyalty_party_rank": 7,
 "session": 21,
 "office": "의원회관 826호",
-"absenteeism_rank": 249,
+"absenteeism_rank": 248,
 "website": "",
 "terms": 1,
 "party": "국민의힘"
 },
 "9771115": {
-"loyalty": 0.9629741994601331,
+"loyalty": 0.9629871206961015,
 "committees": [
 "외교통일위원회"
 ],
 "name_alt": "李庸瑄",
-"age": 64.2027397260274,
+"age": 64.20547945205479,
 "absenteeism_party_rank": 109,
 "name": "이용선",
 "district": "서울 양천구을",
@@ -7883,7 +7883,7 @@
 "phone": "02-784-7727",
 "totalmembers": 306,
 "email": "yslee9282@naver.com",
-"absenteeism": 0.07433742727860371,
+"absenteeism": 0.0742894056847545,
 "roman_name": "LEE YONGSUN",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771115.jpg",
@@ -7896,13 +7896,13 @@
 "party": "더불어민주당"
 },
 "9770982": {
-"loyalty": 0.9512540230966899,
+"loyalty": 0.9512717650360959,
 "committees": [
 "국방위원회",
 "윤리특별위원회"
 ],
 "name_alt": "金振杓",
-"age": 74.98082191780821,
+"age": 74.98356164383561,
 "absenteeism_party_rank": 82,
 "name": "김진표",
 "district": "경기 수원시무",
@@ -7912,7 +7912,7 @@
 "phone": "02-784-3807",
 "totalmembers": 306,
 "email": "",
-"absenteeism": 0.11247575953458311,
+"absenteeism": 0.11240310077519378,
 "roman_name": "KIM JINPYO",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770982.jpg",
@@ -7925,12 +7925,12 @@
 "party": "더불어민주당"
 },
 "9770927": {
-"loyalty": 0.9411875718209539,
+"loyalty": 0.9412067821524084,
 "committees": [
 "국방위원회"
 ],
 "name_alt": "奇東旻",
-"age": 56.172602739726024,
+"age": 56.175342465753424,
 "absenteeism_party_rank": 154,
 "name": "기동민",
 "district": "서울 성북구을",
@@ -7940,7 +7940,7 @@
 "phone": "02-784-3181",
 "totalmembers": 306,
 "email": "gidongmin@naver.com",
-"absenteeism": 0.01098901098901095,
+"absenteeism": 0.010981912144702788,
 "roman_name": "KI DONGMIN",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770927.jpg",
@@ -7958,21 +7958,21 @@
 "환경노동위원회"
 ],
 "name_alt": "權寧世",
-"age": 63.16986301369863,
+"age": 63.172602739726024,
 "absenteeism_party_rank": 20,
 "name": "권영세",
 "district": "서울 용산구",
-"loyalty_rank": 226,
+"loyalty_rank": 227,
 "dob": "1959-02-24",
 "member_id": "9771108",
 "phone": "02-784-3103",
 "totalmembers": 306,
 "email": "yskys2020@naver.com",
-"absenteeism": 0.5423400129282483,
+"absenteeism": 0.5426356589147288,
 "roman_name": "KWON YOUNGSE",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771108.jpg",
-"loyalty_party_rank": 26,
+"loyalty_party_rank": 27,
 "session": 21,
 "office": "의원회관 450호",
 "absenteeism_rank": 36,
@@ -7981,13 +7981,13 @@
 "party": "국민의힘"
 },
 "9771174": {
-"loyalty": 0.9272594174219386,
+"loyalty": 0.9272845915298316,
 "committees": [
 "교육위원회",
 "예산결산특별위원회"
 ],
 "name_alt": "姜得求",
-"age": 58.917808219178085,
+"age": 58.92054794520548,
 "absenteeism_party_rank": 117,
 "name": "강득구",
 "district": "경기 안양시만안구",
@@ -7997,7 +7997,7 @@
 "phone": "02-784-2747~9",
 "totalmembers": 306,
 "email": "mainsail440@daum.net",
-"absenteeism": 0.06658047834518421,
+"absenteeism": 0.06653746770025837,
 "roman_name": "KANG DEUKGU",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771174.jpg",
@@ -8015,7 +8015,7 @@
 "정무위원회"
 ],
 "name_alt": "權垠希",
-"age": 48.1945205479452,
+"age": 48.1972602739726,
 "absenteeism_party_rank": 1,
 "name": "권은희",
 "district": "비례대표",
@@ -8025,7 +8025,7 @@
 "phone": "02-784-1813",
 "totalmembers": 306,
 "email": "kwoneunhee0215@gmail.com",
-"absenteeism": 0.7569489334195216,
+"absenteeism": 0.7571059431524547,
 "roman_name": "KWON EUNHEE",
 "partysize": 3,
 "image_url": "http://www.assembly.go.kr/photo/9770977.jpg",
@@ -8038,12 +8038,12 @@
 "party": "국민의당"
 },
 "9771111": {
-"loyalty": 0.9755683858256536,
+"loyalty": 0.975576990021791,
 "committees": [
 "법제사법위원회"
 ],
 "name_alt": "金永培",
-"age": 55.136986301369866,
+"age": 55.13972602739726,
 "absenteeism_party_rank": 101,
 "name": "김영배",
 "district": "서울 성북구갑",
@@ -8053,7 +8053,7 @@
 "phone": "02-784-1521",
 "totalmembers": 306,
 "email": "yb7841521@gmail.com",
-"absenteeism": 0.0827407886231416,
+"absenteeism": 0.08268733850129195,
 "roman_name": "KIM YOUNGBAE",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771111.jpg",
@@ -8066,13 +8066,13 @@
 "party": "더불어민주당"
 },
 "9771182": {
-"loyalty": 0.9510053423872584,
+"loyalty": 0.9510238623870177,
 "committees": [
 "국회운영위원회",
 "과학기술정보방송통신위원회"
 ],
 "name_alt": "韓俊鎬",
-"age": 48.18082191780822,
+"age": 48.18356164383562,
 "absenteeism_party_rank": 63,
 "name": "한준호",
 "district": "경기 고양시을",
@@ -8082,7 +8082,7 @@
 "phone": "02-784-9160",
 "totalmembers": 306,
 "email": "juno.news2020@gmail.com",
-"absenteeism": 0.14544279250161607,
+"absenteeism": 0.14534883720930236,
 "roman_name": "HAN JUNHO",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771182.jpg",
@@ -8095,12 +8095,12 @@
 "party": "더불어민주당"
 },
 "9771107": {
-"loyalty": 0.9417228549242387,
+"loyalty": 0.9417438822188346,
 "committees": [
 "법제사법위원회"
 ],
 "name_alt": "朴省俊",
-"age": 53.010958904109586,
+"age": 53.013698630136986,
 "absenteeism_party_rank": 85,
 "name": "박성준",
 "district": "서울 중구성동구을",
@@ -8110,7 +8110,7 @@
 "phone": "02-784-8430",
 "totalmembers": 306,
 "email": "pksjoffice@naver.com",
-"absenteeism": 0.1047188106011635,
+"absenteeism": 0.10465116279069764,
 "roman_name": "PARK SUNGJOON",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771107.jpg",
@@ -8123,13 +8123,13 @@
 "party": "더불어민주당"
 },
 "9770723": {
-"loyalty": 0.8968571074585943,
+"loyalty": 0.8968904492705343,
 "committees": [
 "국방위원회",
 "정보위원회"
 ],
 "name_alt": "金敏基",
-"age": 55.9972602739726,
+"age": 56.0,
 "absenteeism_party_rank": 162,
 "name": "김민기",
 "district": "경기 용인시을",
@@ -8139,7 +8139,7 @@
 "phone": "02-784-1930",
 "totalmembers": 306,
 "email": "kimminki@assembly.go.kr",
-"absenteeism": 0.0006464124111182912,
+"absenteeism": 0.0006459948320413078,
 "roman_name": "KIM MINKI",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770723.jpg",
@@ -8157,7 +8157,7 @@
 "기획재정위원회"
 ],
 "name_alt": "梁香子",
-"age": 55.06301369863014,
+"age": 55.06575342465754,
 "absenteeism_party_rank": 79,
 "name": "양향자",
 "district": "광주 서구을",
@@ -8167,7 +8167,7 @@
 "phone": "02-784-8971",
 "totalmembers": 306,
 "email": "bestwest1967@gmail.com",
-"absenteeism": 0.11570782159017456,
+"absenteeism": 0.11627906976744184,
 "roman_name": "YANG HYANGJA",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771155.jpg",
@@ -8180,13 +8180,13 @@
 "party": "더불어민주당"
 },
 "9770883": {
-"loyalty": 0.763407856431871,
+"loyalty": 0.7636184413810906,
 "committees": [
 "과학기술정보방송통신위원회"
 ],
 "name_alt": "朱豪英",
-"age": 61.37808219178082,
-"absenteeism_party_rank": 14,
+"age": 61.38082191780822,
+"absenteeism_party_rank": 15,
 "name": "주호영",
 "district": "대구 수성구갑",
 "loyalty_rank": 284,
@@ -8195,26 +8195,26 @@
 "phone": "02-784-2055",
 "totalmembers": 306,
 "email": "7842055@naver.com",
-"absenteeism": 0.6373626373626373,
+"absenteeism": 0.6369509043927648,
 "roman_name": "JOO HOYOUNG",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9770883.jpg",
 "loyalty_party_rank": 84,
 "session": 21,
 "office": "의원회관 704호",
-"absenteeism_rank": 27,
+"absenteeism_rank": 28,
 "website": "http://www.joohoyoung.or.kr",
 "terms": 5,
 "party": "국민의힘"
 },
 "9771178": {
-"loyalty": 0.9782912891205874,
+"loyalty": 0.9782985025153302,
 "committees": [
 "행정안전위원회",
 "예산결산특별위원회"
 ],
 "name_alt": "梁基大",
-"age": 59.53972602739726,
+"age": 59.54246575342466,
 "absenteeism_party_rank": 145,
 "name": "양기대",
 "district": "경기 광명시을",
@@ -8224,7 +8224,7 @@
 "phone": "02-784-6195",
 "totalmembers": 306,
 "email": "8746195@gmail.com",
-"absenteeism": 0.02779573367808663,
+"absenteeism": 0.02777777777777779,
 "roman_name": "YANG KIDAE",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771178.jpg",
@@ -8243,7 +8243,7 @@
 "정무위원회"
 ],
 "name_alt": "姜旻局",
-"age": 51.15068493150685,
+"age": 51.153424657534245,
 "absenteeism_party_rank": 48,
 "name": "강민국",
 "district": "경남 진주시을",
@@ -8253,7 +8253,7 @@
 "phone": "02-784-0797",
 "totalmembers": 306,
 "email": "strongwind01@naver.com",
-"absenteeism": 0.37362637362637363,
+"absenteeism": 0.374031007751938,
 "roman_name": "KANG MINKUK",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771233.jpg",
@@ -8271,7 +8271,7 @@
 "국토교통위원회"
 ],
 "name_alt": "鄭正淳",
-"age": 64.26849315068493,
+"age": 64.27123287671233,
 "absenteeism_party_rank": 9,
 "name": "정정순",
 "district": "충북 청주시상당구",
@@ -8294,12 +8294,12 @@
 "party": "더불어민주당"
 },
 "9770934": {
-"loyalty": 0.9508866456010935,
+"loyalty": 0.9509028039678407,
 "committees": [
 "외교통일위원회"
 ],
 "name_alt": "金映豪",
-"age": 54.61917808219178,
+"age": 54.62191780821918,
 "absenteeism_party_rank": 149,
 "name": "김영호",
 "district": "서울 서대문구을",
@@ -8309,7 +8309,7 @@
 "phone": "02-784-4020~2",
 "totalmembers": 306,
 "email": "kim-youngho@naver.com",
-"absenteeism": 0.018099547511312264,
+"absenteeism": 0.018087855297157618,
 "roman_name": "KIM YOUNGHO",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770934.jpg",
@@ -8322,12 +8322,12 @@
 "party": "더불어민주당"
 },
 "9770871": {
-"loyalty": 0.9551200403765516,
+"loyalty": 0.955145232609591,
 "committees": [
 "과학기술정보방송통신위원회"
 ],
 "name_alt": "禹相虎",
-"age": 59.37260273972603,
+"age": 59.37534246575343,
 "absenteeism_party_rank": 13,
 "name": "우상호",
 "district": "서울 서대문구갑",
@@ -8337,7 +8337,7 @@
 "phone": "02-784-3071",
 "totalmembers": 306,
 "email": "wsh2016v@gmail.com",
-"absenteeism": 0.42469295410471886,
+"absenteeism": 0.42441860465116277,
 "roman_name": "WOO SANGHO",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770871.jpg",
@@ -8350,12 +8350,12 @@
 "party": "더불어민주당"
 },
 "9771158": {
-"loyalty": 0.9755630497178529,
+"loyalty": 0.975571471896384,
 "committees": [
 "과학기술정보방송통신위원회"
 ],
 "name_alt": "李龍彬",
-"age": 57.364383561643834,
+"age": 57.367123287671234,
 "absenteeism_party_rank": 120,
 "name": "이용빈",
 "district": "광주 광산구갑",
@@ -8365,7 +8365,7 @@
 "phone": "02-784-4291",
 "totalmembers": 306,
 "email": "gwangsan.lyb@gmail.com",
-"absenteeism": 0.06270200387847447,
+"absenteeism": 0.0626614987080103,
 "roman_name": "LEE YONGBIN",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771158.jpg",
@@ -8378,12 +8378,12 @@
 "party": "더불어민주당"
 },
 "9770933": {
-"loyalty": 0.9555915556585575,
+"loyalty": 0.9556070749476357,
 "committees": [
 "보건복지위원회"
 ],
 "name_alt": "姜炳遠",
-"age": 50.8,
+"age": 50.8027397260274,
 "absenteeism_party_rank": 108,
 "name": "강병원",
 "district": "서울 은평구을",
@@ -8393,7 +8393,7 @@
 "phone": "02-784-1422",
 "totalmembers": 306,
 "email": "kangbw89@gmail.com",
-"absenteeism": 0.07563025210084029,
+"absenteeism": 0.07558139534883723,
 "roman_name": "KANG BYUNGWON",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770933.jpg",
@@ -8406,40 +8406,40 @@
 "party": "더불어민주당"
 },
 "9771134": {
-"loyalty": 0.8526555642288497,
+"loyalty": 0.8527341269834464,
 "committees": [
 "정무위원회"
 ],
 "name_alt": "金熙坤",
-"age": 57.35890410958904,
-"absenteeism_party_rank": 42,
+"age": 57.36164383561644,
+"absenteeism_party_rank": 43,
 "name": "김희곤",
 "district": "부산 동래구",
-"loyalty_rank": 227,
+"loyalty_rank": 226,
 "dob": "1964-12-17",
 "member_id": "9771134",
 "phone": "02-784-6346",
 "totalmembers": 306,
 "email": "caesar1217@assembly.go.kr",
-"absenteeism": 0.39431157078215906,
+"absenteeism": 0.39405684754521964,
 "roman_name": "KIM HEEGON",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771134.jpg",
-"loyalty_party_rank": 27,
+"loyalty_party_rank": 26,
 "session": 21,
 "office": "의원회관 623호",
-"absenteeism_rank": 69,
+"absenteeism_rank": 70,
 "website": "",
 "terms": 1,
 "party": "국민의힘"
 },
 "9770764": {
-"loyalty": 0.9254031685691847,
+"loyalty": 0.9254310917711478,
 "committees": [
 "국방위원회"
 ],
 "name_alt": "閔洪喆",
-"age": 61.02465753424657,
+"age": 61.02739726027397,
 "absenteeism_party_rank": 66,
 "name": "민홍철",
 "district": "경남 김해시갑",
@@ -8449,7 +8449,7 @@
 "phone": "02-784-6490",
 "totalmembers": 306,
 "email": "",
-"absenteeism": 0.13703943115707817,
+"absenteeism": 0.1369509043927648,
 "roman_name": "MIN HONGCHUL",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770764.jpg",
@@ -8462,12 +8462,12 @@
 "party": "더불어민주당"
 },
 "9771249": {
-"loyalty": 0.8317438240470426,
+"loyalty": 0.8318131937370465,
 "committees": [
 "문화체육관광위원회"
 ],
 "name_alt": "金睿智",
-"age": 41.36986301369863,
+"age": 41.37260273972603,
 "absenteeism_party_rank": 77,
 "name": "김예지",
 "district": "비례대표",
@@ -8477,7 +8477,7 @@
 "phone": "02-784-9515",
 "totalmembers": 306,
 "email": "yeajijoy@gmail.com",
-"absenteeism": 0.21654815772462832,
+"absenteeism": 0.2164082687338501,
 "roman_name": "KIM YEAJI",
 "partysize": 106,
 "image_url": "http://www.assembly.go.kr/photo/9771249.jpg",
@@ -8490,22 +8490,22 @@
 "party": "국민의힘"
 },
 "9771278": {
-"loyalty": 0.9611449744469743,
+"loyalty": 0.9607819381693555,
 "committees": [
 "행정안전위원회"
 ],
 "name_alt": "李恩周",
-"age": 52.64931506849315,
+"age": 52.652054794520545,
 "absenteeism_party_rank": 3,
 "name": "이은주",
 "district": "비례대표",
-"loyalty_rank": 77,
+"loyalty_rank": 78,
 "dob": "1969-09-02",
 "member_id": "9771278",
 "phone": "02-784-5601",
 "totalmembers": 306,
 "email": "515.lee.ej@gmail.com",
-"absenteeism": 0.12281835811247577,
+"absenteeism": 0.12273901808785526,
 "roman_name": "LEE EUNJU",
 "partysize": 6,
 "image_url": "http://www.assembly.go.kr/photo/9771278.jpg",
@@ -8518,12 +8518,12 @@
 "party": "정의당"
 },
 "9771214": {
-"loyalty": 0.9422231653626788,
+"loyalty": 0.9422446797311914,
 "committees": [
 "보건복지위원회"
 ],
 "name_alt": "金元二",
-"age": 53.45753424657534,
+"age": 53.46027397260274,
 "absenteeism_party_rank": 69,
 "name": "김원이",
 "district": "전남 목포시",
@@ -8533,7 +8533,7 @@
 "phone": "02-784-5080~2",
 "totalmembers": 306,
 "email": "kimwoni923@gmail.com",
-"absenteeism": 0.13251454427925013,
+"absenteeism": 0.13242894056847543,
 "roman_name": "KIM WONI",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771214.jpg",
@@ -8546,12 +8546,12 @@
 "party": "더불어민주당"
 },
 "9771186": {
-"loyalty": 0.9531961381568886,
+"loyalty": 0.9532132229765282,
 "committees": [
 "법제사법위원회"
 ],
 "name_alt": "金容民",
-"age": 45.893150684931506,
+"age": 45.895890410958906,
 "absenteeism_party_rank": 81,
 "name": "김용민",
 "district": "경기 남양주시병",
@@ -8561,7 +8561,7 @@
 "phone": "02-784-1530",
 "totalmembers": 306,
 "email": "fopeopler76@gmail.com",
-"absenteeism": 0.11506140917905627,
+"absenteeism": 0.11498708010335912,
 "roman_name": "KIM YONGMIN",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771186.jpg",
@@ -8574,12 +8574,12 @@
 "party": "더불어민주당"
 },
 "9770755": {
-"loyalty": 0.9494466839114681,
+"loyalty": 0.9494648456925783,
 "committees": [
 "문화체육관광위원회"
 ],
 "name_alt": "都鍾煥",
-"age": 66.58082191780822,
+"age": 66.58356164383562,
 "absenteeism_party_rank": 89,
 "name": "도종환",
 "district": "충북 청주시흥덕구",
@@ -8589,7 +8589,7 @@
 "phone": "02-784-2537",
 "totalmembers": 306,
 "email": "djhpoem@assembly.go.kr",
-"absenteeism": 0.10084033613445376,
+"absenteeism": 0.10077519379844957,
 "roman_name": "DO JONGHWAN",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770755.jpg",
@@ -8608,7 +8608,7 @@
 "예산결산특별위원회"
 ],
 "name_alt": "梁貞淑",
-"age": 57.12602739726027,
+"age": 57.12876712328767,
 "absenteeism_party_rank": 7,
 "name": "양정숙",
 "district": "비례대표",
@@ -8618,7 +8618,7 @@
 "phone": "02-784-9130",
 "totalmembers": 306,
 "email": "jsyang7735@gmail.com",
-"absenteeism": 0.04330963154492562,
+"absenteeism": 0.043927648578811374,
 "roman_name": "YANG JUNGSUK",
 "partysize": 7,
 "image_url": "http://www.assembly.go.kr/photo/9771271.jpg",
@@ -8631,12 +8631,12 @@
 "party": "무소속"
 },
 "9770864": {
-"loyalty": 0.9225046536074647,
+"loyalty": 0.9225318879595243,
 "committees": [
 "과학기술정보방송통신위원회"
 ],
 "name_alt": "洪翼杓",
-"age": 54.43287671232877,
+"age": 54.43561643835616,
 "absenteeism_party_rank": 102,
 "name": "홍익표",
 "district": "서울 중구성동구갑",
@@ -8646,7 +8646,7 @@
 "phone": "02-784-6887",
 "totalmembers": 306,
 "email": "peace@peacehong.net",
-"absenteeism": 0.08080155138978673,
+"absenteeism": 0.08074935400516792,
 "roman_name": "HONG IHKPYO",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9770864.jpg",
@@ -8659,26 +8659,26 @@
 "party": "더불어민주당"
 },
 "9771154": {
-"loyalty": 0.9426665394478262,
+"loyalty": 0.9426894590811835,
 "committees": [
 "문화체육관광위원회"
 ],
 "name_alt": "李炳勳",
-"age": 65.10958904109589,
+"age": 65.11232876712329,
 "absenteeism_party_rank": 46,
 "name": "이병훈",
 "district": "광주 동구남구을",
-"loyalty_rank": 141,
+"loyalty_rank": 140,
 "dob": "1957-03-18",
 "member_id": "9771154",
 "phone": "02-784-6443",
 "totalmembers": 306,
 "email": "lbh0318@hanmail.net",
-"absenteeism": 0.19198448610213315,
+"absenteeism": 0.19186046511627908,
 "roman_name": "LEE BYUNGHOON",
 "partysize": 163,
 "image_url": "http://www.assembly.go.kr/photo/9771154.jpg",
-"loyalty_party_rank": 119,
+"loyalty_party_rank": 118,
 "session": 21,
 "office": "의원회관 443호",
 "absenteeism_rank": 147,
