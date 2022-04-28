@@ -6,9 +6,9 @@
     "startDt": "20200530",
     "endDt": "20240529",
     "sessionFrom": 379,
-    "sessionTo": 395
+    "sessionTo": 396
   },
-  "allCount": 1547,
+  "allCount": 1548,
   "billKindList": [{
     "billKindCode": "전체",
     "ord": "0",
@@ -71,6 +71,24 @@
     "ord": 999
   }],
   "resListVo": [{
+    "billid": "PRC_V2V2K0R4X2E7M1M6O4L5S0U6J2V7M5",
+    "billno": "2115420",
+    "billkindcd": "중요동의",
+    "age": "21",
+    "billname": "제395회국회(임시회) 회기결정의 건 에 대한 수정안",
+    "processdate": "2022-04-27",
+    "idmaster": 211586,
+    "sessioncd": 395,
+    "currentscd": 2,
+    "currcommitte": "본회의",
+    "mtcnt": 300,
+    "vtcnt": 212,
+    "agree": 143,
+    "withdraw": 4,
+    "disagree": 65,
+    "xx": 88,
+    "result": "원안가결"
+  }, {
     "billid": "PRC_Z2S2G0W4C1A5I1M4B3I2Z0K8J4A4I1",
     "billno": "2115295",
     "billkindcd": "법률안",
@@ -27924,7 +27942,7 @@
     "startDt": "20200530",
     "endDt": "20240529",
     "sessionFrom": 379,
-    "sessionTo": 395
+    "sessionTo": 396
   }, {
     "ord": 20,
     "age": "20",
@@ -27958,7 +27976,7 @@
     "orderColumn": "ProposeDt",
     "idMaster": "",
     "billNo": "",
-    "allCount": 1547,
+    "allCount": 1548,
     "searchType": "ABC",
     "billId": "",
     "srchHangul": "전체",
@@ -27991,7 +28009,7 @@
   "countVec": [{
     "committeecode": "소관위원회전체",
     "committeename": "소관위원회전체",
-    "billcount": 4797,
+    "billcount": 4799,
     "sortNo": -1
   }, {
     "committeecode": "9700005",
@@ -28114,7 +28132,7 @@
   }, {
     "committeecode": "8888888",
     "committeename": "본회의",
-    "billcount": 90
+    "billcount": 91
   }, {
     "committeecode": "9700533",
     "committeename": "중앙선거관리위원회 위원(조병현·조성대) 선출에 관한 인사청문특별위원회",
@@ -28130,7 +28148,7 @@
   }, {
     "committeecode": "9999999",
     "committeename": "미확정",
-    "billcount": 11,
+    "billcount": 12,
     "sortNo": 99999
   }]
 }
