@@ -8,7 +8,7 @@
     "sessionFrom": 379,
     "sessionTo": 396
   },
-  "allCount": 1548,
+  "allCount": 1550,
   "billKindList": [{
     "billKindCode": "전체",
     "ord": "0",
@@ -71,6 +71,42 @@
     "ord": 999
   }],
   "resListVo": [{
+    "billid": "PRC_E2I2Y0G4F3S0O1N5K5C1H2I9Y8W6D6",
+    "billno": "2115466",
+    "billkindcd": "중요동의",
+    "age": "21",
+    "billname": "제396회국회(임시회) 회기결정의 건 에 대한 수정안",
+    "processdate": "2022-04-30",
+    "idmaster": 212289,
+    "sessioncd": 396,
+    "currentscd": 1,
+    "currcommitte": "본회의",
+    "mtcnt": 293,
+    "vtcnt": 175,
+    "agree": 169,
+    "withdraw": 3,
+    "disagree": 3,
+    "xx": 118,
+    "result": "원안가결"
+  }, {
+    "billid": "PRC_J2I2G0I4G2T7M0T0A2M8J3B1X4P8U3",
+    "billno": "2115408",
+    "billkindcd": "법률안",
+    "age": "21",
+    "billname": "검찰청법 일부개정법률안(대안)",
+    "processdate": "2022-04-30",
+    "idmaster": 212284,
+    "sessioncd": 396,
+    "currentscd": 1,
+    "currcommitte": "법제사법위원회",
+    "mtcnt": 293,
+    "vtcnt": 177,
+    "agree": 172,
+    "withdraw": 2,
+    "disagree": 3,
+    "xx": 116,
+    "result": "수정가결"
+  }, {
     "billid": "PRC_V2V2K0R4X2E7M1M6O4L5S0U6J2V7M5",
     "billno": "2115420",
     "billkindcd": "중요동의",
@@ -27976,7 +28012,7 @@
     "orderColumn": "ProposeDt",
     "idMaster": "",
     "billNo": "",
-    "allCount": 1548,
+    "allCount": 1550,
     "searchType": "ABC",
     "billId": "",
     "srchHangul": "전체",
@@ -28009,7 +28045,7 @@
   "countVec": [{
     "committeecode": "소관위원회전체",
     "committeename": "소관위원회전체",
-    "billcount": 4806,
+    "billcount": 4813,
     "sortNo": -1
   }, {
     "committeecode": "9700005",
@@ -28019,7 +28055,7 @@
   }, {
     "committeecode": "9700006",
     "committeename": "법제사법위원회",
-    "billcount": 238,
+    "billcount": 244,
     "sortNo": 3002
   }, {
     "committeecode": "9700008",
@@ -28132,7 +28168,7 @@
   }, {
     "committeecode": "8888888",
     "committeename": "본회의",
-    "billcount": 98
+    "billcount": 99
   }, {
     "committeecode": "9700533",
     "committeename": "중앙선거관리위원회 위원(조병현·조성대) 선출에 관한 인사청문특별위원회",
