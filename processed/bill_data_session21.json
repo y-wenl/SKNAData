@@ -32923,6 +32923,31 @@
         "committee": "정치개혁 특별위원회"
     },
     {
+        "bill_id": "PRC_J2I2G0I4G2T7M0T0A2M8J3B1X4P8U3",
+        "bill_no": "2115408",
+        "vote_date": "2022-04-30",
+        "members_voting": 177,
+        "members_registered": 293,
+        "total_abstain": 2,
+        "total_oppose": 3,
+        "name": "검찰청법 일부개정법률안(대안)",
+        "id_master": 212284,
+        "result": "수정가결",
+        "total_votes": 177,
+        "session": 21,
+        "total_agree": 172,
+        "kind": "법률안",
+        "related_bill_ids": [
+            "PRC_S2G0Z1C2B2S9A1B1B0A8H4H4F1X5O3",
+            "PRC_D2W0P1K2E2Z9U1N1K1H1I2M8S8Q4U4",
+            "PRC_B2V0M1Y2F3M0N1P8Y0L5Y2R5O7W7F0",
+            "PRC_C2R2G0V4E1L5V1J1C5G8J0F1M3O4E0",
+            "PRC_B2B1F0O2E2M3M1Y9K2E7A3H7N6I2G1"
+        ],
+        "proposal_date": "2022-04-27",
+        "committee": "법제사법위원회"
+    },
+    {
         "bill_id": "PRC_V2V2K0R4X2E7M1M6O4L5S0U6J2V7M5",
         "bill_no": "2115420",
         "vote_date": "2022-04-27",
@@ -32939,6 +32964,25 @@
         "kind": "중요동의",
         "related_bill_ids": [],
         "proposal_date": "2022-04-27",
+        "committee": "본회의"
+    },
+    {
+        "bill_id": "PRC_E2I2Y0G4F3S0O1N5K5C1H2I9Y8W6D6",
+        "bill_no": "2115466",
+        "vote_date": "2022-04-30",
+        "members_voting": 175,
+        "members_registered": 293,
+        "total_abstain": 3,
+        "total_oppose": 3,
+        "name": "제396회국회(임시회) 회기결정의 건 에 대한 수정안",
+        "id_master": 212289,
+        "result": "원안가결",
+        "total_votes": 175,
+        "session": 21,
+        "total_agree": 169,
+        "kind": "중요동의",
+        "related_bill_ids": [],
+        "proposal_date": "2022-04-30",
         "committee": "본회의"
     }
 ]
