@@ -8,7 +8,7 @@
     "sessionFrom": 379,
     "sessionTo": 397
   },
-  "allCount": 1550,
+  "allCount": 1552,
   "billKindList": [{
     "billKindCode": "전체",
     "ord": "0",
@@ -71,6 +71,42 @@
     "ord": 999
   }],
   "resListVo": [{
+    "billid": "PRC_C2J2J0J4A2J9G1A2K3I8Z2W2M9D4D0",
+    "billno": "2115456",
+    "billkindcd": "결의안",
+    "age": "21",
+    "billname": "사법개혁 특별위원회 구성결의안",
+    "processdate": "2022-05-03",
+    "idmaster": 212991,
+    "sessioncd": 397,
+    "currentscd": 1,
+    "currcommitte": "국회운영위원회",
+    "mtcnt": 293,
+    "vtcnt": 177,
+    "agree": 173,
+    "withdraw": 2,
+    "disagree": 2,
+    "xx": 116,
+    "result": "원안가결"
+  }, {
+    "billid": "PRC_E2N2Q0G4P2G7P0Z0P3F0G1C1C8N7E9",
+    "billno": "2115407",
+    "billkindcd": "법률안",
+    "age": "21",
+    "billname": "형사소송법 일부개정법률안(대안)",
+    "processdate": "2022-05-03",
+    "idmaster": 212989,
+    "sessioncd": 397,
+    "currentscd": 1,
+    "currcommitte": "법제사법위원회",
+    "mtcnt": 293,
+    "vtcnt": 176,
+    "agree": 166,
+    "withdraw": 7,
+    "disagree": 3,
+    "xx": 117,
+    "result": "수정가결"
+  }, {
     "billid": "PRC_E2I2Y0G4F3S0O1N5K5C1H2I9Y8W6D6",
     "billno": "2115466",
     "billkindcd": "중요동의",
@@ -28012,7 +28048,7 @@
     "orderColumn": "ProposeDt",
     "idMaster": "",
     "billNo": "",
-    "allCount": 1550,
+    "allCount": 1552,
     "searchType": "ABC",
     "billId": "",
     "srchHangul": "전체",
@@ -28045,17 +28081,17 @@
   "countVec": [{
     "committeecode": "소관위원회전체",
     "committeename": "소관위원회전체",
-    "billcount": 4813,
+    "billcount": 4820,
     "sortNo": -1
   }, {
     "committeecode": "9700005",
     "committeename": "국회운영위원회",
-    "billcount": 64,
+    "billcount": 65,
     "sortNo": 3001
   }, {
     "committeecode": "9700006",
     "committeename": "법제사법위원회",
-    "billcount": 244,
+    "billcount": 249,
     "sortNo": 3002
   }, {
     "committeecode": "9700008",
@@ -28168,7 +28204,7 @@
   }, {
     "committeecode": "8888888",
     "committeename": "본회의",
-    "billcount": 99
+    "billcount": 100
   }, {
     "committeecode": "9700533",
     "committeename": "중앙선거관리위원회 위원(조병현·조성대) 선출에 관한 인사청문특별위원회",
