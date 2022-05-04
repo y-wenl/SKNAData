@@ -32923,6 +32923,30 @@
         "committee": "정치개혁 특별위원회"
     },
     {
+        "bill_id": "PRC_E2N2Q0G4P2G7P0Z0P3F0G1C1C8N7E9",
+        "bill_no": "2115407",
+        "vote_date": "2022-05-03",
+        "members_voting": 176,
+        "members_registered": 293,
+        "total_abstain": 7,
+        "total_oppose": 3,
+        "name": "형사소송법 일부개정법률안(대안)",
+        "id_master": 212989,
+        "result": "수정가결",
+        "total_votes": 176,
+        "session": 21,
+        "total_agree": 166,
+        "kind": "법률안",
+        "related_bill_ids": [
+            "PRC_U2C1Q0I8Y1U2U1D7U0W4Z0D3P5S4Q2",
+            "PRC_O2Y2Q0D4O1J5B1I2T2G0H2D9C2B9F6",
+            "PRC_K2Y1J0D1C2U5T0J9L4Y7Z5N1V5M0P8",
+            "PRC_Z2L1M0G2T2R3T1T9F2B6B2R8B6C6Q0"
+        ],
+        "proposal_date": "2022-04-27",
+        "committee": "법제사법위원회"
+    },
+    {
         "bill_id": "PRC_J2I2G0I4G2T7M0T0A2M8J3B1X4P8U3",
         "bill_no": "2115408",
         "vote_date": "2022-04-30",
@@ -32965,6 +32989,25 @@
         "related_bill_ids": [],
         "proposal_date": "2022-04-27",
         "committee": "본회의"
+    },
+    {
+        "bill_id": "PRC_C2J2J0J4A2J9G1A2K3I8Z2W2M9D4D0",
+        "bill_no": "2115456",
+        "vote_date": "2022-05-03",
+        "members_voting": 177,
+        "members_registered": 293,
+        "total_abstain": 2,
+        "total_oppose": 2,
+        "name": "사법개혁 특별위원회 구성결의안",
+        "id_master": 212991,
+        "result": "원안가결",
+        "total_votes": 177,
+        "session": 21,
+        "total_agree": 173,
+        "kind": "결의안",
+        "related_bill_ids": [],
+        "proposal_date": "2022-04-29",
+        "committee": "국회운영위원회"
     },
     {
         "bill_id": "PRC_E2I2Y0G4F3S0O1N5K5C1H2I9Y8W6D6",
