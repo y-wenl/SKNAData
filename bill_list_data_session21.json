@@ -8,7 +8,7 @@
     "sessionFrom": 379,
     "sessionTo": 397
   },
-  "allCount": 1552,
+  "allCount": 1553,
   "billKindList": [{
     "billKindCode": "전체",
     "ord": "0",
@@ -71,6 +71,24 @@
     "ord": 999
   }],
   "resListVo": [{
+    "billid": "PRC_E2C2M0L5W2F0I1T8X0C6D0N7O1P0K5",
+    "billno": "2115681",
+    "billkindcd": "중요동의",
+    "age": "21",
+    "billname": "의사일정 변경동의의 건",
+    "processdate": "2022-05-20",
+    "idmaster": 214401,
+    "sessioncd": 397,
+    "currentscd": 3,
+    "currcommitte": "본회의",
+    "mtcnt": 292,
+    "vtcnt": 260,
+    "agree": 158,
+    "withdraw": 2,
+    "disagree": 100,
+    "xx": 32,
+    "result": "원안가결"
+  }, {
     "billid": "PRC_C2J2J0J4A2J9G1A2K3I8Z2W2M9D4D0",
     "billno": "2115456",
     "billkindcd": "결의안",
@@ -28048,7 +28066,7 @@
     "orderColumn": "ProposeDt",
     "idMaster": "",
     "billNo": "",
-    "allCount": 1552,
+    "allCount": 1553,
     "searchType": "ABC",
     "billId": "",
     "srchHangul": "전체",
@@ -28081,7 +28099,7 @@
   "countVec": [{
     "committeecode": "소관위원회전체",
     "committeename": "소관위원회전체",
-    "billcount": 4821,
+    "billcount": 4825,
     "sortNo": -1
   }, {
     "committeecode": "9700005",
@@ -28194,17 +28212,18 @@
     "billcount": 80,
     "sortNo": 3037
   }, {
-    "committeecode": "9700530",
-    "committeename": "대법관(이흥구) 임명동의에 관한 인사청문특별위원회",
-    "billcount": 1
+    "committeecode": "9700548",
+    "committeename": "국무총리후보자(한덕수)에 관한 인사청문특별위원회",
+    "billcount": 1,
+    "sortNo": 3039
   }, {
-    "committeecode": "9700537",
-    "committeename": "대법관(천대엽) 임명동의에 관한 인사청문특별위원회",
+    "committeecode": "9700529",
+    "committeename": "국회상임위원회 위원 정수에 관한 규칙 개정 특별위원회",
     "billcount": 1
   }, {
     "committeecode": "8888888",
     "committeename": "본회의",
-    "billcount": 100
+    "billcount": 103
   }, {
     "committeecode": "9700533",
     "committeename": "중앙선거관리위원회 위원(조병현·조성대) 선출에 관한 인사청문특별위원회",
@@ -28214,8 +28233,12 @@
     "committeename": "국무총리(김부겸) 임명동의에 관한 인사청문특별위원회",
     "billcount": 1
   }, {
-    "committeecode": "9700529",
-    "committeename": "국회상임위원회 위원 정수에 관한 규칙 개정 특별위원회",
+    "committeecode": "9700537",
+    "committeename": "대법관(천대엽) 임명동의에 관한 인사청문특별위원회",
+    "billcount": 1
+  }, {
+    "committeecode": "9700530",
+    "committeename": "대법관(이흥구) 임명동의에 관한 인사청문특별위원회",
     "billcount": 1
   }, {
     "committeecode": "9999999",
