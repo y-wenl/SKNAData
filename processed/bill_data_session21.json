@@ -33027,5 +33027,24 @@
         "related_bill_ids": [],
         "proposal_date": "2022-04-30",
         "committee": "본회의"
+    },
+    {
+        "bill_id": "PRC_E2C2M0L5W2F0I1T8X0C6D0N7O1P0K5",
+        "bill_no": "2115681",
+        "vote_date": "2022-05-20",
+        "members_voting": 260,
+        "members_registered": 292,
+        "total_abstain": 2,
+        "total_oppose": 100,
+        "name": "의사일정 변경동의의 건",
+        "id_master": 214401,
+        "result": "원안가결",
+        "total_votes": 260,
+        "session": 21,
+        "total_agree": 158,
+        "kind": "중요동의",
+        "related_bill_ids": [],
+        "proposal_date": "2022-05-20",
+        "committee": "본회의"
     }
 ]
