@@ -5200,5 +5200,22 @@
     "office": "의원회관 911호",
     "website": "",
     "email": "ansung24@naver.com"
+  },
+  "9771294": {
+    "name": "노용호",
+    "name_alt": "魯容昊",
+    "image_url": "http://www.assembly.go.kr/photo/9771294.jpg",
+    "party": "국민의힘",
+    "district": "비례대표",
+    "session": 21,
+    "member_id": "9771294",
+    "roman_name": "RHO YONGHO",
+    "dob": "1971-05-14",
+    "committees": ["기획재정위원회"],
+    "terms": 1,
+    "phone": "",
+    "office": "",
+    "website": "",
+    "email": ""
   }
 }
