@@ -30421,7 +30421,7 @@
   "countVec": [{
     "committeecode": "소관위원회전체",
     "committeename": "소관위원회전체",
-    "billcount": 5118,
+    "billcount": 5119,
     "sortNo": -1
   }, {
     "committeecode": "9700005",
@@ -30446,7 +30446,7 @@
   }, {
     "committeecode": "9700512",
     "committeename": "교육위원회",
-    "billcount": 211,
+    "billcount": 212,
     "sortNo": 3005
   }, {
     "committeecode": "9700479",
@@ -30514,26 +30514,6 @@
     "billcount": 102,
     "sortNo": 3030
   }, {
-    "committeecode": "9700541",
-    "committeename": "대법관(오경미) 임명동의에 관한 인사청문특별위원회",
-    "billcount": 1,
-    "sortNo": 3033
-  }, {
-    "committeecode": "9700543",
-    "committeename": "감사원장(최재해) 임명동의에 관한 인사청문특별위원회",
-    "billcount": 1,
-    "sortNo": 3034
-  }, {
-    "committeecode": "9700545",
-    "committeename": "중앙선거관리위원회 위원(문상부) 선출에 관한 인사청문특별위원회",
-    "billcount": 1,
-    "sortNo": 3036
-  }, {
-    "committeecode": "9700546",
-    "committeename": "정치개혁 특별위원회",
-    "billcount": 80,
-    "sortNo": 3037
-  }, {
     "committeecode": "9700548",
     "committeename": "국무총리후보자(한덕수)에 관한 인사청문특별위원회",
     "billcount": 1,
@@ -30547,12 +30527,8 @@
     "committeename": "본회의",
     "billcount": 104
   }, {
-    "committeecode": "9700533",
-    "committeename": "중앙선거관리위원회 위원(조병현·조성대) 선출에 관한 인사청문특별위원회",
-    "billcount": 2
-  }, {
-    "committeecode": "9700540",
-    "committeename": "국무총리(김부겸) 임명동의에 관한 인사청문특별위원회",
+    "committeecode": "9700541",
+    "committeename": "대법관(오경미) 임명동의에 관한 인사청문특별위원회",
     "billcount": 1
   }, {
     "committeecode": "9700537",
@@ -30561,6 +30537,26 @@
   }, {
     "committeecode": "9700530",
     "committeename": "대법관(이흥구) 임명동의에 관한 인사청문특별위원회",
+    "billcount": 1
+  }, {
+    "committeecode": "9700546",
+    "committeename": "정치개혁 특별위원회",
+    "billcount": 80
+  }, {
+    "committeecode": "9700545",
+    "committeename": "중앙선거관리위원회 위원(문상부) 선출에 관한 인사청문특별위원회",
+    "billcount": 1
+  }, {
+    "committeecode": "9700533",
+    "committeename": "중앙선거관리위원회 위원(조병현·조성대) 선출에 관한 인사청문특별위원회",
+    "billcount": 2
+  }, {
+    "committeecode": "9700540",
+    "committeename": "국무총리(김부겸) 임명동의에 관한 인사청문특별위원회",
+    "billcount": 1
+  }, {
+    "committeecode": "9700543",
+    "committeename": "감사원장(최재해) 임명동의에 관한 인사청문특별위원회",
     "billcount": 1
   }, {
     "committeecode": "9999999",
