@@ -6,7 +6,7 @@
     "startDt": "20200530",
     "endDt": "20240529",
     "sessionFrom": 379,
-    "sessionTo": 397
+    "sessionTo": 398
   },
   "allCount": 1682,
   "billKindList": [{
@@ -30354,7 +30354,7 @@
     "startDt": "20200530",
     "endDt": "20240529",
     "sessionFrom": 379,
-    "sessionTo": 397
+    "sessionTo": 398
   }, {
     "ord": 20,
     "age": "20",
@@ -30421,7 +30421,7 @@
   "countVec": [{
     "committeecode": "소관위원회전체",
     "committeename": "소관위원회전체",
-    "billcount": 5119,
+    "billcount": 5120,
     "sortNo": -1
   }, {
     "committeecode": "9700005",
@@ -30561,7 +30561,7 @@
   }, {
     "committeecode": "9999999",
     "committeename": "미확정",
-    "billcount": 12,
+    "billcount": 13,
     "sortNo": 99999
   }]
 }
