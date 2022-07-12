@@ -30421,7 +30421,7 @@
   "countVec": [{
     "committeecode": "소관위원회전체",
     "committeename": "소관위원회전체",
-    "billcount": 5120,
+    "billcount": 5121,
     "sortNo": -1
   }, {
     "committeecode": "9700005",
@@ -30561,7 +30561,7 @@
   }, {
     "committeecode": "9999999",
     "committeename": "미확정",
-    "billcount": 13,
+    "billcount": 14,
     "sortNo": 99999
   }]
 }
