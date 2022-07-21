@@ -35697,5 +35697,24 @@
         "result": "원안가결",
         "kind": "법률안",
         "committee": "산업통상자원중소벤처기업위원회"
+    },
+    {
+        "bill_id": "PRC_A2H2A0J7T2U0C0J8Q4K0I5O7D3J7T6",
+        "bill_no": "2116534",
+        "id_master": 215692,
+        "session": 21,
+        "name": "민생경제안정 특별위원회 구성의 건",
+        "related_bill_ids": [],
+        "proposal_date": "2022-07-20",
+        "vote_date": "2022-07-20",
+        "members_voting": 258,
+        "members_registered": 299,
+        "total_votes": 258,
+        "total_agree": 257,
+        "total_oppose": 0,
+        "total_abstain": 1,
+        "result": "원안가결",
+        "kind": "중요동의",
+        "committee": "본회의"
     }
 ]
