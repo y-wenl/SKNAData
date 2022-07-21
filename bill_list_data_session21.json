@@ -8,7 +8,7 @@
     "sessionFrom": 379,
     "sessionTo": 398
   },
-  "allCount": 1682,
+  "allCount": 1683,
   "billKindList": [{
     "billKindCode": "전체",
     "ord": "0",
@@ -71,6 +71,24 @@
     "ord": 999
   }],
   "resListVo": [{
+    "billid": "PRC_A2H2A0J7T2U0C0J8Q4K0I5O7D3J7T6",
+    "billno": "2116534",
+    "billkindcd": "중요동의",
+    "age": "21",
+    "billname": "민생경제안정 특별위원회 구성의 건",
+    "processdate": "2022-07-20",
+    "idmaster": 215692,
+    "sessioncd": 398,
+    "currentscd": 2,
+    "currcommitte": "본회의",
+    "mtcnt": 299,
+    "vtcnt": 258,
+    "agree": 257,
+    "withdraw": 1,
+    "disagree": 0,
+    "xx": 41,
+    "result": "원안가결"
+  }, {
     "billid": "PRC_D2I2D0X5U0U6M1D3T5R0I3F4W3M3U4",
     "billno": "2115768",
     "billkindcd": "법률안",
@@ -30388,7 +30406,7 @@
     "orderColumn": "ProposeDt",
     "idMaster": "",
     "billNo": "",
-    "allCount": 1682,
+    "allCount": 1683,
     "searchType": "ABC",
     "billId": "",
     "srchHangul": "전체",
@@ -30421,7 +30439,7 @@
   "countVec": [{
     "committeecode": "소관위원회전체",
     "committeename": "소관위원회전체",
-    "billcount": 5122,
+    "billcount": 5127,
     "sortNo": -1
   }, {
     "committeecode": "9700005",
@@ -30525,7 +30543,7 @@
   }, {
     "committeecode": "8888888",
     "committeename": "본회의",
-    "billcount": 104
+    "billcount": 109
   }, {
     "committeecode": "9700541",
     "committeename": "대법관(오경미) 임명동의에 관한 인사청문특별위원회",
