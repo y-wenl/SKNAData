@@ -8,7 +8,7 @@
     "sessionFrom": 379,
     "sessionTo": 398
   },
-  "allCount": 1683,
+  "allCount": 1686,
   "billKindList": [{
     "billKindCode": "전체",
     "ord": "0",
@@ -71,6 +71,60 @@
     "ord": 999
   }],
   "resListVo": [{
+    "billid": "PRC_S2W2S0Y7V2G2S1S3D4M9R0U7E1E0H5",
+    "billno": "2116617",
+    "billkindcd": "중요동의",
+    "age": "21",
+    "billname": "연금개혁 특별위원회 구성의 건",
+    "processdate": "2022-07-22",
+    "idmaster": 215851,
+    "sessioncd": 398,
+    "currentscd": 4,
+    "currcommitte": "본회의",
+    "mtcnt": 299,
+    "vtcnt": 199,
+    "agree": 197,
+    "withdraw": 2,
+    "disagree": 0,
+    "xx": 100,
+    "result": "원안가결"
+  }, {
+    "billid": "PRC_Q2Y2P0D7S2W2Y1P3W4D7A2D3R6N7P5",
+    "billno": "2116616",
+    "billkindcd": "중요동의",
+    "age": "21",
+    "billname": "정치개혁 특별위원회 구성의 건",
+    "processdate": "2022-07-22",
+    "idmaster": 215850,
+    "sessioncd": 398,
+    "currentscd": 4,
+    "currcommitte": "본회의",
+    "mtcnt": 299,
+    "vtcnt": 199,
+    "agree": 198,
+    "withdraw": 1,
+    "disagree": 0,
+    "xx": 100,
+    "result": "원안가결"
+  }, {
+    "billid": "PRC_L2V2E0Y7M2Q2T1R3H4O6O4C9I7M6H3",
+    "billno": "2116615",
+    "billkindcd": "중요동의",
+    "age": "21",
+    "billname": "사법개혁 특별위원회 명칭 등 변경 및 활동기간 연장의 건",
+    "processdate": "2022-07-22",
+    "idmaster": 215849,
+    "sessioncd": 398,
+    "currentscd": 4,
+    "currcommitte": "본회의",
+    "mtcnt": 299,
+    "vtcnt": 199,
+    "agree": 191,
+    "withdraw": 3,
+    "disagree": 5,
+    "xx": 100,
+    "result": "원안가결"
+  }, {
     "billid": "PRC_A2H2A0J7T2U0C0J8Q4K0I5O7D3J7T6",
     "billno": "2116534",
     "billkindcd": "중요동의",
@@ -30406,7 +30460,7 @@
     "orderColumn": "ProposeDt",
     "idMaster": "",
     "billNo": "",
-    "allCount": 1683,
+    "allCount": 1686,
     "searchType": "ABC",
     "billId": "",
     "srchHangul": "전체",
@@ -30439,7 +30493,7 @@
   "countVec": [{
     "committeecode": "소관위원회전체",
     "committeename": "소관위원회전체",
-    "billcount": 5127,
+    "billcount": 5133,
     "sortNo": -1
   }, {
     "committeecode": "9700005",
@@ -30543,7 +30597,7 @@
   }, {
     "committeecode": "8888888",
     "committeename": "본회의",
-    "billcount": 109
+    "billcount": 114
   }, {
     "committeecode": "9700541",
     "committeename": "대법관(오경미) 임명동의에 관한 인사청문특별위원회",
@@ -30579,7 +30633,7 @@
   }, {
     "committeecode": "9999999",
     "committeename": "미확정",
-    "billcount": 15,
+    "billcount": 16,
     "sortNo": 99999
   }]
 }
